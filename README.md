@@ -4,7 +4,7 @@ Power BI executive analytics portfolio pack with synthetic data, data model, DAX
 
 ## Status
 
-Portfolio pack. Synthetic/public-safe data is included. Dashboard screenshots and hosted Pages showcase are not published yet. License posture: all rights reserved / portfolio-use notice by default.
+Portfolio pack. Synthetic/public-safe data is included. A hosted static showcase shell is available through GitHub Pages. Dashboard screenshots are still pending. License posture: all rights reserved / portfolio-use notice by default.
 
 ## What It Contains
 
@@ -17,9 +17,12 @@ Portfolio pack. Synthetic/public-safe data is included. Dashboard screenshots an
 
 ## Proof
 
+![Lumiere static showcase shell](docs/assets/lumiere-site-shell-screenshot-2026-06-02.png)
+
 - Data safety: synthetic/public-safe data verified in the local proof record.
-- Dashboard screenshots are pending for executive overview, media performance, MMM insights, and brand equity.
-- Hosted showcase is not enabled; no homepage is set until screenshots, image paths, and the Pages URL are verified.
+- Static showcase shell: `https://arochab.github.io/lumiere-portfolio-pack/`.
+- Real site-shell screenshot: `docs/assets/lumiere-site-shell-screenshot-2026-06-02.png`.
+- Power BI dashboard screenshots are pending for executive overview, media performance, MMM insights, and brand equity.
 
 ## Tech Stack
 
@@ -32,11 +35,13 @@ Portfolio pack. Synthetic/public-safe data is included. Dashboard screenshots an
 
 - Open the Power BI build guide in `docs/`.
 - Use the data dictionary to understand the synthetic dataset.
-- Open `site/index.html` locally for the static showcase shell.
+- View the hosted static showcase shell on GitHub Pages.
+- Or open `site/index.html` locally.
 
 ## Notes
 
 - This pack represents the design and structure of a portfolio, not a live data feed.
+- The hosted showcase is a static shell, not an exported Power BI report.
 - Screenshots must be exported from synthetic or approved public-safe data before they are added.
 - Do not load private client data into the public pack.
 
