@@ -1,10 +1,10 @@
 # Lumiere Portfolio Pack
 
-Power BI executive analytics portfolio pack: data model, DAX/power query assets, theme, build guide, and a GitHub Pages showcase.
+Power BI executive analytics portfolio pack with synthetic data, data model, DAX/Power Query assets, theme, build guide, and a static showcase shell.
 
 ## Status
 
-Portfolio pack. Data is synthetic/public-safe. Screenshots are pending. License posture: all rights reserved / portfolio-use notice by default.
+Portfolio pack. Synthetic/public-safe data is included. Dashboard screenshots and hosted Pages showcase are not published yet. License posture: all rights reserved / portfolio-use notice by default.
 
 ## What It Contains
 
@@ -12,17 +12,14 @@ Portfolio pack. Data is synthetic/public-safe. Screenshots are pending. License 
 - Power BI build guide.
 - DAX measures and power query transforms.
 - Theme file.
-- GitHub Pages-ready site structure for overview, media performance, MMM insights, and brand equity.
+- Static showcase shell for overview, media performance, MMM insights, and brand equity.
 - Synthetic CSV data for portfolio demonstration.
 
 ## Proof
 
 - Data safety: synthetic/public-safe data verified in the local proof record.
-- Executive overview screenshot: pending.
-- Media performance screenshot: pending.
-- MMM insights screenshot: pending.
-- Brand equity screenshot: pending.
-- Live GitHub Pages site: pending; no homepage is set until the site URL and image paths are verified.
+- Dashboard screenshots are pending for executive overview, media performance, MMM insights, and brand equity.
+- Hosted showcase is not enabled; no homepage is set until screenshots, image paths, and the Pages URL are verified.
 
 ## Tech Stack
 
