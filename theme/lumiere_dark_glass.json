@@ -1,0 +1,107 @@
+{
+  "name": "LUMIÈRE Dark Glass",
+  "dataColors": [
+    "#FFD700",
+    "#FF6B8A",
+    "#1A1A2E",
+    "#B8336A",
+    "#5C80BC",
+    "#00C2FF",
+    "#C7A27C",
+    "#2E8B57",
+    "#F7F7FF",
+    "#9B9B9B"
+  ],
+  "background": "#0B0F17",
+  "foreground": "#F7F7FF",
+  "tableAccent": "#FFD700",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 12,
+            "fontColor": {
+              "solid": {
+                "color": "#F7F7FF"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#101826"
+              }
+            },
+            "transparency": 15
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#1C2740"
+              }
+            }
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": true,
+            "foregroundColor": {
+              "solid": {
+                "color": "#C7D2FE"
+              }
+            },
+            "backgroundColor": {
+              "solid": {
+                "color": "#0B0F17"
+              }
+            },
+            "transparency": 70
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E6E8F0"
+              }
+            },
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#C9CFDA"
+              }
+            },
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "legend": [
+          {
+            "titleColor": {
+              "solid": {
+                "color": "#F7F7FF"
+              }
+            },
+            "labelColor": {
+              "solid": {
+                "color": "#C9CFDA"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

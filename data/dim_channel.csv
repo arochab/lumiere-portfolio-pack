@@ -1,0 +1,7 @@
+channel_key,channel_code,channel_name,channel_group,funnel_stage,is_paid
+1,PAID_SOC,Paid Social,Digital,Upper/Mid,True
+2,PAID_SEA,Paid Search,Digital,Lower,True
+3,PROG,Programmatic,Digital,Mid,True
+4,TV,TV,Offline,Upper,True
+5,INFL,Influencer,Digital,Upper/Mid,True
+6,RET_MED,Retail Media,Digital,Lower,True

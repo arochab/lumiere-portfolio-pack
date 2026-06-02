@@ -1,0 +1,9 @@
+brand_key,brand_code,brand_name,brand_category,brand_tier,launch_year,brand_color_hex,is_active
+1,LEC,Lumière Éclat,Skincare,Prestige,2012,#FFD700,True
+2,AUS,Aurora Skin,Skincare,Masstige,2018,#FF6B8A,True
+3,NAB,Noir Absolu,Fragrance,Prestige,2008,#1A1A2E,True
+4,VBL,Velvet Bloom,Fragrance,Masstige,2015,#B8336A,True
+5,PRS,Prisme Studio,Make-up,Prestige,2011,#5C80BC,True
+6,CPL,Color Pop Lab,Make-up,Mass,2020,#00C2FF,True
+7,SDR,Soie Dorée,Hair Care,Prestige,2006,#C7A27C,True
+8,BTN,Botaniq,Hair Care,Mass,2019,#2E8B57,True

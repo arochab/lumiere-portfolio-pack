@@ -1,0 +1,29 @@
+// Create a parameter in Power BI: BasePath (Text)
+// Example (Google Drive for Desktop on Windows):
+// G:\My Drive\LUMIERE_PORTFOLIO\data
+
+// DIM_Date
+let
+    Source = Csv.Document(File.Contents(BasePath & "\dim_date.csv"), [Delimiter=",", Columns=13, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Promoted, {
+        {"full_date", type date},
+        {"date_key", Int64.Type},
+        {"year", Int64.Type},
+        {"quarter", type text},
+        {"month_number", Int64.Type},
+        {"month_name", type text},
+        {"week_number", Int64.Type},
+        {"day_of_week", type text},
+        {"is_weekend", type logical},
+        {"is_holiday_peak", type logical},
+        {"fiscal_year", Int64.Type},
+        {"fiscal_quarter", type text},
+        {"year_month", type text},
+        {"month_start_date", type date},
+        {"month_start_key", Int64.Type}
+    })
+in
+    Typed
+
+// Repeat pattern for other tables (change filename + types).

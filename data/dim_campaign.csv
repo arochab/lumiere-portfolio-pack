@@ -1,0 +1,1537 @@
+campaign_key,campaign_code,campaign_name,brand_key,channel_key,market_key,start_date,end_date,objective,creative_theme,budget_plan_eur
+1,LEC_FR_PAID_SOC_2024Q1,Lumière Éclat — FR — Paid Social — 2024 Q1,1,1,1,2024-01-01,2024-03-31,Awareness,Signature Scent,98166.35
+2,LEC_UK_PAID_SOC_2024Q1,Lumière Éclat — UK — Paid Social — 2024 Q1,1,1,2,2024-01-01,2024-03-31,Awareness,Signature Scent,111217.09
+3,LEC_US_PAID_SOC_2024Q1,Lumière Éclat — US — Paid Social — 2024 Q1,1,1,3,2024-01-01,2024-03-31,Awareness,Cinematic Launch,131408.97
+4,LEC_DE_PAID_SOC_2024Q1,Lumière Éclat — DE — Paid Social — 2024 Q1,1,1,4,2024-01-01,2024-03-31,Consideration,Signature Scent,108581.93
+5,LEC_FR_PAID_SEA_2024Q1,Lumière Éclat — FR — Paid Search — 2024 Q1,1,2,1,2024-01-01,2024-03-31,Sales,Glow Routine,80040.66
+6,LEC_UK_PAID_SEA_2024Q1,Lumière Éclat — UK — Paid Search — 2024 Q1,1,2,2,2024-01-01,2024-03-31,Sales,Night Ritual,96235.02
+7,LEC_US_PAID_SEA_2024Q1,Lumière Éclat — US — Paid Search — 2024 Q1,1,2,3,2024-01-01,2024-03-31,Sales,Silk Repair,102484.91
+8,LEC_DE_PAID_SEA_2024Q1,Lumière Éclat — DE — Paid Search — 2024 Q1,1,2,4,2024-01-01,2024-03-31,Sales,Bold Color,74601.44
+9,LEC_FR_PROG_2024Q1,Lumière Éclat — FR — Programmatic — 2024 Q1,1,3,1,2024-01-01,2024-03-31,Consideration,Fresh Botanics,97778.83
+10,LEC_UK_PROG_2024Q1,Lumière Éclat — UK — Programmatic — 2024 Q1,1,3,2,2024-01-01,2024-03-31,Traffic,Signature Scent,122790.86
+11,LEC_US_PROG_2024Q1,Lumière Éclat — US — Programmatic — 2024 Q1,1,3,3,2024-01-01,2024-03-31,Consideration,Signature Scent,123728.79
+12,LEC_DE_PROG_2024Q1,Lumière Éclat — DE — Programmatic — 2024 Q1,1,3,4,2024-01-01,2024-03-31,Consideration,Studio Pro,125767.84
+13,LEC_FR_TV_2024Q1,Lumière Éclat — FR — TV — 2024 Q1,1,4,1,2024-01-01,2024-03-31,Brand Lift,Signature Scent,272517.48
+14,LEC_UK_TV_2024Q1,Lumière Éclat — UK — TV — 2024 Q1,1,4,2,2024-01-01,2024-03-31,Awareness,Bold Color,271889.46
+15,LEC_US_TV_2024Q1,Lumière Éclat — US — TV — 2024 Q1,1,4,3,2024-01-01,2024-03-31,Brand Lift,Glow Routine,363945.57
+16,LEC_DE_TV_2024Q1,Lumière Éclat — DE — TV — 2024 Q1,1,4,4,2024-01-01,2024-03-31,Brand Lift,Silk Repair,342075.88
+17,LEC_FR_INFL_2024Q1,Lumière Éclat — FR — Influencer — 2024 Q1,1,5,1,2024-01-01,2024-03-31,Awareness,Night Ritual,60071.12
+18,LEC_UK_INFL_2024Q1,Lumière Éclat — UK — Influencer — 2024 Q1,1,5,2,2024-01-01,2024-03-31,Awareness,Bold Color,59511.47
+19,LEC_US_INFL_2024Q1,Lumière Éclat — US — Influencer — 2024 Q1,1,5,3,2024-01-01,2024-03-31,Awareness,Glow Routine,71351.14
+20,LEC_DE_INFL_2024Q1,Lumière Éclat — DE — Influencer — 2024 Q1,1,5,4,2024-01-01,2024-03-31,Awareness,Glow Routine,65684.01
+21,LEC_FR_RET_MED_2024Q1,Lumière Éclat — FR — Retail Media — 2024 Q1,1,6,1,2024-01-01,2024-03-31,Sales,Bold Color,96232.8
+22,LEC_UK_RET_MED_2024Q1,Lumière Éclat — UK — Retail Media — 2024 Q1,1,6,2,2024-01-01,2024-03-31,Sales,Silk Repair,86703.36
+23,LEC_US_RET_MED_2024Q1,Lumière Éclat — US — Retail Media — 2024 Q1,1,6,3,2024-01-01,2024-03-31,Sales,Signature Scent,109825.07
+24,LEC_DE_RET_MED_2024Q1,Lumière Éclat — DE — Retail Media — 2024 Q1,1,6,4,2024-01-01,2024-03-31,Sales,Bold Color,81943.61
+25,AUS_FR_PAID_SOC_2024Q1,Aurora Skin — FR — Paid Social — 2024 Q1,2,1,1,2024-01-01,2024-03-31,Awareness,Silk Repair,74921.76
+26,AUS_UK_PAID_SOC_2024Q1,Aurora Skin — UK — Paid Social — 2024 Q1,2,1,2,2024-01-01,2024-03-31,Consideration,Glow Routine,75164.81
+27,AUS_US_PAID_SOC_2024Q1,Aurora Skin — US — Paid Social — 2024 Q1,2,1,3,2024-01-01,2024-03-31,Consideration,Signature Scent,101377.38
+28,AUS_DE_PAID_SOC_2024Q1,Aurora Skin — DE — Paid Social — 2024 Q1,2,1,4,2024-01-01,2024-03-31,Awareness,Silk Repair,91074.37
+29,AUS_FR_PAID_SEA_2024Q1,Aurora Skin — FR — Paid Search — 2024 Q1,2,2,1,2024-01-01,2024-03-31,Sales,Bold Color,69657.48
+30,AUS_UK_PAID_SEA_2024Q1,Aurora Skin — UK — Paid Search — 2024 Q1,2,2,2,2024-01-01,2024-03-31,Conversion,Glow Routine,63375.38
+31,AUS_US_PAID_SEA_2024Q1,Aurora Skin — US — Paid Search — 2024 Q1,2,2,3,2024-01-01,2024-03-31,Conversion,Silk Repair,77806.92
+32,AUS_DE_PAID_SEA_2024Q1,Aurora Skin — DE — Paid Search — 2024 Q1,2,2,4,2024-01-01,2024-03-31,Sales,Fresh Botanics,73675.85
+33,AUS_FR_PROG_2024Q1,Aurora Skin — FR — Programmatic — 2024 Q1,2,3,1,2024-01-01,2024-03-31,Traffic,Silk Repair,96018.98
+34,AUS_UK_PROG_2024Q1,Aurora Skin — UK — Programmatic — 2024 Q1,2,3,2,2024-01-01,2024-03-31,Consideration,Fresh Botanics,93389.08
+35,AUS_US_PROG_2024Q1,Aurora Skin — US — Programmatic — 2024 Q1,2,3,3,2024-01-01,2024-03-31,Traffic,Cinematic Launch,106611.83
+36,AUS_DE_PROG_2024Q1,Aurora Skin — DE — Programmatic — 2024 Q1,2,3,4,2024-01-01,2024-03-31,Traffic,Glow Routine,91906.79
+37,AUS_FR_TV_2024Q1,Aurora Skin — FR — TV — 2024 Q1,2,4,1,2024-01-01,2024-03-31,Brand Lift,Signature Scent,231885.83
+38,AUS_UK_TV_2024Q1,Aurora Skin — UK — TV — 2024 Q1,2,4,2,2024-01-01,2024-03-31,Brand Lift,Cinematic Launch,247246.25
+39,AUS_US_TV_2024Q1,Aurora Skin — US — TV — 2024 Q1,2,4,3,2024-01-01,2024-03-31,Brand Lift,Night Ritual,303877.02
+40,AUS_DE_TV_2024Q1,Aurora Skin — DE — TV — 2024 Q1,2,4,4,2024-01-01,2024-03-31,Awareness,Fresh Botanics,273462.7
+41,AUS_FR_INFL_2024Q1,Aurora Skin — FR — Influencer — 2024 Q1,2,5,1,2024-01-01,2024-03-31,Consideration,Silk Repair,51025.59
+42,AUS_UK_INFL_2024Q1,Aurora Skin — UK — Influencer — 2024 Q1,2,5,2,2024-01-01,2024-03-31,Awareness,Signature Scent,49617.56
+43,AUS_US_INFL_2024Q1,Aurora Skin — US — Influencer — 2024 Q1,2,5,3,2024-01-01,2024-03-31,Awareness,Cinematic Launch,52949.74
+44,AUS_DE_INFL_2024Q1,Aurora Skin — DE — Influencer — 2024 Q1,2,5,4,2024-01-01,2024-03-31,Consideration,Silk Repair,51899.57
+45,AUS_FR_RET_MED_2024Q1,Aurora Skin — FR — Retail Media — 2024 Q1,2,6,1,2024-01-01,2024-03-31,Sales,Glow Routine,73523.04
+46,AUS_UK_RET_MED_2024Q1,Aurora Skin — UK — Retail Media — 2024 Q1,2,6,2,2024-01-01,2024-03-31,Sales,Glow Routine,81720.31
+47,AUS_US_RET_MED_2024Q1,Aurora Skin — US — Retail Media — 2024 Q1,2,6,3,2024-01-01,2024-03-31,Conversion,Bold Color,81508.0
+48,AUS_DE_RET_MED_2024Q1,Aurora Skin — DE — Retail Media — 2024 Q1,2,6,4,2024-01-01,2024-03-31,Conversion,Night Ritual,76372.73
+49,NAB_FR_PAID_SOC_2024Q1,Noir Absolu — FR — Paid Social — 2024 Q1,3,1,1,2024-01-01,2024-03-31,Consideration,Night Ritual,87629.5
+50,NAB_UK_PAID_SOC_2024Q1,Noir Absolu — UK — Paid Social — 2024 Q1,3,1,2,2024-01-01,2024-03-31,Awareness,Cinematic Launch,119549.78
+51,NAB_US_PAID_SOC_2024Q1,Noir Absolu — US — Paid Social — 2024 Q1,3,1,3,2024-01-01,2024-03-31,Awareness,Studio Pro,121889.9
+52,NAB_DE_PAID_SOC_2024Q1,Noir Absolu — DE — Paid Social — 2024 Q1,3,1,4,2024-01-01,2024-03-31,Awareness,Night Ritual,114075.29
+53,NAB_FR_PAID_SEA_2024Q1,Noir Absolu — FR — Paid Search — 2024 Q1,3,2,1,2024-01-01,2024-03-31,Conversion,Signature Scent,86536.7
+54,NAB_UK_PAID_SEA_2024Q1,Noir Absolu — UK — Paid Search — 2024 Q1,3,2,2,2024-01-01,2024-03-31,Sales,Bold Color,79483.31
+55,NAB_US_PAID_SEA_2024Q1,Noir Absolu — US — Paid Search — 2024 Q1,3,2,3,2024-01-01,2024-03-31,Conversion,Cinematic Launch,104722.95
+56,NAB_DE_PAID_SEA_2024Q1,Noir Absolu — DE — Paid Search — 2024 Q1,3,2,4,2024-01-01,2024-03-31,Conversion,Bold Color,73995.11
+57,NAB_FR_PROG_2024Q1,Noir Absolu — FR — Programmatic — 2024 Q1,3,3,1,2024-01-01,2024-03-31,Traffic,Night Ritual,115173.66
+58,NAB_UK_PROG_2024Q1,Noir Absolu — UK — Programmatic — 2024 Q1,3,3,2,2024-01-01,2024-03-31,Traffic,Glow Routine,130762.52
+59,NAB_US_PROG_2024Q1,Noir Absolu — US — Programmatic — 2024 Q1,3,3,3,2024-01-01,2024-03-31,Consideration,Signature Scent,137892.91
+60,NAB_DE_PROG_2024Q1,Noir Absolu — DE — Programmatic — 2024 Q1,3,3,4,2024-01-01,2024-03-31,Traffic,Bold Color,116796.67
+61,NAB_FR_TV_2024Q1,Noir Absolu — FR — TV — 2024 Q1,3,4,1,2024-01-01,2024-03-31,Awareness,Fresh Botanics,313486.19
+62,NAB_UK_TV_2024Q1,Noir Absolu — UK — TV — 2024 Q1,3,4,2,2024-01-01,2024-03-31,Brand Lift,Cinematic Launch,307043.8
+63,NAB_US_TV_2024Q1,Noir Absolu — US — TV — 2024 Q1,3,4,3,2024-01-01,2024-03-31,Brand Lift,Cinematic Launch,344378.05
+64,NAB_DE_TV_2024Q1,Noir Absolu — DE — TV — 2024 Q1,3,4,4,2024-01-01,2024-03-31,Awareness,Night Ritual,268007.18
+65,NAB_FR_INFL_2024Q1,Noir Absolu — FR — Influencer — 2024 Q1,3,5,1,2024-01-01,2024-03-31,Consideration,Cinematic Launch,64143.34
+66,NAB_UK_INFL_2024Q1,Noir Absolu — UK — Influencer — 2024 Q1,3,5,2,2024-01-01,2024-03-31,Consideration,Glow Routine,73994.55
+67,NAB_US_INFL_2024Q1,Noir Absolu — US — Influencer — 2024 Q1,3,5,3,2024-01-01,2024-03-31,Consideration,Fresh Botanics,68573.13
+68,NAB_DE_INFL_2024Q1,Noir Absolu — DE — Influencer — 2024 Q1,3,5,4,2024-01-01,2024-03-31,Consideration,Fresh Botanics,53552.57
+69,NAB_FR_RET_MED_2024Q1,Noir Absolu — FR — Retail Media — 2024 Q1,3,6,1,2024-01-01,2024-03-31,Conversion,Studio Pro,87035.47
+70,NAB_UK_RET_MED_2024Q1,Noir Absolu — UK — Retail Media — 2024 Q1,3,6,2,2024-01-01,2024-03-31,Conversion,Signature Scent,80374.0
+71,NAB_US_RET_MED_2024Q1,Noir Absolu — US — Retail Media — 2024 Q1,3,6,3,2024-01-01,2024-03-31,Conversion,Bold Color,100344.47
+72,NAB_DE_RET_MED_2024Q1,Noir Absolu — DE — Retail Media — 2024 Q1,3,6,4,2024-01-01,2024-03-31,Conversion,Studio Pro,89382.86
+73,VBL_FR_PAID_SOC_2024Q1,Velvet Bloom — FR — Paid Social — 2024 Q1,4,1,1,2024-01-01,2024-03-31,Consideration,Bold Color,78127.79
+74,VBL_UK_PAID_SOC_2024Q1,Velvet Bloom — UK — Paid Social — 2024 Q1,4,1,2,2024-01-01,2024-03-31,Consideration,Night Ritual,88746.99
+75,VBL_US_PAID_SOC_2024Q1,Velvet Bloom — US — Paid Social — 2024 Q1,4,1,3,2024-01-01,2024-03-31,Consideration,Bold Color,82736.32
+76,VBL_DE_PAID_SOC_2024Q1,Velvet Bloom — DE — Paid Social — 2024 Q1,4,1,4,2024-01-01,2024-03-31,Awareness,Signature Scent,93983.25
+77,VBL_FR_PAID_SEA_2024Q1,Velvet Bloom — FR — Paid Search — 2024 Q1,4,2,1,2024-01-01,2024-03-31,Sales,Glow Routine,69356.39
+78,VBL_UK_PAID_SEA_2024Q1,Velvet Bloom — UK — Paid Search — 2024 Q1,4,2,2,2024-01-01,2024-03-31,Conversion,Cinematic Launch,75365.45
+79,VBL_US_PAID_SEA_2024Q1,Velvet Bloom — US — Paid Search — 2024 Q1,4,2,3,2024-01-01,2024-03-31,Conversion,Night Ritual,82241.31
+80,VBL_DE_PAID_SEA_2024Q1,Velvet Bloom — DE — Paid Search — 2024 Q1,4,2,4,2024-01-01,2024-03-31,Sales,Silk Repair,73750.56
+81,VBL_FR_PROG_2024Q1,Velvet Bloom — FR — Programmatic — 2024 Q1,4,3,1,2024-01-01,2024-03-31,Consideration,Cinematic Launch,106293.94
+82,VBL_UK_PROG_2024Q1,Velvet Bloom — UK — Programmatic — 2024 Q1,4,3,2,2024-01-01,2024-03-31,Traffic,Glow Routine,85454.93
+83,VBL_US_PROG_2024Q1,Velvet Bloom — US — Programmatic — 2024 Q1,4,3,3,2024-01-01,2024-03-31,Consideration,Fresh Botanics,104466.74
+84,VBL_DE_PROG_2024Q1,Velvet Bloom — DE — Programmatic — 2024 Q1,4,3,4,2024-01-01,2024-03-31,Consideration,Signature Scent,103238.93
+85,VBL_FR_TV_2024Q1,Velvet Bloom — FR — TV — 2024 Q1,4,4,1,2024-01-01,2024-03-31,Brand Lift,Night Ritual,286239.19
+86,VBL_UK_TV_2024Q1,Velvet Bloom — UK — TV — 2024 Q1,4,4,2,2024-01-01,2024-03-31,Brand Lift,Night Ritual,265795.23
+87,VBL_US_TV_2024Q1,Velvet Bloom — US — TV — 2024 Q1,4,4,3,2024-01-01,2024-03-31,Brand Lift,Night Ritual,327709.63
+88,VBL_DE_TV_2024Q1,Velvet Bloom — DE — TV — 2024 Q1,4,4,4,2024-01-01,2024-03-31,Awareness,Glow Routine,217595.24
+89,VBL_FR_INFL_2024Q1,Velvet Bloom — FR — Influencer — 2024 Q1,4,5,1,2024-01-01,2024-03-31,Awareness,Bold Color,60254.92
+90,VBL_UK_INFL_2024Q1,Velvet Bloom — UK — Influencer — 2024 Q1,4,5,2,2024-01-01,2024-03-31,Awareness,Studio Pro,59236.36
+91,VBL_US_INFL_2024Q1,Velvet Bloom — US — Influencer — 2024 Q1,4,5,3,2024-01-01,2024-03-31,Consideration,Studio Pro,67501.3
+92,VBL_DE_INFL_2024Q1,Velvet Bloom — DE — Influencer — 2024 Q1,4,5,4,2024-01-01,2024-03-31,Awareness,Fresh Botanics,49600.88
+93,VBL_FR_RET_MED_2024Q1,Velvet Bloom — FR — Retail Media — 2024 Q1,4,6,1,2024-01-01,2024-03-31,Conversion,Signature Scent,77064.63
+94,VBL_UK_RET_MED_2024Q1,Velvet Bloom — UK — Retail Media — 2024 Q1,4,6,2,2024-01-01,2024-03-31,Conversion,Night Ritual,67785.89
+95,VBL_US_RET_MED_2024Q1,Velvet Bloom — US — Retail Media — 2024 Q1,4,6,3,2024-01-01,2024-03-31,Sales,Silk Repair,78501.59
+96,VBL_DE_RET_MED_2024Q1,Velvet Bloom — DE — Retail Media — 2024 Q1,4,6,4,2024-01-01,2024-03-31,Conversion,Studio Pro,67788.4
+97,PRS_FR_PAID_SOC_2024Q1,Prisme Studio — FR — Paid Social — 2024 Q1,5,1,1,2024-01-01,2024-03-31,Awareness,Cinematic Launch,109933.38
+98,PRS_UK_PAID_SOC_2024Q1,Prisme Studio — UK — Paid Social — 2024 Q1,5,1,2,2024-01-01,2024-03-31,Consideration,Glow Routine,94896.95
+99,PRS_US_PAID_SOC_2024Q1,Prisme Studio — US — Paid Social — 2024 Q1,5,1,3,2024-01-01,2024-03-31,Awareness,Fresh Botanics,127922.39
+100,PRS_DE_PAID_SOC_2024Q1,Prisme Studio — DE — Paid Social — 2024 Q1,5,1,4,2024-01-01,2024-03-31,Awareness,Glow Routine,94309.71
+101,PRS_FR_PAID_SEA_2024Q1,Prisme Studio — FR — Paid Search — 2024 Q1,5,2,1,2024-01-01,2024-03-31,Sales,Signature Scent,92750.77
+102,PRS_UK_PAID_SEA_2024Q1,Prisme Studio — UK — Paid Search — 2024 Q1,5,2,2,2024-01-01,2024-03-31,Conversion,Fresh Botanics,76198.5
+103,PRS_US_PAID_SEA_2024Q1,Prisme Studio — US — Paid Search — 2024 Q1,5,2,3,2024-01-01,2024-03-31,Sales,Cinematic Launch,85859.42
+104,PRS_DE_PAID_SEA_2024Q1,Prisme Studio — DE — Paid Search — 2024 Q1,5,2,4,2024-01-01,2024-03-31,Conversion,Glow Routine,85580.43
+105,PRS_FR_PROG_2024Q1,Prisme Studio — FR — Programmatic — 2024 Q1,5,3,1,2024-01-01,2024-03-31,Traffic,Cinematic Launch,112713.64
+106,PRS_UK_PROG_2024Q1,Prisme Studio — UK — Programmatic — 2024 Q1,5,3,2,2024-01-01,2024-03-31,Traffic,Silk Repair,120999.57
+107,PRS_US_PROG_2024Q1,Prisme Studio — US — Programmatic — 2024 Q1,5,3,3,2024-01-01,2024-03-31,Consideration,Glow Routine,141178.83
+108,PRS_DE_PROG_2024Q1,Prisme Studio — DE — Programmatic — 2024 Q1,5,3,4,2024-01-01,2024-03-31,Consideration,Silk Repair,120565.71
+109,PRS_FR_TV_2024Q1,Prisme Studio — FR — TV — 2024 Q1,5,4,1,2024-01-01,2024-03-31,Brand Lift,Glow Routine,266137.84
+110,PRS_UK_TV_2024Q1,Prisme Studio — UK — TV — 2024 Q1,5,4,2,2024-01-01,2024-03-31,Brand Lift,Studio Pro,305321.14
+111,PRS_US_TV_2024Q1,Prisme Studio — US — TV — 2024 Q1,5,4,3,2024-01-01,2024-03-31,Brand Lift,Night Ritual,343818.45
+112,PRS_DE_TV_2024Q1,Prisme Studio — DE — TV — 2024 Q1,5,4,4,2024-01-01,2024-03-31,Brand Lift,Silk Repair,341006.09
+113,PRS_FR_INFL_2024Q1,Prisme Studio — FR — Influencer — 2024 Q1,5,5,1,2024-01-01,2024-03-31,Consideration,Night Ritual,70465.16
+114,PRS_UK_INFL_2024Q1,Prisme Studio — UK — Influencer — 2024 Q1,5,5,2,2024-01-01,2024-03-31,Awareness,Cinematic Launch,66711.71
+115,PRS_US_INFL_2024Q1,Prisme Studio — US — Influencer — 2024 Q1,5,5,3,2024-01-01,2024-03-31,Awareness,Silk Repair,63377.16
+116,PRS_DE_INFL_2024Q1,Prisme Studio — DE — Influencer — 2024 Q1,5,5,4,2024-01-01,2024-03-31,Consideration,Glow Routine,60983.39
+117,PRS_FR_RET_MED_2024Q1,Prisme Studio — FR — Retail Media — 2024 Q1,5,6,1,2024-01-01,2024-03-31,Conversion,Studio Pro,90021.12
+118,PRS_UK_RET_MED_2024Q1,Prisme Studio — UK — Retail Media — 2024 Q1,5,6,2,2024-01-01,2024-03-31,Conversion,Studio Pro,100263.95
+119,PRS_US_RET_MED_2024Q1,Prisme Studio — US — Retail Media — 2024 Q1,5,6,3,2024-01-01,2024-03-31,Conversion,Bold Color,109221.3
+120,PRS_DE_RET_MED_2024Q1,Prisme Studio — DE — Retail Media — 2024 Q1,5,6,4,2024-01-01,2024-03-31,Sales,Cinematic Launch,77240.03
+121,CPL_FR_PAID_SOC_2024Q1,Color Pop Lab — FR — Paid Social — 2024 Q1,6,1,1,2024-01-01,2024-03-31,Awareness,Signature Scent,74055.07
+122,CPL_UK_PAID_SOC_2024Q1,Color Pop Lab — UK — Paid Social — 2024 Q1,6,1,2,2024-01-01,2024-03-31,Awareness,Glow Routine,72059.08
+123,CPL_US_PAID_SOC_2024Q1,Color Pop Lab — US — Paid Social — 2024 Q1,6,1,3,2024-01-01,2024-03-31,Consideration,Fresh Botanics,86827.16
+124,CPL_DE_PAID_SOC_2024Q1,Color Pop Lab — DE — Paid Social — 2024 Q1,6,1,4,2024-01-01,2024-03-31,Consideration,Fresh Botanics,66216.46
+125,CPL_FR_PAID_SEA_2024Q1,Color Pop Lab — FR — Paid Search — 2024 Q1,6,2,1,2024-01-01,2024-03-31,Conversion,Night Ritual,54021.5
+126,CPL_UK_PAID_SEA_2024Q1,Color Pop Lab — UK — Paid Search — 2024 Q1,6,2,2,2024-01-01,2024-03-31,Conversion,Silk Repair,64408.22
+127,CPL_US_PAID_SEA_2024Q1,Color Pop Lab — US — Paid Search — 2024 Q1,6,2,3,2024-01-01,2024-03-31,Conversion,Bold Color,58731.01
+128,CPL_DE_PAID_SEA_2024Q1,Color Pop Lab — DE — Paid Search — 2024 Q1,6,2,4,2024-01-01,2024-03-31,Conversion,Glow Routine,59327.69
+129,CPL_FR_PROG_2024Q1,Color Pop Lab — FR — Programmatic — 2024 Q1,6,3,1,2024-01-01,2024-03-31,Traffic,Signature Scent,67441.13
+130,CPL_UK_PROG_2024Q1,Color Pop Lab — UK — Programmatic — 2024 Q1,6,3,2,2024-01-01,2024-03-31,Traffic,Cinematic Launch,82600.62
+131,CPL_US_PROG_2024Q1,Color Pop Lab — US — Programmatic — 2024 Q1,6,3,3,2024-01-01,2024-03-31,Consideration,Glow Routine,96543.7
+132,CPL_DE_PROG_2024Q1,Color Pop Lab — DE — Programmatic — 2024 Q1,6,3,4,2024-01-01,2024-03-31,Consideration,Night Ritual,68326.86
+133,CPL_FR_TV_2024Q1,Color Pop Lab — FR — TV — 2024 Q1,6,4,1,2024-01-01,2024-03-31,Brand Lift,Studio Pro,183530.54
+134,CPL_UK_TV_2024Q1,Color Pop Lab — UK — TV — 2024 Q1,6,4,2,2024-01-01,2024-03-31,Awareness,Night Ritual,191941.2
+135,CPL_US_TV_2024Q1,Color Pop Lab — US — TV — 2024 Q1,6,4,3,2024-01-01,2024-03-31,Awareness,Cinematic Launch,200898.4
+136,CPL_DE_TV_2024Q1,Color Pop Lab — DE — TV — 2024 Q1,6,4,4,2024-01-01,2024-03-31,Brand Lift,Cinematic Launch,184088.06
+137,CPL_FR_INFL_2024Q1,Color Pop Lab — FR — Influencer — 2024 Q1,6,5,1,2024-01-01,2024-03-31,Consideration,Cinematic Launch,43662.08
+138,CPL_UK_INFL_2024Q1,Color Pop Lab — UK — Influencer — 2024 Q1,6,5,2,2024-01-01,2024-03-31,Consideration,Silk Repair,43200.98
+139,CPL_US_INFL_2024Q1,Color Pop Lab — US — Influencer — 2024 Q1,6,5,3,2024-01-01,2024-03-31,Consideration,Night Ritual,48941.37
+140,CPL_DE_INFL_2024Q1,Color Pop Lab — DE — Influencer — 2024 Q1,6,5,4,2024-01-01,2024-03-31,Consideration,Studio Pro,46976.93
+141,CPL_FR_RET_MED_2024Q1,Color Pop Lab — FR — Retail Media — 2024 Q1,6,6,1,2024-01-01,2024-03-31,Sales,Cinematic Launch,53814.75
+142,CPL_UK_RET_MED_2024Q1,Color Pop Lab — UK — Retail Media — 2024 Q1,6,6,2,2024-01-01,2024-03-31,Sales,Glow Routine,57777.9
+143,CPL_US_RET_MED_2024Q1,Color Pop Lab — US — Retail Media — 2024 Q1,6,6,3,2024-01-01,2024-03-31,Sales,Fresh Botanics,66706.08
+144,CPL_DE_RET_MED_2024Q1,Color Pop Lab — DE — Retail Media — 2024 Q1,6,6,4,2024-01-01,2024-03-31,Conversion,Cinematic Launch,57244.01
+145,SDR_FR_PAID_SOC_2024Q1,Soie Dorée — FR — Paid Social — 2024 Q1,7,1,1,2024-01-01,2024-03-31,Consideration,Fresh Botanics,88050.16
+146,SDR_UK_PAID_SOC_2024Q1,Soie Dorée — UK — Paid Social — 2024 Q1,7,1,2,2024-01-01,2024-03-31,Awareness,Signature Scent,90886.8
+147,SDR_US_PAID_SOC_2024Q1,Soie Dorée — US — Paid Social — 2024 Q1,7,1,3,2024-01-01,2024-03-31,Awareness,Studio Pro,101169.4
+148,SDR_DE_PAID_SOC_2024Q1,Soie Dorée — DE — Paid Social — 2024 Q1,7,1,4,2024-01-01,2024-03-31,Consideration,Signature Scent,112079.59
+149,SDR_FR_PAID_SEA_2024Q1,Soie Dorée — FR — Paid Search — 2024 Q1,7,2,1,2024-01-01,2024-03-31,Conversion,Studio Pro,88611.88
+150,SDR_UK_PAID_SEA_2024Q1,Soie Dorée — UK — Paid Search — 2024 Q1,7,2,2,2024-01-01,2024-03-31,Sales,Signature Scent,88959.18
+151,SDR_US_PAID_SEA_2024Q1,Soie Dorée — US — Paid Search — 2024 Q1,7,2,3,2024-01-01,2024-03-31,Sales,Signature Scent,83193.54
+152,SDR_DE_PAID_SEA_2024Q1,Soie Dorée — DE — Paid Search — 2024 Q1,7,2,4,2024-01-01,2024-03-31,Sales,Fresh Botanics,81596.68
+153,SDR_FR_PROG_2024Q1,Soie Dorée — FR — Programmatic — 2024 Q1,7,3,1,2024-01-01,2024-03-31,Traffic,Signature Scent,111244.48
+154,SDR_UK_PROG_2024Q1,Soie Dorée — UK — Programmatic — 2024 Q1,7,3,2,2024-01-01,2024-03-31,Traffic,Bold Color,123070.77
+155,SDR_US_PROG_2024Q1,Soie Dorée — US — Programmatic — 2024 Q1,7,3,3,2024-01-01,2024-03-31,Consideration,Night Ritual,115393.51
+156,SDR_DE_PROG_2024Q1,Soie Dorée — DE — Programmatic — 2024 Q1,7,3,4,2024-01-01,2024-03-31,Consideration,Bold Color,109695.02
+157,SDR_FR_TV_2024Q1,Soie Dorée — FR — TV — 2024 Q1,7,4,1,2024-01-01,2024-03-31,Brand Lift,Glow Routine,288076.06
+158,SDR_UK_TV_2024Q1,Soie Dorée — UK — TV — 2024 Q1,7,4,2,2024-01-01,2024-03-31,Brand Lift,Night Ritual,298698.33
+159,SDR_US_TV_2024Q1,Soie Dorée — US — TV — 2024 Q1,7,4,3,2024-01-01,2024-03-31,Awareness,Bold Color,364224.44
+160,SDR_DE_TV_2024Q1,Soie Dorée — DE — TV — 2024 Q1,7,4,4,2024-01-01,2024-03-31,Awareness,Night Ritual,340397.21
+161,SDR_FR_INFL_2024Q1,Soie Dorée — FR — Influencer — 2024 Q1,7,5,1,2024-01-01,2024-03-31,Consideration,Studio Pro,62142.07
+162,SDR_UK_INFL_2024Q1,Soie Dorée — UK — Influencer — 2024 Q1,7,5,2,2024-01-01,2024-03-31,Consideration,Night Ritual,66322.62
+163,SDR_US_INFL_2024Q1,Soie Dorée — US — Influencer — 2024 Q1,7,5,3,2024-01-01,2024-03-31,Consideration,Signature Scent,75165.16
+164,SDR_DE_INFL_2024Q1,Soie Dorée — DE — Influencer — 2024 Q1,7,5,4,2024-01-01,2024-03-31,Awareness,Signature Scent,63113.54
+165,SDR_FR_RET_MED_2024Q1,Soie Dorée — FR — Retail Media — 2024 Q1,7,6,1,2024-01-01,2024-03-31,Sales,Silk Repair,81939.08
+166,SDR_UK_RET_MED_2024Q1,Soie Dorée — UK — Retail Media — 2024 Q1,7,6,2,2024-01-01,2024-03-31,Conversion,Silk Repair,83672.53
+167,SDR_US_RET_MED_2024Q1,Soie Dorée — US — Retail Media — 2024 Q1,7,6,3,2024-01-01,2024-03-31,Sales,Silk Repair,111514.21
+168,SDR_DE_RET_MED_2024Q1,Soie Dorée — DE — Retail Media — 2024 Q1,7,6,4,2024-01-01,2024-03-31,Sales,Glow Routine,90502.47
+169,BTN_FR_PAID_SOC_2024Q1,Botaniq — FR — Paid Social — 2024 Q1,8,1,1,2024-01-01,2024-03-31,Consideration,Cinematic Launch,72604.6
+170,BTN_UK_PAID_SOC_2024Q1,Botaniq — UK — Paid Social — 2024 Q1,8,1,2,2024-01-01,2024-03-31,Consideration,Cinematic Launch,80737.83
+171,BTN_US_PAID_SOC_2024Q1,Botaniq — US — Paid Social — 2024 Q1,8,1,3,2024-01-01,2024-03-31,Consideration,Glow Routine,88965.33
+172,BTN_DE_PAID_SOC_2024Q1,Botaniq — DE — Paid Social — 2024 Q1,8,1,4,2024-01-01,2024-03-31,Awareness,Signature Scent,69911.11
+173,BTN_FR_PAID_SEA_2024Q1,Botaniq — FR — Paid Search — 2024 Q1,8,2,1,2024-01-01,2024-03-31,Conversion,Signature Scent,60141.53
+174,BTN_UK_PAID_SEA_2024Q1,Botaniq — UK — Paid Search — 2024 Q1,8,2,2,2024-01-01,2024-03-31,Sales,Studio Pro,53720.45
+175,BTN_US_PAID_SEA_2024Q1,Botaniq — US — Paid Search — 2024 Q1,8,2,3,2024-01-01,2024-03-31,Sales,Fresh Botanics,55818.63
+176,BTN_DE_PAID_SEA_2024Q1,Botaniq — DE — Paid Search — 2024 Q1,8,2,4,2024-01-01,2024-03-31,Sales,Fresh Botanics,49801.65
+177,BTN_FR_PROG_2024Q1,Botaniq — FR — Programmatic — 2024 Q1,8,3,1,2024-01-01,2024-03-31,Consideration,Fresh Botanics,78162.28
+178,BTN_UK_PROG_2024Q1,Botaniq — UK — Programmatic — 2024 Q1,8,3,2,2024-01-01,2024-03-31,Consideration,Bold Color,80870.37
+179,BTN_US_PROG_2024Q1,Botaniq — US — Programmatic — 2024 Q1,8,3,3,2024-01-01,2024-03-31,Traffic,Signature Scent,95872.82
+180,BTN_DE_PROG_2024Q1,Botaniq — DE — Programmatic — 2024 Q1,8,3,4,2024-01-01,2024-03-31,Traffic,Bold Color,78785.67
+181,BTN_FR_TV_2024Q1,Botaniq — FR — TV — 2024 Q1,8,4,1,2024-01-01,2024-03-31,Awareness,Studio Pro,180727.7
+182,BTN_UK_TV_2024Q1,Botaniq — UK — TV — 2024 Q1,8,4,2,2024-01-01,2024-03-31,Brand Lift,Cinematic Launch,187706.18
+183,BTN_US_TV_2024Q1,Botaniq — US — TV — 2024 Q1,8,4,3,2024-01-01,2024-03-31,Awareness,Silk Repair,228871.65
+184,BTN_DE_TV_2024Q1,Botaniq — DE — TV — 2024 Q1,8,4,4,2024-01-01,2024-03-31,Brand Lift,Signature Scent,214479.36
+185,BTN_FR_INFL_2024Q1,Botaniq — FR — Influencer — 2024 Q1,8,5,1,2024-01-01,2024-03-31,Consideration,Night Ritual,47579.17
+186,BTN_UK_INFL_2024Q1,Botaniq — UK — Influencer — 2024 Q1,8,5,2,2024-01-01,2024-03-31,Consideration,Signature Scent,41553.04
+187,BTN_US_INFL_2024Q1,Botaniq — US — Influencer — 2024 Q1,8,5,3,2024-01-01,2024-03-31,Consideration,Night Ritual,46154.23
+188,BTN_DE_INFL_2024Q1,Botaniq — DE — Influencer — 2024 Q1,8,5,4,2024-01-01,2024-03-31,Awareness,Glow Routine,38009.24
+189,BTN_FR_RET_MED_2024Q1,Botaniq — FR — Retail Media — 2024 Q1,8,6,1,2024-01-01,2024-03-31,Conversion,Studio Pro,58391.59
+190,BTN_UK_RET_MED_2024Q1,Botaniq — UK — Retail Media — 2024 Q1,8,6,2,2024-01-01,2024-03-31,Sales,Bold Color,66779.88
+191,BTN_US_RET_MED_2024Q1,Botaniq — US — Retail Media — 2024 Q1,8,6,3,2024-01-01,2024-03-31,Conversion,Fresh Botanics,77377.86
+192,BTN_DE_RET_MED_2024Q1,Botaniq — DE — Retail Media — 2024 Q1,8,6,4,2024-01-01,2024-03-31,Conversion,Signature Scent,59131.75
+193,LEC_FR_PAID_SOC_2024Q2,Lumière Éclat — FR — Paid Social — 2024 Q2,1,1,1,2024-04-01,2024-06-30,Awareness,Bold Color,114598.95
+194,LEC_UK_PAID_SOC_2024Q2,Lumière Éclat — UK — Paid Social — 2024 Q2,1,1,2,2024-04-01,2024-06-30,Awareness,Silk Repair,119212.63
+195,LEC_US_PAID_SOC_2024Q2,Lumière Éclat — US — Paid Social — 2024 Q2,1,1,3,2024-04-01,2024-06-30,Awareness,Cinematic Launch,127093.41
+196,LEC_DE_PAID_SOC_2024Q2,Lumière Éclat — DE — Paid Social — 2024 Q2,1,1,4,2024-04-01,2024-06-30,Consideration,Silk Repair,88657.65
+197,LEC_FR_PAID_SEA_2024Q2,Lumière Éclat — FR — Paid Search — 2024 Q2,1,2,1,2024-04-01,2024-06-30,Conversion,Fresh Botanics,85786.1
+198,LEC_UK_PAID_SEA_2024Q2,Lumière Éclat — UK — Paid Search — 2024 Q2,1,2,2,2024-04-01,2024-06-30,Sales,Cinematic Launch,84143.33
+199,LEC_US_PAID_SEA_2024Q2,Lumière Éclat — US — Paid Search — 2024 Q2,1,2,3,2024-04-01,2024-06-30,Sales,Signature Scent,87701.16
+200,LEC_DE_PAID_SEA_2024Q2,Lumière Éclat — DE — Paid Search — 2024 Q2,1,2,4,2024-04-01,2024-06-30,Sales,Bold Color,79843.91
+201,LEC_FR_PROG_2024Q2,Lumière Éclat — FR — Programmatic — 2024 Q2,1,3,1,2024-04-01,2024-06-30,Consideration,Night Ritual,126622.41
+202,LEC_UK_PROG_2024Q2,Lumière Éclat — UK — Programmatic — 2024 Q2,1,3,2,2024-04-01,2024-06-30,Traffic,Signature Scent,104325.23
+203,LEC_US_PROG_2024Q2,Lumière Éclat — US — Programmatic — 2024 Q2,1,3,3,2024-04-01,2024-06-30,Consideration,Studio Pro,144092.7
+204,LEC_DE_PROG_2024Q2,Lumière Éclat — DE — Programmatic — 2024 Q2,1,3,4,2024-04-01,2024-06-30,Traffic,Night Ritual,123870.26
+205,LEC_FR_TV_2024Q2,Lumière Éclat — FR — TV — 2024 Q2,1,4,1,2024-04-01,2024-06-30,Awareness,Cinematic Launch,344919.43
+206,LEC_UK_TV_2024Q2,Lumière Éclat — UK — TV — 2024 Q2,1,4,2,2024-04-01,2024-06-30,Awareness,Silk Repair,329186.81
+207,LEC_US_TV_2024Q2,Lumière Éclat — US — TV — 2024 Q2,1,4,3,2024-04-01,2024-06-30,Brand Lift,Cinematic Launch,386092.96
+208,LEC_DE_TV_2024Q2,Lumière Éclat — DE — TV — 2024 Q2,1,4,4,2024-04-01,2024-06-30,Brand Lift,Cinematic Launch,276674.53
+209,LEC_FR_INFL_2024Q2,Lumière Éclat — FR — Influencer — 2024 Q2,1,5,1,2024-04-01,2024-06-30,Awareness,Glow Routine,67689.4
+210,LEC_UK_INFL_2024Q2,Lumière Éclat — UK — Influencer — 2024 Q2,1,5,2,2024-04-01,2024-06-30,Consideration,Glow Routine,73709.44
+211,LEC_US_INFL_2024Q2,Lumière Éclat — US — Influencer — 2024 Q2,1,5,3,2024-04-01,2024-06-30,Awareness,Silk Repair,61873.51
+212,LEC_DE_INFL_2024Q2,Lumière Éclat — DE — Influencer — 2024 Q2,1,5,4,2024-04-01,2024-06-30,Awareness,Cinematic Launch,54093.59
+213,LEC_FR_RET_MED_2024Q2,Lumière Éclat — FR — Retail Media — 2024 Q2,1,6,1,2024-04-01,2024-06-30,Sales,Fresh Botanics,95413.9
+214,LEC_UK_RET_MED_2024Q2,Lumière Éclat — UK — Retail Media — 2024 Q2,1,6,2,2024-04-01,2024-06-30,Sales,Glow Routine,101505.58
+215,LEC_US_RET_MED_2024Q2,Lumière Éclat — US — Retail Media — 2024 Q2,1,6,3,2024-04-01,2024-06-30,Conversion,Cinematic Launch,109710.35
+216,LEC_DE_RET_MED_2024Q2,Lumière Éclat — DE — Retail Media — 2024 Q2,1,6,4,2024-04-01,2024-06-30,Sales,Studio Pro,94642.85
+217,AUS_FR_PAID_SOC_2024Q2,Aurora Skin — FR — Paid Social — 2024 Q2,2,1,1,2024-04-01,2024-06-30,Consideration,Silk Repair,92517.1
+218,AUS_UK_PAID_SOC_2024Q2,Aurora Skin — UK — Paid Social — 2024 Q2,2,1,2,2024-04-01,2024-06-30,Awareness,Cinematic Launch,80309.15
+219,AUS_US_PAID_SOC_2024Q2,Aurora Skin — US — Paid Social — 2024 Q2,2,1,3,2024-04-01,2024-06-30,Awareness,Cinematic Launch,96731.31
+220,AUS_DE_PAID_SOC_2024Q2,Aurora Skin — DE — Paid Social — 2024 Q2,2,1,4,2024-04-01,2024-06-30,Consideration,Silk Repair,87276.3
+221,AUS_FR_PAID_SEA_2024Q2,Aurora Skin — FR — Paid Search — 2024 Q2,2,2,1,2024-04-01,2024-06-30,Conversion,Signature Scent,61190.49
+222,AUS_UK_PAID_SEA_2024Q2,Aurora Skin — UK — Paid Search — 2024 Q2,2,2,2,2024-04-01,2024-06-30,Sales,Silk Repair,65063.28
+223,AUS_US_PAID_SEA_2024Q2,Aurora Skin — US — Paid Search — 2024 Q2,2,2,3,2024-04-01,2024-06-30,Conversion,Night Ritual,83429.97
+224,AUS_DE_PAID_SEA_2024Q2,Aurora Skin — DE — Paid Search — 2024 Q2,2,2,4,2024-04-01,2024-06-30,Sales,Studio Pro,70533.86
+225,AUS_FR_PROG_2024Q2,Aurora Skin — FR — Programmatic — 2024 Q2,2,3,1,2024-04-01,2024-06-30,Traffic,Cinematic Launch,97797.36
+226,AUS_UK_PROG_2024Q2,Aurora Skin — UK — Programmatic — 2024 Q2,2,3,2,2024-04-01,2024-06-30,Consideration,Cinematic Launch,110660.06
+227,AUS_US_PROG_2024Q2,Aurora Skin — US — Programmatic — 2024 Q2,2,3,3,2024-04-01,2024-06-30,Consideration,Silk Repair,98018.15
+228,AUS_DE_PROG_2024Q2,Aurora Skin — DE — Programmatic — 2024 Q2,2,3,4,2024-04-01,2024-06-30,Consideration,Cinematic Launch,85528.17
+229,AUS_FR_TV_2024Q2,Aurora Skin — FR — TV — 2024 Q2,2,4,1,2024-04-01,2024-06-30,Awareness,Studio Pro,248867.18
+230,AUS_UK_TV_2024Q2,Aurora Skin — UK — TV — 2024 Q2,2,4,2,2024-04-01,2024-06-30,Brand Lift,Signature Scent,275428.09
+231,AUS_US_TV_2024Q2,Aurora Skin — US — TV — 2024 Q2,2,4,3,2024-04-01,2024-06-30,Brand Lift,Fresh Botanics,258947.62
+232,AUS_DE_TV_2024Q2,Aurora Skin — DE — TV — 2024 Q2,2,4,4,2024-04-01,2024-06-30,Awareness,Studio Pro,236981.5
+233,AUS_FR_INFL_2024Q2,Aurora Skin — FR — Influencer — 2024 Q2,2,5,1,2024-04-01,2024-06-30,Awareness,Fresh Botanics,55646.47
+234,AUS_UK_INFL_2024Q2,Aurora Skin — UK — Influencer — 2024 Q2,2,5,2,2024-04-01,2024-06-30,Awareness,Silk Repair,62411.33
+235,AUS_US_INFL_2024Q2,Aurora Skin — US — Influencer — 2024 Q2,2,5,3,2024-04-01,2024-06-30,Awareness,Glow Routine,60526.29
+236,AUS_DE_INFL_2024Q2,Aurora Skin — DE — Influencer — 2024 Q2,2,5,4,2024-04-01,2024-06-30,Consideration,Bold Color,52093.16
+237,AUS_FR_RET_MED_2024Q2,Aurora Skin — FR — Retail Media — 2024 Q2,2,6,1,2024-04-01,2024-06-30,Conversion,Cinematic Launch,65431.79
+238,AUS_UK_RET_MED_2024Q2,Aurora Skin — UK — Retail Media — 2024 Q2,2,6,2,2024-04-01,2024-06-30,Sales,Night Ritual,72653.42
+239,AUS_US_RET_MED_2024Q2,Aurora Skin — US — Retail Media — 2024 Q2,2,6,3,2024-04-01,2024-06-30,Sales,Bold Color,87339.37
+240,AUS_DE_RET_MED_2024Q2,Aurora Skin — DE — Retail Media — 2024 Q2,2,6,4,2024-04-01,2024-06-30,Conversion,Silk Repair,71555.43
+241,NAB_FR_PAID_SOC_2024Q2,Noir Absolu — FR — Paid Social — 2024 Q2,3,1,1,2024-04-01,2024-06-30,Awareness,Bold Color,91528.86
+242,NAB_UK_PAID_SOC_2024Q2,Noir Absolu — UK — Paid Social — 2024 Q2,3,1,2,2024-04-01,2024-06-30,Consideration,Fresh Botanics,99236.79
+243,NAB_US_PAID_SOC_2024Q2,Noir Absolu — US — Paid Social — 2024 Q2,3,1,3,2024-04-01,2024-06-30,Consideration,Cinematic Launch,112184.8
+244,NAB_DE_PAID_SOC_2024Q2,Noir Absolu — DE — Paid Social — 2024 Q2,3,1,4,2024-04-01,2024-06-30,Awareness,Bold Color,91767.79
+245,NAB_FR_PAID_SEA_2024Q2,Noir Absolu — FR — Paid Search — 2024 Q2,3,2,1,2024-04-01,2024-06-30,Conversion,Fresh Botanics,82853.19
+246,NAB_UK_PAID_SEA_2024Q2,Noir Absolu — UK — Paid Search — 2024 Q2,3,2,2,2024-04-01,2024-06-30,Sales,Silk Repair,89099.06
+247,NAB_US_PAID_SEA_2024Q2,Noir Absolu — US — Paid Search — 2024 Q2,3,2,3,2024-04-01,2024-06-30,Sales,Silk Repair,88285.75
+248,NAB_DE_PAID_SEA_2024Q2,Noir Absolu — DE — Paid Search — 2024 Q2,3,2,4,2024-04-01,2024-06-30,Conversion,Signature Scent,82447.89
+249,NAB_FR_PROG_2024Q2,Noir Absolu — FR — Programmatic — 2024 Q2,3,3,1,2024-04-01,2024-06-30,Consideration,Bold Color,116752.92
+250,NAB_UK_PROG_2024Q2,Noir Absolu — UK — Programmatic — 2024 Q2,3,3,2,2024-04-01,2024-06-30,Traffic,Night Ritual,118576.45
+251,NAB_US_PROG_2024Q2,Noir Absolu — US — Programmatic — 2024 Q2,3,3,3,2024-04-01,2024-06-30,Traffic,Silk Repair,144372.26
+252,NAB_DE_PROG_2024Q2,Noir Absolu — DE — Programmatic — 2024 Q2,3,3,4,2024-04-01,2024-06-30,Consideration,Studio Pro,112622.61
+253,NAB_FR_TV_2024Q2,Noir Absolu — FR — TV — 2024 Q2,3,4,1,2024-04-01,2024-06-30,Brand Lift,Fresh Botanics,326988.34
+254,NAB_UK_TV_2024Q2,Noir Absolu — UK — TV — 2024 Q2,3,4,2,2024-04-01,2024-06-30,Awareness,Night Ritual,346882.63
+255,NAB_US_TV_2024Q2,Noir Absolu — US — TV — 2024 Q2,3,4,3,2024-04-01,2024-06-30,Awareness,Bold Color,305241.17
+256,NAB_DE_TV_2024Q2,Noir Absolu — DE — TV — 2024 Q2,3,4,4,2024-04-01,2024-06-30,Awareness,Cinematic Launch,330779.39
+257,NAB_FR_INFL_2024Q2,Noir Absolu — FR — Influencer — 2024 Q2,3,5,1,2024-04-01,2024-06-30,Consideration,Cinematic Launch,58386.46
+258,NAB_UK_INFL_2024Q2,Noir Absolu — UK — Influencer — 2024 Q2,3,5,2,2024-04-01,2024-06-30,Consideration,Night Ritual,59187.08
+259,NAB_US_INFL_2024Q2,Noir Absolu — US — Influencer — 2024 Q2,3,5,3,2024-04-01,2024-06-30,Consideration,Night Ritual,77108.06
+260,NAB_DE_INFL_2024Q2,Noir Absolu — DE — Influencer — 2024 Q2,3,5,4,2024-04-01,2024-06-30,Consideration,Cinematic Launch,68634.5
+261,NAB_FR_RET_MED_2024Q2,Noir Absolu — FR — Retail Media — 2024 Q2,3,6,1,2024-04-01,2024-06-30,Sales,Signature Scent,84146.87
+262,NAB_UK_RET_MED_2024Q2,Noir Absolu — UK — Retail Media — 2024 Q2,3,6,2,2024-04-01,2024-06-30,Sales,Glow Routine,94654.41
+263,NAB_US_RET_MED_2024Q2,Noir Absolu — US — Retail Media — 2024 Q2,3,6,3,2024-04-01,2024-06-30,Sales,Cinematic Launch,96547.25
+264,NAB_DE_RET_MED_2024Q2,Noir Absolu — DE — Retail Media — 2024 Q2,3,6,4,2024-04-01,2024-06-30,Sales,Studio Pro,100505.94
+265,VBL_FR_PAID_SOC_2024Q2,Velvet Bloom — FR — Paid Social — 2024 Q2,4,1,1,2024-04-01,2024-06-30,Awareness,Signature Scent,79236.23
+266,VBL_UK_PAID_SOC_2024Q2,Velvet Bloom — UK — Paid Social — 2024 Q2,4,1,2,2024-04-01,2024-06-30,Consideration,Silk Repair,93635.05
+267,VBL_US_PAID_SOC_2024Q2,Velvet Bloom — US — Paid Social — 2024 Q2,4,1,3,2024-04-01,2024-06-30,Consideration,Bold Color,100682.95
+268,VBL_DE_PAID_SOC_2024Q2,Velvet Bloom — DE — Paid Social — 2024 Q2,4,1,4,2024-04-01,2024-06-30,Awareness,Cinematic Launch,76668.25
+269,VBL_FR_PAID_SEA_2024Q2,Velvet Bloom — FR — Paid Search — 2024 Q2,4,2,1,2024-04-01,2024-06-30,Sales,Fresh Botanics,61365.31
+270,VBL_UK_PAID_SEA_2024Q2,Velvet Bloom — UK — Paid Search — 2024 Q2,4,2,2,2024-04-01,2024-06-30,Sales,Glow Routine,78892.62
+271,VBL_US_PAID_SEA_2024Q2,Velvet Bloom — US — Paid Search — 2024 Q2,4,2,3,2024-04-01,2024-06-30,Sales,Studio Pro,79805.37
+272,VBL_DE_PAID_SEA_2024Q2,Velvet Bloom — DE — Paid Search — 2024 Q2,4,2,4,2024-04-01,2024-06-30,Conversion,Signature Scent,78289.34
+273,VBL_FR_PROG_2024Q2,Velvet Bloom — FR — Programmatic — 2024 Q2,4,3,1,2024-04-01,2024-06-30,Traffic,Glow Routine,93032.76
+274,VBL_UK_PROG_2024Q2,Velvet Bloom — UK — Programmatic — 2024 Q2,4,3,2,2024-04-01,2024-06-30,Traffic,Bold Color,86724.12
+275,VBL_US_PROG_2024Q2,Velvet Bloom — US — Programmatic — 2024 Q2,4,3,3,2024-04-01,2024-06-30,Traffic,Signature Scent,106516.03
+276,VBL_DE_PROG_2024Q2,Velvet Bloom — DE — Programmatic — 2024 Q2,4,3,4,2024-04-01,2024-06-30,Consideration,Bold Color,84596.58
+277,VBL_FR_TV_2024Q2,Velvet Bloom — FR — TV — 2024 Q2,4,4,1,2024-04-01,2024-06-30,Awareness,Glow Routine,282777.03
+278,VBL_UK_TV_2024Q2,Velvet Bloom — UK — TV — 2024 Q2,4,4,2,2024-04-01,2024-06-30,Brand Lift,Cinematic Launch,243393.81
+279,VBL_US_TV_2024Q2,Velvet Bloom — US — TV — 2024 Q2,4,4,3,2024-04-01,2024-06-30,Awareness,Night Ritual,288947.77
+280,VBL_DE_TV_2024Q2,Velvet Bloom — DE — TV — 2024 Q2,4,4,4,2024-04-01,2024-06-30,Brand Lift,Fresh Botanics,251492.72
+281,VBL_FR_INFL_2024Q2,Velvet Bloom — FR — Influencer — 2024 Q2,4,5,1,2024-04-01,2024-06-30,Awareness,Cinematic Launch,48462.76
+282,VBL_UK_INFL_2024Q2,Velvet Bloom — UK — Influencer — 2024 Q2,4,5,2,2024-04-01,2024-06-30,Consideration,Signature Scent,57400.37
+283,VBL_US_INFL_2024Q2,Velvet Bloom — US — Influencer — 2024 Q2,4,5,3,2024-04-01,2024-06-30,Consideration,Silk Repair,63457.81
+284,VBL_DE_INFL_2024Q2,Velvet Bloom — DE — Influencer — 2024 Q2,4,5,4,2024-04-01,2024-06-30,Consideration,Signature Scent,45540.21
+285,VBL_FR_RET_MED_2024Q2,Velvet Bloom — FR — Retail Media — 2024 Q2,4,6,1,2024-04-01,2024-06-30,Sales,Night Ritual,74371.58
+286,VBL_UK_RET_MED_2024Q2,Velvet Bloom — UK — Retail Media — 2024 Q2,4,6,2,2024-04-01,2024-06-30,Sales,Night Ritual,85150.55
+287,VBL_US_RET_MED_2024Q2,Velvet Bloom — US — Retail Media — 2024 Q2,4,6,3,2024-04-01,2024-06-30,Conversion,Bold Color,91336.72
+288,VBL_DE_RET_MED_2024Q2,Velvet Bloom — DE — Retail Media — 2024 Q2,4,6,4,2024-04-01,2024-06-30,Sales,Signature Scent,73605.65
+289,PRS_FR_PAID_SOC_2024Q2,Prisme Studio — FR — Paid Social — 2024 Q2,5,1,1,2024-04-01,2024-06-30,Awareness,Studio Pro,102613.72
+290,PRS_UK_PAID_SOC_2024Q2,Prisme Studio — UK — Paid Social — 2024 Q2,5,1,2,2024-04-01,2024-06-30,Awareness,Signature Scent,99978.61
+291,PRS_US_PAID_SOC_2024Q2,Prisme Studio — US — Paid Social — 2024 Q2,5,1,3,2024-04-01,2024-06-30,Consideration,Bold Color,116083.68
+292,PRS_DE_PAID_SOC_2024Q2,Prisme Studio — DE — Paid Social — 2024 Q2,5,1,4,2024-04-01,2024-06-30,Consideration,Cinematic Launch,96956.58
+293,PRS_FR_PAID_SEA_2024Q2,Prisme Studio — FR — Paid Search — 2024 Q2,5,2,1,2024-04-01,2024-06-30,Sales,Studio Pro,84439.04
+294,PRS_UK_PAID_SEA_2024Q2,Prisme Studio — UK — Paid Search — 2024 Q2,5,2,2,2024-04-01,2024-06-30,Conversion,Glow Routine,81188.21
+295,PRS_US_PAID_SEA_2024Q2,Prisme Studio — US — Paid Search — 2024 Q2,5,2,3,2024-04-01,2024-06-30,Conversion,Glow Routine,80117.7
+296,PRS_DE_PAID_SEA_2024Q2,Prisme Studio — DE — Paid Search — 2024 Q2,5,2,4,2024-04-01,2024-06-30,Sales,Studio Pro,79987.55
+297,PRS_FR_PROG_2024Q2,Prisme Studio — FR — Programmatic — 2024 Q2,5,3,1,2024-04-01,2024-06-30,Consideration,Night Ritual,115823.61
+298,PRS_UK_PROG_2024Q2,Prisme Studio — UK — Programmatic — 2024 Q2,5,3,2,2024-04-01,2024-06-30,Traffic,Cinematic Launch,110258.66
+299,PRS_US_PROG_2024Q2,Prisme Studio — US — Programmatic — 2024 Q2,5,3,3,2024-04-01,2024-06-30,Consideration,Silk Repair,134566.94
+300,PRS_DE_PROG_2024Q2,Prisme Studio — DE — Programmatic — 2024 Q2,5,3,4,2024-04-01,2024-06-30,Traffic,Studio Pro,116562.07
+301,PRS_FR_TV_2024Q2,Prisme Studio — FR — TV — 2024 Q2,5,4,1,2024-04-01,2024-06-30,Brand Lift,Bold Color,323528.93
+302,PRS_UK_TV_2024Q2,Prisme Studio — UK — TV — 2024 Q2,5,4,2,2024-04-01,2024-06-30,Brand Lift,Studio Pro,335855.77
+303,PRS_US_TV_2024Q2,Prisme Studio — US — TV — 2024 Q2,5,4,3,2024-04-01,2024-06-30,Awareness,Studio Pro,374187.54
+304,PRS_DE_TV_2024Q2,Prisme Studio — DE — TV — 2024 Q2,5,4,4,2024-04-01,2024-06-30,Awareness,Signature Scent,265269.37
+305,PRS_FR_INFL_2024Q2,Prisme Studio — FR — Influencer — 2024 Q2,5,5,1,2024-04-01,2024-06-30,Consideration,Silk Repair,61376.66
+306,PRS_UK_INFL_2024Q2,Prisme Studio — UK — Influencer — 2024 Q2,5,5,2,2024-04-01,2024-06-30,Consideration,Fresh Botanics,68658.89
+307,PRS_US_INFL_2024Q2,Prisme Studio — US — Influencer — 2024 Q2,5,5,3,2024-04-01,2024-06-30,Awareness,Studio Pro,82323.71
+308,PRS_DE_INFL_2024Q2,Prisme Studio — DE — Influencer — 2024 Q2,5,5,4,2024-04-01,2024-06-30,Awareness,Night Ritual,66882.88
+309,PRS_FR_RET_MED_2024Q2,Prisme Studio — FR — Retail Media — 2024 Q2,5,6,1,2024-04-01,2024-06-30,Sales,Silk Repair,83470.44
+310,PRS_UK_RET_MED_2024Q2,Prisme Studio — UK — Retail Media — 2024 Q2,5,6,2,2024-04-01,2024-06-30,Conversion,Cinematic Launch,79222.35
+311,PRS_US_RET_MED_2024Q2,Prisme Studio — US — Retail Media — 2024 Q2,5,6,3,2024-04-01,2024-06-30,Sales,Signature Scent,100314.06
+312,PRS_DE_RET_MED_2024Q2,Prisme Studio — DE — Retail Media — 2024 Q2,5,6,4,2024-04-01,2024-06-30,Sales,Studio Pro,86580.55
+313,CPL_FR_PAID_SOC_2024Q2,Color Pop Lab — FR — Paid Social — 2024 Q2,6,1,1,2024-04-01,2024-06-30,Awareness,Studio Pro,66196.15
+314,CPL_UK_PAID_SOC_2024Q2,Color Pop Lab — UK — Paid Social — 2024 Q2,6,1,2,2024-04-01,2024-06-30,Awareness,Signature Scent,62506.83
+315,CPL_US_PAID_SOC_2024Q2,Color Pop Lab — US — Paid Social — 2024 Q2,6,1,3,2024-04-01,2024-06-30,Awareness,Fresh Botanics,85286.32
+316,CPL_DE_PAID_SOC_2024Q2,Color Pop Lab — DE — Paid Social — 2024 Q2,6,1,4,2024-04-01,2024-06-30,Awareness,Studio Pro,74580.7
+317,CPL_FR_PAID_SEA_2024Q2,Color Pop Lab — FR — Paid Search — 2024 Q2,6,2,1,2024-04-01,2024-06-30,Conversion,Cinematic Launch,53140.04
+318,CPL_UK_PAID_SEA_2024Q2,Color Pop Lab — UK — Paid Search — 2024 Q2,6,2,2,2024-04-01,2024-06-30,Sales,Cinematic Launch,51212.55
+319,CPL_US_PAID_SEA_2024Q2,Color Pop Lab — US — Paid Search — 2024 Q2,6,2,3,2024-04-01,2024-06-30,Sales,Silk Repair,67602.47
+320,CPL_DE_PAID_SEA_2024Q2,Color Pop Lab — DE — Paid Search — 2024 Q2,6,2,4,2024-04-01,2024-06-30,Sales,Signature Scent,61307.44
+321,CPL_FR_PROG_2024Q2,Color Pop Lab — FR — Programmatic — 2024 Q2,6,3,1,2024-04-01,2024-06-30,Traffic,Silk Repair,83405.0
+322,CPL_UK_PROG_2024Q2,Color Pop Lab — UK — Programmatic — 2024 Q2,6,3,2,2024-04-01,2024-06-30,Consideration,Cinematic Launch,73927.96
+323,CPL_US_PROG_2024Q2,Color Pop Lab — US — Programmatic — 2024 Q2,6,3,3,2024-04-01,2024-06-30,Consideration,Fresh Botanics,97426.82
+324,CPL_DE_PROG_2024Q2,Color Pop Lab — DE — Programmatic — 2024 Q2,6,3,4,2024-04-01,2024-06-30,Consideration,Cinematic Launch,76835.74
+325,CPL_FR_TV_2024Q2,Color Pop Lab — FR — TV — 2024 Q2,6,4,1,2024-04-01,2024-06-30,Awareness,Silk Repair,175211.97
+326,CPL_UK_TV_2024Q2,Color Pop Lab — UK — TV — 2024 Q2,6,4,2,2024-04-01,2024-06-30,Brand Lift,Bold Color,239623.5
+327,CPL_US_TV_2024Q2,Color Pop Lab — US — TV — 2024 Q2,6,4,3,2024-04-01,2024-06-30,Brand Lift,Silk Repair,216136.4
+328,CPL_DE_TV_2024Q2,Color Pop Lab — DE — TV — 2024 Q2,6,4,4,2024-04-01,2024-06-30,Awareness,Signature Scent,194699.52
+329,CPL_FR_INFL_2024Q2,Color Pop Lab — FR — Influencer — 2024 Q2,6,5,1,2024-04-01,2024-06-30,Consideration,Signature Scent,39936.53
+330,CPL_UK_INFL_2024Q2,Color Pop Lab — UK — Influencer — 2024 Q2,6,5,2,2024-04-01,2024-06-30,Consideration,Fresh Botanics,43245.29
+331,CPL_US_INFL_2024Q2,Color Pop Lab — US — Influencer — 2024 Q2,6,5,3,2024-04-01,2024-06-30,Awareness,Night Ritual,54542.9
+332,CPL_DE_INFL_2024Q2,Color Pop Lab — DE — Influencer — 2024 Q2,6,5,4,2024-04-01,2024-06-30,Consideration,Glow Routine,37206.35
+333,CPL_FR_RET_MED_2024Q2,Color Pop Lab — FR — Retail Media — 2024 Q2,6,6,1,2024-04-01,2024-06-30,Sales,Night Ritual,63384.86
+334,CPL_UK_RET_MED_2024Q2,Color Pop Lab — UK — Retail Media — 2024 Q2,6,6,2,2024-04-01,2024-06-30,Conversion,Signature Scent,71822.7
+335,CPL_US_RET_MED_2024Q2,Color Pop Lab — US — Retail Media — 2024 Q2,6,6,3,2024-04-01,2024-06-30,Sales,Night Ritual,66535.28
+336,CPL_DE_RET_MED_2024Q2,Color Pop Lab — DE — Retail Media — 2024 Q2,6,6,4,2024-04-01,2024-06-30,Sales,Glow Routine,60836.46
+337,SDR_FR_PAID_SOC_2024Q2,Soie Dorée — FR — Paid Social — 2024 Q2,7,1,1,2024-04-01,2024-06-30,Awareness,Studio Pro,106026.43
+338,SDR_UK_PAID_SOC_2024Q2,Soie Dorée — UK — Paid Social — 2024 Q2,7,1,2,2024-04-01,2024-06-30,Consideration,Fresh Botanics,101609.63
+339,SDR_US_PAID_SOC_2024Q2,Soie Dorée — US — Paid Social — 2024 Q2,7,1,3,2024-04-01,2024-06-30,Awareness,Studio Pro,114893.62
+340,SDR_DE_PAID_SOC_2024Q2,Soie Dorée — DE — Paid Social — 2024 Q2,7,1,4,2024-04-01,2024-06-30,Awareness,Glow Routine,95961.35
+341,SDR_FR_PAID_SEA_2024Q2,Soie Dorée — FR — Paid Search — 2024 Q2,7,2,1,2024-04-01,2024-06-30,Conversion,Cinematic Launch,73985.74
+342,SDR_UK_PAID_SEA_2024Q2,Soie Dorée — UK — Paid Search — 2024 Q2,7,2,2,2024-04-01,2024-06-30,Sales,Cinematic Launch,84116.76
+343,SDR_US_PAID_SEA_2024Q2,Soie Dorée — US — Paid Search — 2024 Q2,7,2,3,2024-04-01,2024-06-30,Sales,Silk Repair,89044.79
+344,SDR_DE_PAID_SEA_2024Q2,Soie Dorée — DE — Paid Search — 2024 Q2,7,2,4,2024-04-01,2024-06-30,Conversion,Bold Color,92443.23
+345,SDR_FR_PROG_2024Q2,Soie Dorée — FR — Programmatic — 2024 Q2,7,3,1,2024-04-01,2024-06-30,Traffic,Signature Scent,113878.91
+346,SDR_UK_PROG_2024Q2,Soie Dorée — UK — Programmatic — 2024 Q2,7,3,2,2024-04-01,2024-06-30,Traffic,Night Ritual,132193.57
+347,SDR_US_PROG_2024Q2,Soie Dorée — US — Programmatic — 2024 Q2,7,3,3,2024-04-01,2024-06-30,Consideration,Glow Routine,122596.11
+348,SDR_DE_PROG_2024Q2,Soie Dorée — DE — Programmatic — 2024 Q2,7,3,4,2024-04-01,2024-06-30,Traffic,Studio Pro,113497.04
+349,SDR_FR_TV_2024Q2,Soie Dorée — FR — TV — 2024 Q2,7,4,1,2024-04-01,2024-06-30,Brand Lift,Silk Repair,308167.03
+350,SDR_UK_TV_2024Q2,Soie Dorée — UK — TV — 2024 Q2,7,4,2,2024-04-01,2024-06-30,Brand Lift,Silk Repair,296041.72
+351,SDR_US_TV_2024Q2,Soie Dorée — US — TV — 2024 Q2,7,4,3,2024-04-01,2024-06-30,Brand Lift,Glow Routine,326627.96
+352,SDR_DE_TV_2024Q2,Soie Dorée — DE — TV — 2024 Q2,7,4,4,2024-04-01,2024-06-30,Awareness,Glow Routine,333688.29
+353,SDR_FR_INFL_2024Q2,Soie Dorée — FR — Influencer — 2024 Q2,7,5,1,2024-04-01,2024-06-30,Awareness,Night Ritual,63652.93
+354,SDR_UK_INFL_2024Q2,Soie Dorée — UK — Influencer — 2024 Q2,7,5,2,2024-04-01,2024-06-30,Awareness,Signature Scent,71212.79
+355,SDR_US_INFL_2024Q2,Soie Dorée — US — Influencer — 2024 Q2,7,5,3,2024-04-01,2024-06-30,Consideration,Bold Color,71363.05
+356,SDR_DE_INFL_2024Q2,Soie Dorée — DE — Influencer — 2024 Q2,7,5,4,2024-04-01,2024-06-30,Consideration,Studio Pro,65773.7
+357,SDR_FR_RET_MED_2024Q2,Soie Dorée — FR — Retail Media — 2024 Q2,7,6,1,2024-04-01,2024-06-30,Conversion,Signature Scent,98067.04
+358,SDR_UK_RET_MED_2024Q2,Soie Dorée — UK — Retail Media — 2024 Q2,7,6,2,2024-04-01,2024-06-30,Conversion,Signature Scent,83197.76
+359,SDR_US_RET_MED_2024Q2,Soie Dorée — US — Retail Media — 2024 Q2,7,6,3,2024-04-01,2024-06-30,Conversion,Fresh Botanics,88607.18
+360,SDR_DE_RET_MED_2024Q2,Soie Dorée — DE — Retail Media — 2024 Q2,7,6,4,2024-04-01,2024-06-30,Conversion,Silk Repair,99452.92
+361,BTN_FR_PAID_SOC_2024Q2,Botaniq — FR — Paid Social — 2024 Q2,8,1,1,2024-04-01,2024-06-30,Consideration,Fresh Botanics,66632.64
+362,BTN_UK_PAID_SOC_2024Q2,Botaniq — UK — Paid Social — 2024 Q2,8,1,2,2024-04-01,2024-06-30,Awareness,Cinematic Launch,81248.37
+363,BTN_US_PAID_SOC_2024Q2,Botaniq — US — Paid Social — 2024 Q2,8,1,3,2024-04-01,2024-06-30,Consideration,Cinematic Launch,67433.72
+364,BTN_DE_PAID_SOC_2024Q2,Botaniq — DE — Paid Social — 2024 Q2,8,1,4,2024-04-01,2024-06-30,Awareness,Glow Routine,59136.82
+365,BTN_FR_PAID_SEA_2024Q2,Botaniq — FR — Paid Search — 2024 Q2,8,2,1,2024-04-01,2024-06-30,Sales,Bold Color,55516.66
+366,BTN_UK_PAID_SEA_2024Q2,Botaniq — UK — Paid Search — 2024 Q2,8,2,2,2024-04-01,2024-06-30,Sales,Night Ritual,50197.53
+367,BTN_US_PAID_SEA_2024Q2,Botaniq — US — Paid Search — 2024 Q2,8,2,3,2024-04-01,2024-06-30,Sales,Cinematic Launch,61336.01
+368,BTN_DE_PAID_SEA_2024Q2,Botaniq — DE — Paid Search — 2024 Q2,8,2,4,2024-04-01,2024-06-30,Sales,Cinematic Launch,58534.99
+369,BTN_FR_PROG_2024Q2,Botaniq — FR — Programmatic — 2024 Q2,8,3,1,2024-04-01,2024-06-30,Consideration,Glow Routine,71957.54
+370,BTN_UK_PROG_2024Q2,Botaniq — UK — Programmatic — 2024 Q2,8,3,2,2024-04-01,2024-06-30,Consideration,Bold Color,78315.5
+371,BTN_US_PROG_2024Q2,Botaniq — US — Programmatic — 2024 Q2,8,3,3,2024-04-01,2024-06-30,Consideration,Cinematic Launch,77736.57
+372,BTN_DE_PROG_2024Q2,Botaniq — DE — Programmatic — 2024 Q2,8,3,4,2024-04-01,2024-06-30,Consideration,Signature Scent,65053.3
+373,BTN_FR_TV_2024Q2,Botaniq — FR — TV — 2024 Q2,8,4,1,2024-04-01,2024-06-30,Awareness,Fresh Botanics,203357.52
+374,BTN_UK_TV_2024Q2,Botaniq — UK — TV — 2024 Q2,8,4,2,2024-04-01,2024-06-30,Awareness,Night Ritual,209787.07
+375,BTN_US_TV_2024Q2,Botaniq — US — TV — 2024 Q2,8,4,3,2024-04-01,2024-06-30,Brand Lift,Signature Scent,258613.92
+376,BTN_DE_TV_2024Q2,Botaniq — DE — TV — 2024 Q2,8,4,4,2024-04-01,2024-06-30,Brand Lift,Night Ritual,193136.41
+377,BTN_FR_INFL_2024Q2,Botaniq — FR — Influencer — 2024 Q2,8,5,1,2024-04-01,2024-06-30,Consideration,Glow Routine,42243.26
+378,BTN_UK_INFL_2024Q2,Botaniq — UK — Influencer — 2024 Q2,8,5,2,2024-04-01,2024-06-30,Consideration,Silk Repair,40986.99
+379,BTN_US_INFL_2024Q2,Botaniq — US — Influencer — 2024 Q2,8,5,3,2024-04-01,2024-06-30,Consideration,Night Ritual,55185.51
+380,BTN_DE_INFL_2024Q2,Botaniq — DE — Influencer — 2024 Q2,8,5,4,2024-04-01,2024-06-30,Awareness,Cinematic Launch,41999.81
+381,BTN_FR_RET_MED_2024Q2,Botaniq — FR — Retail Media — 2024 Q2,8,6,1,2024-04-01,2024-06-30,Sales,Silk Repair,53260.6
+382,BTN_UK_RET_MED_2024Q2,Botaniq — UK — Retail Media — 2024 Q2,8,6,2,2024-04-01,2024-06-30,Sales,Cinematic Launch,55694.06
+383,BTN_US_RET_MED_2024Q2,Botaniq — US — Retail Media — 2024 Q2,8,6,3,2024-04-01,2024-06-30,Conversion,Studio Pro,58351.33
+384,BTN_DE_RET_MED_2024Q2,Botaniq — DE — Retail Media — 2024 Q2,8,6,4,2024-04-01,2024-06-30,Sales,Glow Routine,51133.41
+385,LEC_FR_PAID_SOC_2024Q3,Lumière Éclat — FR — Paid Social — 2024 Q3,1,1,1,2024-07-01,2024-09-30,Awareness,Cinematic Launch,103604.48
+386,LEC_UK_PAID_SOC_2024Q3,Lumière Éclat — UK — Paid Social — 2024 Q3,1,1,2,2024-07-01,2024-09-30,Awareness,Glow Routine,107180.18
+387,LEC_US_PAID_SOC_2024Q3,Lumière Éclat — US — Paid Social — 2024 Q3,1,1,3,2024-07-01,2024-09-30,Awareness,Fresh Botanics,127055.52
+388,LEC_DE_PAID_SOC_2024Q3,Lumière Éclat — DE — Paid Social — 2024 Q3,1,1,4,2024-07-01,2024-09-30,Awareness,Cinematic Launch,110601.08
+389,LEC_FR_PAID_SEA_2024Q3,Lumière Éclat — FR — Paid Search — 2024 Q3,1,2,1,2024-07-01,2024-09-30,Sales,Fresh Botanics,73029.37
+390,LEC_UK_PAID_SEA_2024Q3,Lumière Éclat — UK — Paid Search — 2024 Q3,1,2,2,2024-07-01,2024-09-30,Sales,Signature Scent,94410.86
+391,LEC_US_PAID_SEA_2024Q3,Lumière Éclat — US — Paid Search — 2024 Q3,1,2,3,2024-07-01,2024-09-30,Conversion,Night Ritual,105176.81
+392,LEC_DE_PAID_SEA_2024Q3,Lumière Éclat — DE — Paid Search — 2024 Q3,1,2,4,2024-07-01,2024-09-30,Sales,Bold Color,83770.97
+393,LEC_FR_PROG_2024Q3,Lumière Éclat — FR — Programmatic — 2024 Q3,1,3,1,2024-07-01,2024-09-30,Traffic,Studio Pro,107826.84
+394,LEC_UK_PROG_2024Q3,Lumière Éclat — UK — Programmatic — 2024 Q3,1,3,2,2024-07-01,2024-09-30,Traffic,Signature Scent,111689.52
+395,LEC_US_PROG_2024Q3,Lumière Éclat — US — Programmatic — 2024 Q3,1,3,3,2024-07-01,2024-09-30,Traffic,Signature Scent,133284.74
+396,LEC_DE_PROG_2024Q3,Lumière Éclat — DE — Programmatic — 2024 Q3,1,3,4,2024-07-01,2024-09-30,Consideration,Glow Routine,109598.38
+397,LEC_FR_TV_2024Q3,Lumière Éclat — FR — TV — 2024 Q3,1,4,1,2024-07-01,2024-09-30,Brand Lift,Night Ritual,262029.76
+398,LEC_UK_TV_2024Q3,Lumière Éclat — UK — TV — 2024 Q3,1,4,2,2024-07-01,2024-09-30,Brand Lift,Cinematic Launch,300492.23
+399,LEC_US_TV_2024Q3,Lumière Éclat — US — TV — 2024 Q3,1,4,3,2024-07-01,2024-09-30,Awareness,Cinematic Launch,310377.98
+400,LEC_DE_TV_2024Q3,Lumière Éclat — DE — TV — 2024 Q3,1,4,4,2024-07-01,2024-09-30,Brand Lift,Silk Repair,318728.21
+401,LEC_FR_INFL_2024Q3,Lumière Éclat — FR — Influencer — 2024 Q3,1,5,1,2024-07-01,2024-09-30,Awareness,Silk Repair,59071.62
+402,LEC_UK_INFL_2024Q3,Lumière Éclat — UK — Influencer — 2024 Q3,1,5,2,2024-07-01,2024-09-30,Awareness,Studio Pro,67472.29
+403,LEC_US_INFL_2024Q3,Lumière Éclat — US — Influencer — 2024 Q3,1,5,3,2024-07-01,2024-09-30,Awareness,Glow Routine,64192.68
+404,LEC_DE_INFL_2024Q3,Lumière Éclat — DE — Influencer — 2024 Q3,1,5,4,2024-07-01,2024-09-30,Consideration,Silk Repair,56367.7
+405,LEC_FR_RET_MED_2024Q3,Lumière Éclat — FR — Retail Media — 2024 Q3,1,6,1,2024-07-01,2024-09-30,Sales,Fresh Botanics,100409.08
+406,LEC_UK_RET_MED_2024Q3,Lumière Éclat — UK — Retail Media — 2024 Q3,1,6,2,2024-07-01,2024-09-30,Conversion,Cinematic Launch,78550.73
+407,LEC_US_RET_MED_2024Q3,Lumière Éclat — US — Retail Media — 2024 Q3,1,6,3,2024-07-01,2024-09-30,Sales,Studio Pro,103180.03
+408,LEC_DE_RET_MED_2024Q3,Lumière Éclat — DE — Retail Media — 2024 Q3,1,6,4,2024-07-01,2024-09-30,Conversion,Glow Routine,97929.18
+409,AUS_FR_PAID_SOC_2024Q3,Aurora Skin — FR — Paid Social — 2024 Q3,2,1,1,2024-07-01,2024-09-30,Awareness,Studio Pro,84912.25
+410,AUS_UK_PAID_SOC_2024Q3,Aurora Skin — UK — Paid Social — 2024 Q3,2,1,2,2024-07-01,2024-09-30,Awareness,Fresh Botanics,82198.53
+411,AUS_US_PAID_SOC_2024Q3,Aurora Skin — US — Paid Social — 2024 Q3,2,1,3,2024-07-01,2024-09-30,Consideration,Cinematic Launch,99340.57
+412,AUS_DE_PAID_SOC_2024Q3,Aurora Skin — DE — Paid Social — 2024 Q3,2,1,4,2024-07-01,2024-09-30,Awareness,Night Ritual,88123.25
+413,AUS_FR_PAID_SEA_2024Q3,Aurora Skin — FR — Paid Search — 2024 Q3,2,2,1,2024-07-01,2024-09-30,Sales,Signature Scent,58384.34
+414,AUS_UK_PAID_SEA_2024Q3,Aurora Skin — UK — Paid Search — 2024 Q3,2,2,2,2024-07-01,2024-09-30,Conversion,Fresh Botanics,65885.37
+415,AUS_US_PAID_SEA_2024Q3,Aurora Skin — US — Paid Search — 2024 Q3,2,2,3,2024-07-01,2024-09-30,Sales,Signature Scent,72687.22
+416,AUS_DE_PAID_SEA_2024Q3,Aurora Skin — DE — Paid Search — 2024 Q3,2,2,4,2024-07-01,2024-09-30,Sales,Fresh Botanics,69346.25
+417,AUS_FR_PROG_2024Q3,Aurora Skin — FR — Programmatic — 2024 Q3,2,3,1,2024-07-01,2024-09-30,Traffic,Bold Color,99535.55
+418,AUS_UK_PROG_2024Q3,Aurora Skin — UK — Programmatic — 2024 Q3,2,3,2,2024-07-01,2024-09-30,Traffic,Silk Repair,101217.57
+419,AUS_US_PROG_2024Q3,Aurora Skin — US — Programmatic — 2024 Q3,2,3,3,2024-07-01,2024-09-30,Consideration,Signature Scent,124435.61
+420,AUS_DE_PROG_2024Q3,Aurora Skin — DE — Programmatic — 2024 Q3,2,3,4,2024-07-01,2024-09-30,Consideration,Bold Color,94913.43
+421,AUS_FR_TV_2024Q3,Aurora Skin — FR — TV — 2024 Q3,2,4,1,2024-07-01,2024-09-30,Brand Lift,Cinematic Launch,274379.76
+422,AUS_UK_TV_2024Q3,Aurora Skin — UK — TV — 2024 Q3,2,4,2,2024-07-01,2024-09-30,Awareness,Fresh Botanics,257293.98
+423,AUS_US_TV_2024Q3,Aurora Skin — US — TV — 2024 Q3,2,4,3,2024-07-01,2024-09-30,Brand Lift,Cinematic Launch,323676.73
+424,AUS_DE_TV_2024Q3,Aurora Skin — DE — TV — 2024 Q3,2,4,4,2024-07-01,2024-09-30,Brand Lift,Bold Color,265803.17
+425,AUS_FR_INFL_2024Q3,Aurora Skin — FR — Influencer — 2024 Q3,2,5,1,2024-07-01,2024-09-30,Awareness,Glow Routine,59769.41
+426,AUS_UK_INFL_2024Q3,Aurora Skin — UK — Influencer — 2024 Q3,2,5,2,2024-07-01,2024-09-30,Awareness,Glow Routine,50156.18
+427,AUS_US_INFL_2024Q3,Aurora Skin — US — Influencer — 2024 Q3,2,5,3,2024-07-01,2024-09-30,Consideration,Signature Scent,67847.9
+428,AUS_DE_INFL_2024Q3,Aurora Skin — DE — Influencer — 2024 Q3,2,5,4,2024-07-01,2024-09-30,Awareness,Glow Routine,52024.36
+429,AUS_FR_RET_MED_2024Q3,Aurora Skin — FR — Retail Media — 2024 Q3,2,6,1,2024-07-01,2024-09-30,Sales,Silk Repair,81842.96
+430,AUS_UK_RET_MED_2024Q3,Aurora Skin — UK — Retail Media — 2024 Q3,2,6,2,2024-07-01,2024-09-30,Sales,Bold Color,77569.04
+431,AUS_US_RET_MED_2024Q3,Aurora Skin — US — Retail Media — 2024 Q3,2,6,3,2024-07-01,2024-09-30,Conversion,Silk Repair,90386.03
+432,AUS_DE_RET_MED_2024Q3,Aurora Skin — DE — Retail Media — 2024 Q3,2,6,4,2024-07-01,2024-09-30,Sales,Signature Scent,75042.04
+433,NAB_FR_PAID_SOC_2024Q3,Noir Absolu — FR — Paid Social — 2024 Q3,3,1,1,2024-07-01,2024-09-30,Awareness,Cinematic Launch,112119.2
+434,NAB_UK_PAID_SOC_2024Q3,Noir Absolu — UK — Paid Social — 2024 Q3,3,1,2,2024-07-01,2024-09-30,Consideration,Signature Scent,114390.07
+435,NAB_US_PAID_SOC_2024Q3,Noir Absolu — US — Paid Social — 2024 Q3,3,1,3,2024-07-01,2024-09-30,Consideration,Cinematic Launch,104801.71
+436,NAB_DE_PAID_SOC_2024Q3,Noir Absolu — DE — Paid Social — 2024 Q3,3,1,4,2024-07-01,2024-09-30,Awareness,Silk Repair,85694.2
+437,NAB_FR_PAID_SEA_2024Q3,Noir Absolu — FR — Paid Search — 2024 Q3,3,2,1,2024-07-01,2024-09-30,Conversion,Studio Pro,78255.4
+438,NAB_UK_PAID_SEA_2024Q3,Noir Absolu — UK — Paid Search — 2024 Q3,3,2,2,2024-07-01,2024-09-30,Sales,Silk Repair,95231.9
+439,NAB_US_PAID_SEA_2024Q3,Noir Absolu — US — Paid Search — 2024 Q3,3,2,3,2024-07-01,2024-09-30,Sales,Bold Color,88367.56
+440,NAB_DE_PAID_SEA_2024Q3,Noir Absolu — DE — Paid Search — 2024 Q3,3,2,4,2024-07-01,2024-09-30,Conversion,Fresh Botanics,83224.12
+441,NAB_FR_PROG_2024Q3,Noir Absolu — FR — Programmatic — 2024 Q3,3,3,1,2024-07-01,2024-09-30,Consideration,Bold Color,115934.9
+442,NAB_UK_PROG_2024Q3,Noir Absolu — UK — Programmatic — 2024 Q3,3,3,2,2024-07-01,2024-09-30,Traffic,Studio Pro,116978.25
+443,NAB_US_PROG_2024Q3,Noir Absolu — US — Programmatic — 2024 Q3,3,3,3,2024-07-01,2024-09-30,Consideration,Glow Routine,124609.06
+444,NAB_DE_PROG_2024Q3,Noir Absolu — DE — Programmatic — 2024 Q3,3,3,4,2024-07-01,2024-09-30,Consideration,Bold Color,100049.92
+445,NAB_FR_TV_2024Q3,Noir Absolu — FR — TV — 2024 Q3,3,4,1,2024-07-01,2024-09-30,Awareness,Glow Routine,316610.59
+446,NAB_UK_TV_2024Q3,Noir Absolu — UK — TV — 2024 Q3,3,4,2,2024-07-01,2024-09-30,Awareness,Night Ritual,357987.9
+447,NAB_US_TV_2024Q3,Noir Absolu — US — TV — 2024 Q3,3,4,3,2024-07-01,2024-09-30,Brand Lift,Glow Routine,303488.69
+448,NAB_DE_TV_2024Q3,Noir Absolu — DE — TV — 2024 Q3,3,4,4,2024-07-01,2024-09-30,Awareness,Signature Scent,334293.24
+449,NAB_FR_INFL_2024Q3,Noir Absolu — FR — Influencer — 2024 Q3,3,5,1,2024-07-01,2024-09-30,Awareness,Night Ritual,56914.15
+450,NAB_UK_INFL_2024Q3,Noir Absolu — UK — Influencer — 2024 Q3,3,5,2,2024-07-01,2024-09-30,Consideration,Glow Routine,66058.37
+451,NAB_US_INFL_2024Q3,Noir Absolu — US — Influencer — 2024 Q3,3,5,3,2024-07-01,2024-09-30,Awareness,Bold Color,66687.92
+452,NAB_DE_INFL_2024Q3,Noir Absolu — DE — Influencer — 2024 Q3,3,5,4,2024-07-01,2024-09-30,Awareness,Cinematic Launch,62152.96
+453,NAB_FR_RET_MED_2024Q3,Noir Absolu — FR — Retail Media — 2024 Q3,3,6,1,2024-07-01,2024-09-30,Conversion,Studio Pro,91503.63
+454,NAB_UK_RET_MED_2024Q3,Noir Absolu — UK — Retail Media — 2024 Q3,3,6,2,2024-07-01,2024-09-30,Sales,Bold Color,81144.7
+455,NAB_US_RET_MED_2024Q3,Noir Absolu — US — Retail Media — 2024 Q3,3,6,3,2024-07-01,2024-09-30,Conversion,Night Ritual,94429.74
+456,NAB_DE_RET_MED_2024Q3,Noir Absolu — DE — Retail Media — 2024 Q3,3,6,4,2024-07-01,2024-09-30,Conversion,Signature Scent,97388.66
+457,VBL_FR_PAID_SOC_2024Q3,Velvet Bloom — FR — Paid Social — 2024 Q3,4,1,1,2024-07-01,2024-09-30,Consideration,Studio Pro,96211.13
+458,VBL_UK_PAID_SOC_2024Q3,Velvet Bloom — UK — Paid Social — 2024 Q3,4,1,2,2024-07-01,2024-09-30,Consideration,Studio Pro,100186.36
+459,VBL_US_PAID_SOC_2024Q3,Velvet Bloom — US — Paid Social — 2024 Q3,4,1,3,2024-07-01,2024-09-30,Consideration,Cinematic Launch,86103.26
+460,VBL_DE_PAID_SOC_2024Q3,Velvet Bloom — DE — Paid Social — 2024 Q3,4,1,4,2024-07-01,2024-09-30,Consideration,Night Ritual,85333.04
+461,VBL_FR_PAID_SEA_2024Q3,Velvet Bloom — FR — Paid Search — 2024 Q3,4,2,1,2024-07-01,2024-09-30,Conversion,Cinematic Launch,75330.19
+462,VBL_UK_PAID_SEA_2024Q3,Velvet Bloom — UK — Paid Search — 2024 Q3,4,2,2,2024-07-01,2024-09-30,Sales,Fresh Botanics,72573.28
+463,VBL_US_PAID_SEA_2024Q3,Velvet Bloom — US — Paid Search — 2024 Q3,4,2,3,2024-07-01,2024-09-30,Sales,Glow Routine,72677.59
+464,VBL_DE_PAID_SEA_2024Q3,Velvet Bloom — DE — Paid Search — 2024 Q3,4,2,4,2024-07-01,2024-09-30,Conversion,Glow Routine,75455.83
+465,VBL_FR_PROG_2024Q3,Velvet Bloom — FR — Programmatic — 2024 Q3,4,3,1,2024-07-01,2024-09-30,Consideration,Fresh Botanics,101165.92
+466,VBL_UK_PROG_2024Q3,Velvet Bloom — UK — Programmatic — 2024 Q3,4,3,2,2024-07-01,2024-09-30,Traffic,Night Ritual,95392.51
+467,VBL_US_PROG_2024Q3,Velvet Bloom — US — Programmatic — 2024 Q3,4,3,3,2024-07-01,2024-09-30,Traffic,Bold Color,117152.14
+468,VBL_DE_PROG_2024Q3,Velvet Bloom — DE — Programmatic — 2024 Q3,4,3,4,2024-07-01,2024-09-30,Consideration,Signature Scent,86188.16
+469,VBL_FR_TV_2024Q3,Velvet Bloom — FR — TV — 2024 Q3,4,4,1,2024-07-01,2024-09-30,Brand Lift,Studio Pro,223321.54
+470,VBL_UK_TV_2024Q3,Velvet Bloom — UK — TV — 2024 Q3,4,4,2,2024-07-01,2024-09-30,Awareness,Studio Pro,232879.41
+471,VBL_US_TV_2024Q3,Velvet Bloom — US — TV — 2024 Q3,4,4,3,2024-07-01,2024-09-30,Awareness,Night Ritual,319922.84
+472,VBL_DE_TV_2024Q3,Velvet Bloom — DE — TV — 2024 Q3,4,4,4,2024-07-01,2024-09-30,Brand Lift,Glow Routine,245465.74
+473,VBL_FR_INFL_2024Q3,Velvet Bloom — FR — Influencer — 2024 Q3,4,5,1,2024-07-01,2024-09-30,Awareness,Bold Color,48487.83
+474,VBL_UK_INFL_2024Q3,Velvet Bloom — UK — Influencer — 2024 Q3,4,5,2,2024-07-01,2024-09-30,Consideration,Silk Repair,60935.2
+475,VBL_US_INFL_2024Q3,Velvet Bloom — US — Influencer — 2024 Q3,4,5,3,2024-07-01,2024-09-30,Consideration,Signature Scent,57464.72
+476,VBL_DE_INFL_2024Q3,Velvet Bloom — DE — Influencer — 2024 Q3,4,5,4,2024-07-01,2024-09-30,Consideration,Fresh Botanics,48537.4
+477,VBL_FR_RET_MED_2024Q3,Velvet Bloom — FR — Retail Media — 2024 Q3,4,6,1,2024-07-01,2024-09-30,Conversion,Glow Routine,66030.65
+478,VBL_UK_RET_MED_2024Q3,Velvet Bloom — UK — Retail Media — 2024 Q3,4,6,2,2024-07-01,2024-09-30,Conversion,Studio Pro,86157.91
+479,VBL_US_RET_MED_2024Q3,Velvet Bloom — US — Retail Media — 2024 Q3,4,6,3,2024-07-01,2024-09-30,Conversion,Signature Scent,84972.85
+480,VBL_DE_RET_MED_2024Q3,Velvet Bloom — DE — Retail Media — 2024 Q3,4,6,4,2024-07-01,2024-09-30,Conversion,Bold Color,74155.89
+481,PRS_FR_PAID_SOC_2024Q3,Prisme Studio — FR — Paid Social — 2024 Q3,5,1,1,2024-07-01,2024-09-30,Awareness,Fresh Botanics,98036.89
+482,PRS_UK_PAID_SOC_2024Q3,Prisme Studio — UK — Paid Social — 2024 Q3,5,1,2,2024-07-01,2024-09-30,Awareness,Glow Routine,93208.41
+483,PRS_US_PAID_SOC_2024Q3,Prisme Studio — US — Paid Social — 2024 Q3,5,1,3,2024-07-01,2024-09-30,Awareness,Studio Pro,114380.06
+484,PRS_DE_PAID_SOC_2024Q3,Prisme Studio — DE — Paid Social — 2024 Q3,5,1,4,2024-07-01,2024-09-30,Consideration,Studio Pro,89907.31
+485,PRS_FR_PAID_SEA_2024Q3,Prisme Studio — FR — Paid Search — 2024 Q3,5,2,1,2024-07-01,2024-09-30,Conversion,Fresh Botanics,74125.61
+486,PRS_UK_PAID_SEA_2024Q3,Prisme Studio — UK — Paid Search — 2024 Q3,5,2,2,2024-07-01,2024-09-30,Conversion,Night Ritual,73284.83
+487,PRS_US_PAID_SEA_2024Q3,Prisme Studio — US — Paid Search — 2024 Q3,5,2,3,2024-07-01,2024-09-30,Conversion,Cinematic Launch,105122.28
+488,PRS_DE_PAID_SEA_2024Q3,Prisme Studio — DE — Paid Search — 2024 Q3,5,2,4,2024-07-01,2024-09-30,Conversion,Night Ritual,83885.65
+489,PRS_FR_PROG_2024Q3,Prisme Studio — FR — Programmatic — 2024 Q3,5,3,1,2024-07-01,2024-09-30,Consideration,Bold Color,109140.23
+490,PRS_UK_PROG_2024Q3,Prisme Studio — UK — Programmatic — 2024 Q3,5,3,2,2024-07-01,2024-09-30,Traffic,Fresh Botanics,107041.53
+491,PRS_US_PROG_2024Q3,Prisme Studio — US — Programmatic — 2024 Q3,5,3,3,2024-07-01,2024-09-30,Traffic,Studio Pro,141729.32
+492,PRS_DE_PROG_2024Q3,Prisme Studio — DE — Programmatic — 2024 Q3,5,3,4,2024-07-01,2024-09-30,Traffic,Silk Repair,111445.63
+493,PRS_FR_TV_2024Q3,Prisme Studio — FR — TV — 2024 Q3,5,4,1,2024-07-01,2024-09-30,Brand Lift,Glow Routine,337859.93
+494,PRS_UK_TV_2024Q3,Prisme Studio — UK — TV — 2024 Q3,5,4,2,2024-07-01,2024-09-30,Brand Lift,Night Ritual,272485.08
+495,PRS_US_TV_2024Q3,Prisme Studio — US — TV — 2024 Q3,5,4,3,2024-07-01,2024-09-30,Brand Lift,Night Ritual,375476.3
+496,PRS_DE_TV_2024Q3,Prisme Studio — DE — TV — 2024 Q3,5,4,4,2024-07-01,2024-09-30,Brand Lift,Fresh Botanics,322575.47
+497,PRS_FR_INFL_2024Q3,Prisme Studio — FR — Influencer — 2024 Q3,5,5,1,2024-07-01,2024-09-30,Consideration,Signature Scent,57099.15
+498,PRS_UK_INFL_2024Q3,Prisme Studio — UK — Influencer — 2024 Q3,5,5,2,2024-07-01,2024-09-30,Awareness,Studio Pro,64404.17
+499,PRS_US_INFL_2024Q3,Prisme Studio — US — Influencer — 2024 Q3,5,5,3,2024-07-01,2024-09-30,Awareness,Silk Repair,61143.53
+500,PRS_DE_INFL_2024Q3,Prisme Studio — DE — Influencer — 2024 Q3,5,5,4,2024-07-01,2024-09-30,Consideration,Studio Pro,58391.81
+501,PRS_FR_RET_MED_2024Q3,Prisme Studio — FR — Retail Media — 2024 Q3,5,6,1,2024-07-01,2024-09-30,Sales,Cinematic Launch,86404.38
+502,PRS_UK_RET_MED_2024Q3,Prisme Studio — UK — Retail Media — 2024 Q3,5,6,2,2024-07-01,2024-09-30,Sales,Glow Routine,82292.25
+503,PRS_US_RET_MED_2024Q3,Prisme Studio — US — Retail Media — 2024 Q3,5,6,3,2024-07-01,2024-09-30,Sales,Silk Repair,97392.75
+504,PRS_DE_RET_MED_2024Q3,Prisme Studio — DE — Retail Media — 2024 Q3,5,6,4,2024-07-01,2024-09-30,Conversion,Studio Pro,82752.86
+505,CPL_FR_PAID_SOC_2024Q3,Color Pop Lab — FR — Paid Social — 2024 Q3,6,1,1,2024-07-01,2024-09-30,Awareness,Silk Repair,67206.43
+506,CPL_UK_PAID_SOC_2024Q3,Color Pop Lab — UK — Paid Social — 2024 Q3,6,1,2,2024-07-01,2024-09-30,Awareness,Silk Repair,73535.47
+507,CPL_US_PAID_SOC_2024Q3,Color Pop Lab — US — Paid Social — 2024 Q3,6,1,3,2024-07-01,2024-09-30,Awareness,Bold Color,88758.43
+508,CPL_DE_PAID_SOC_2024Q3,Color Pop Lab — DE — Paid Social — 2024 Q3,6,1,4,2024-07-01,2024-09-30,Consideration,Night Ritual,61415.6
+509,CPL_FR_PAID_SEA_2024Q3,Color Pop Lab — FR — Paid Search — 2024 Q3,6,2,1,2024-07-01,2024-09-30,Conversion,Silk Repair,60985.08
+510,CPL_UK_PAID_SEA_2024Q3,Color Pop Lab — UK — Paid Search — 2024 Q3,6,2,2,2024-07-01,2024-09-30,Sales,Cinematic Launch,57135.92
+511,CPL_US_PAID_SEA_2024Q3,Color Pop Lab — US — Paid Search — 2024 Q3,6,2,3,2024-07-01,2024-09-30,Conversion,Studio Pro,68295.54
+512,CPL_DE_PAID_SEA_2024Q3,Color Pop Lab — DE — Paid Search — 2024 Q3,6,2,4,2024-07-01,2024-09-30,Conversion,Studio Pro,55770.68
+513,CPL_FR_PROG_2024Q3,Color Pop Lab — FR — Programmatic — 2024 Q3,6,3,1,2024-07-01,2024-09-30,Traffic,Silk Repair,71966.92
+514,CPL_UK_PROG_2024Q3,Color Pop Lab — UK — Programmatic — 2024 Q3,6,3,2,2024-07-01,2024-09-30,Consideration,Studio Pro,77104.02
+515,CPL_US_PROG_2024Q3,Color Pop Lab — US — Programmatic — 2024 Q3,6,3,3,2024-07-01,2024-09-30,Traffic,Silk Repair,85418.63
+516,CPL_DE_PROG_2024Q3,Color Pop Lab — DE — Programmatic — 2024 Q3,6,3,4,2024-07-01,2024-09-30,Traffic,Fresh Botanics,81544.01
+517,CPL_FR_TV_2024Q3,Color Pop Lab — FR — TV — 2024 Q3,6,4,1,2024-07-01,2024-09-30,Brand Lift,Fresh Botanics,228913.68
+518,CPL_UK_TV_2024Q3,Color Pop Lab — UK — TV — 2024 Q3,6,4,2,2024-07-01,2024-09-30,Awareness,Bold Color,223650.83
+519,CPL_US_TV_2024Q3,Color Pop Lab — US — TV — 2024 Q3,6,4,3,2024-07-01,2024-09-30,Awareness,Night Ritual,228136.07
+520,CPL_DE_TV_2024Q3,Color Pop Lab — DE — TV — 2024 Q3,6,4,4,2024-07-01,2024-09-30,Awareness,Bold Color,181099.39
+521,CPL_FR_INFL_2024Q3,Color Pop Lab — FR — Influencer — 2024 Q3,6,5,1,2024-07-01,2024-09-30,Consideration,Cinematic Launch,44635.5
+522,CPL_UK_INFL_2024Q3,Color Pop Lab — UK — Influencer — 2024 Q3,6,5,2,2024-07-01,2024-09-30,Awareness,Silk Repair,46805.95
+523,CPL_US_INFL_2024Q3,Color Pop Lab — US — Influencer — 2024 Q3,6,5,3,2024-07-01,2024-09-30,Awareness,Cinematic Launch,46331.74
+524,CPL_DE_INFL_2024Q3,Color Pop Lab — DE — Influencer — 2024 Q3,6,5,4,2024-07-01,2024-09-30,Consideration,Glow Routine,46046.43
+525,CPL_FR_RET_MED_2024Q3,Color Pop Lab — FR — Retail Media — 2024 Q3,6,6,1,2024-07-01,2024-09-30,Sales,Signature Scent,54978.24
+526,CPL_UK_RET_MED_2024Q3,Color Pop Lab — UK — Retail Media — 2024 Q3,6,6,2,2024-07-01,2024-09-30,Sales,Silk Repair,55528.33
+527,CPL_US_RET_MED_2024Q3,Color Pop Lab — US — Retail Media — 2024 Q3,6,6,3,2024-07-01,2024-09-30,Sales,Night Ritual,61007.48
+528,CPL_DE_RET_MED_2024Q3,Color Pop Lab — DE — Retail Media — 2024 Q3,6,6,4,2024-07-01,2024-09-30,Conversion,Night Ritual,62619.05
+529,SDR_FR_PAID_SOC_2024Q3,Soie Dorée — FR — Paid Social — 2024 Q3,7,1,1,2024-07-01,2024-09-30,Consideration,Studio Pro,91075.67
+530,SDR_UK_PAID_SOC_2024Q3,Soie Dorée — UK — Paid Social — 2024 Q3,7,1,2,2024-07-01,2024-09-30,Consideration,Fresh Botanics,111343.82
+531,SDR_US_PAID_SOC_2024Q3,Soie Dorée — US — Paid Social — 2024 Q3,7,1,3,2024-07-01,2024-09-30,Consideration,Studio Pro,118797.09
+532,SDR_DE_PAID_SOC_2024Q3,Soie Dorée — DE — Paid Social — 2024 Q3,7,1,4,2024-07-01,2024-09-30,Consideration,Night Ritual,103764.34
+533,SDR_FR_PAID_SEA_2024Q3,Soie Dorée — FR — Paid Search — 2024 Q3,7,2,1,2024-07-01,2024-09-30,Conversion,Night Ritual,92855.63
+534,SDR_UK_PAID_SEA_2024Q3,Soie Dorée — UK — Paid Search — 2024 Q3,7,2,2,2024-07-01,2024-09-30,Sales,Bold Color,90058.29
+535,SDR_US_PAID_SEA_2024Q3,Soie Dorée — US — Paid Search — 2024 Q3,7,2,3,2024-07-01,2024-09-30,Sales,Cinematic Launch,90636.1
+536,SDR_DE_PAID_SEA_2024Q3,Soie Dorée — DE — Paid Search — 2024 Q3,7,2,4,2024-07-01,2024-09-30,Sales,Studio Pro,83936.79
+537,SDR_FR_PROG_2024Q3,Soie Dorée — FR — Programmatic — 2024 Q3,7,3,1,2024-07-01,2024-09-30,Consideration,Bold Color,127212.89
+538,SDR_UK_PROG_2024Q3,Soie Dorée — UK — Programmatic — 2024 Q3,7,3,2,2024-07-01,2024-09-30,Traffic,Signature Scent,111824.77
+539,SDR_US_PROG_2024Q3,Soie Dorée — US — Programmatic — 2024 Q3,7,3,3,2024-07-01,2024-09-30,Traffic,Fresh Botanics,128980.05
+540,SDR_DE_PROG_2024Q3,Soie Dorée — DE — Programmatic — 2024 Q3,7,3,4,2024-07-01,2024-09-30,Consideration,Silk Repair,106901.26
+541,SDR_FR_TV_2024Q3,Soie Dorée — FR — TV — 2024 Q3,7,4,1,2024-07-01,2024-09-30,Brand Lift,Glow Routine,337140.47
+542,SDR_UK_TV_2024Q3,Soie Dorée — UK — TV — 2024 Q3,7,4,2,2024-07-01,2024-09-30,Brand Lift,Studio Pro,347444.01
+543,SDR_US_TV_2024Q3,Soie Dorée — US — TV — 2024 Q3,7,4,3,2024-07-01,2024-09-30,Brand Lift,Studio Pro,370356.62
+544,SDR_DE_TV_2024Q3,Soie Dorée — DE — TV — 2024 Q3,7,4,4,2024-07-01,2024-09-30,Brand Lift,Signature Scent,323633.11
+545,SDR_FR_INFL_2024Q3,Soie Dorée — FR — Influencer — 2024 Q3,7,5,1,2024-07-01,2024-09-30,Awareness,Bold Color,61683.48
+546,SDR_UK_INFL_2024Q3,Soie Dorée — UK — Influencer — 2024 Q3,7,5,2,2024-07-01,2024-09-30,Consideration,Glow Routine,68476.13
+547,SDR_US_INFL_2024Q3,Soie Dorée — US — Influencer — 2024 Q3,7,5,3,2024-07-01,2024-09-30,Consideration,Night Ritual,66652.74
+548,SDR_DE_INFL_2024Q3,Soie Dorée — DE — Influencer — 2024 Q3,7,5,4,2024-07-01,2024-09-30,Awareness,Fresh Botanics,60812.17
+549,SDR_FR_RET_MED_2024Q3,Soie Dorée — FR — Retail Media — 2024 Q3,7,6,1,2024-07-01,2024-09-30,Conversion,Glow Routine,95796.47
+550,SDR_UK_RET_MED_2024Q3,Soie Dorée — UK — Retail Media — 2024 Q3,7,6,2,2024-07-01,2024-09-30,Conversion,Signature Scent,82715.97
+551,SDR_US_RET_MED_2024Q3,Soie Dorée — US — Retail Media — 2024 Q3,7,6,3,2024-07-01,2024-09-30,Conversion,Cinematic Launch,95678.17
+552,SDR_DE_RET_MED_2024Q3,Soie Dorée — DE — Retail Media — 2024 Q3,7,6,4,2024-07-01,2024-09-30,Conversion,Signature Scent,96403.31
+553,BTN_FR_PAID_SOC_2024Q3,Botaniq — FR — Paid Social — 2024 Q3,8,1,1,2024-07-01,2024-09-30,Awareness,Glow Routine,73596.45
+554,BTN_UK_PAID_SOC_2024Q3,Botaniq — UK — Paid Social — 2024 Q3,8,1,2,2024-07-01,2024-09-30,Consideration,Cinematic Launch,69045.14
+555,BTN_US_PAID_SOC_2024Q3,Botaniq — US — Paid Social — 2024 Q3,8,1,3,2024-07-01,2024-09-30,Awareness,Studio Pro,70988.18
+556,BTN_DE_PAID_SOC_2024Q3,Botaniq — DE — Paid Social — 2024 Q3,8,1,4,2024-07-01,2024-09-30,Consideration,Glow Routine,66425.13
+557,BTN_FR_PAID_SEA_2024Q3,Botaniq — FR — Paid Search — 2024 Q3,8,2,1,2024-07-01,2024-09-30,Conversion,Fresh Botanics,62425.33
+558,BTN_UK_PAID_SEA_2024Q3,Botaniq — UK — Paid Search — 2024 Q3,8,2,2,2024-07-01,2024-09-30,Conversion,Studio Pro,50522.63
+559,BTN_US_PAID_SEA_2024Q3,Botaniq — US — Paid Search — 2024 Q3,8,2,3,2024-07-01,2024-09-30,Sales,Glow Routine,69079.33
+560,BTN_DE_PAID_SEA_2024Q3,Botaniq — DE — Paid Search — 2024 Q3,8,2,4,2024-07-01,2024-09-30,Conversion,Night Ritual,61628.87
+561,BTN_FR_PROG_2024Q3,Botaniq — FR — Programmatic — 2024 Q3,8,3,1,2024-07-01,2024-09-30,Consideration,Silk Repair,67591.84
+562,BTN_UK_PROG_2024Q3,Botaniq — UK — Programmatic — 2024 Q3,8,3,2,2024-07-01,2024-09-30,Traffic,Signature Scent,72526.0
+563,BTN_US_PROG_2024Q3,Botaniq — US — Programmatic — 2024 Q3,8,3,3,2024-07-01,2024-09-30,Consideration,Bold Color,89352.29
+564,BTN_DE_PROG_2024Q3,Botaniq — DE — Programmatic — 2024 Q3,8,3,4,2024-07-01,2024-09-30,Consideration,Fresh Botanics,80772.44
+565,BTN_FR_TV_2024Q3,Botaniq — FR — TV — 2024 Q3,8,4,1,2024-07-01,2024-09-30,Brand Lift,Silk Repair,234112.97
+566,BTN_UK_TV_2024Q3,Botaniq — UK — TV — 2024 Q3,8,4,2,2024-07-01,2024-09-30,Awareness,Studio Pro,215257.68
+567,BTN_US_TV_2024Q3,Botaniq — US — TV — 2024 Q3,8,4,3,2024-07-01,2024-09-30,Awareness,Cinematic Launch,250635.61
+568,BTN_DE_TV_2024Q3,Botaniq — DE — TV — 2024 Q3,8,4,4,2024-07-01,2024-09-30,Awareness,Studio Pro,192881.57
+569,BTN_FR_INFL_2024Q3,Botaniq — FR — Influencer — 2024 Q3,8,5,1,2024-07-01,2024-09-30,Awareness,Bold Color,41540.91
+570,BTN_UK_INFL_2024Q3,Botaniq — UK — Influencer — 2024 Q3,8,5,2,2024-07-01,2024-09-30,Awareness,Cinematic Launch,46931.19
+571,BTN_US_INFL_2024Q3,Botaniq — US — Influencer — 2024 Q3,8,5,3,2024-07-01,2024-09-30,Consideration,Night Ritual,53089.94
+572,BTN_DE_INFL_2024Q3,Botaniq — DE — Influencer — 2024 Q3,8,5,4,2024-07-01,2024-09-30,Consideration,Signature Scent,46595.69
+573,BTN_FR_RET_MED_2024Q3,Botaniq — FR — Retail Media — 2024 Q3,8,6,1,2024-07-01,2024-09-30,Sales,Bold Color,56314.59
+574,BTN_UK_RET_MED_2024Q3,Botaniq — UK — Retail Media — 2024 Q3,8,6,2,2024-07-01,2024-09-30,Conversion,Silk Repair,68123.79
+575,BTN_US_RET_MED_2024Q3,Botaniq — US — Retail Media — 2024 Q3,8,6,3,2024-07-01,2024-09-30,Conversion,Bold Color,76492.94
+576,BTN_DE_RET_MED_2024Q3,Botaniq — DE — Retail Media — 2024 Q3,8,6,4,2024-07-01,2024-09-30,Conversion,Glow Routine,66266.38
+577,LEC_FR_PAID_SOC_2024Q4,Lumière Éclat — FR — Paid Social — 2024 Q4,1,1,1,2024-10-01,2024-12-31,Consideration,Cinematic Launch,89605.77
+578,LEC_UK_PAID_SOC_2024Q4,Lumière Éclat — UK — Paid Social — 2024 Q4,1,1,2,2024-10-01,2024-12-31,Awareness,Fresh Botanics,91376.83
+579,LEC_US_PAID_SOC_2024Q4,Lumière Éclat — US — Paid Social — 2024 Q4,1,1,3,2024-10-01,2024-12-31,Consideration,Cinematic Launch,97767.9
+580,LEC_DE_PAID_SOC_2024Q4,Lumière Éclat — DE — Paid Social — 2024 Q4,1,1,4,2024-10-01,2024-12-31,Awareness,Bold Color,108238.72
+581,LEC_FR_PAID_SEA_2024Q4,Lumière Éclat — FR — Paid Search — 2024 Q4,1,2,1,2024-10-01,2024-12-31,Conversion,Cinematic Launch,84961.28
+582,LEC_UK_PAID_SEA_2024Q4,Lumière Éclat — UK — Paid Search — 2024 Q4,1,2,2,2024-10-01,2024-12-31,Sales,Signature Scent,76815.4
+583,LEC_US_PAID_SEA_2024Q4,Lumière Éclat — US — Paid Search — 2024 Q4,1,2,3,2024-10-01,2024-12-31,Conversion,Glow Routine,103551.2
+584,LEC_DE_PAID_SEA_2024Q4,Lumière Éclat — DE — Paid Search — 2024 Q4,1,2,4,2024-10-01,2024-12-31,Conversion,Signature Scent,82199.21
+585,LEC_FR_PROG_2024Q4,Lumière Éclat — FR — Programmatic — 2024 Q4,1,3,1,2024-10-01,2024-12-31,Consideration,Signature Scent,98755.52
+586,LEC_UK_PROG_2024Q4,Lumière Éclat — UK — Programmatic — 2024 Q4,1,3,2,2024-10-01,2024-12-31,Consideration,Bold Color,126551.95
+587,LEC_US_PROG_2024Q4,Lumière Éclat — US — Programmatic — 2024 Q4,1,3,3,2024-10-01,2024-12-31,Traffic,Night Ritual,139168.52
+588,LEC_DE_PROG_2024Q4,Lumière Éclat — DE — Programmatic — 2024 Q4,1,3,4,2024-10-01,2024-12-31,Consideration,Fresh Botanics,120946.48
+589,LEC_FR_TV_2024Q4,Lumière Éclat — FR — TV — 2024 Q4,1,4,1,2024-10-01,2024-12-31,Brand Lift,Bold Color,288111.39
+590,LEC_UK_TV_2024Q4,Lumière Éclat — UK — TV — 2024 Q4,1,4,2,2024-10-01,2024-12-31,Awareness,Glow Routine,287441.85
+591,LEC_US_TV_2024Q4,Lumière Éclat — US — TV — 2024 Q4,1,4,3,2024-10-01,2024-12-31,Brand Lift,Signature Scent,305557.22
+592,LEC_DE_TV_2024Q4,Lumière Éclat — DE — TV — 2024 Q4,1,4,4,2024-10-01,2024-12-31,Brand Lift,Cinematic Launch,270866.22
+593,LEC_FR_INFL_2024Q4,Lumière Éclat — FR — Influencer — 2024 Q4,1,5,1,2024-10-01,2024-12-31,Awareness,Glow Routine,68558.27
+594,LEC_UK_INFL_2024Q4,Lumière Éclat — UK — Influencer — 2024 Q4,1,5,2,2024-10-01,2024-12-31,Awareness,Bold Color,75279.52
+595,LEC_US_INFL_2024Q4,Lumière Éclat — US — Influencer — 2024 Q4,1,5,3,2024-10-01,2024-12-31,Consideration,Glow Routine,75185.7
+596,LEC_DE_INFL_2024Q4,Lumière Éclat — DE — Influencer — 2024 Q4,1,5,4,2024-10-01,2024-12-31,Awareness,Bold Color,60492.22
+597,LEC_FR_RET_MED_2024Q4,Lumière Éclat — FR — Retail Media — 2024 Q4,1,6,1,2024-10-01,2024-12-31,Conversion,Studio Pro,99984.39
+598,LEC_UK_RET_MED_2024Q4,Lumière Éclat — UK — Retail Media — 2024 Q4,1,6,2,2024-10-01,2024-12-31,Sales,Signature Scent,83394.04
+599,LEC_US_RET_MED_2024Q4,Lumière Éclat — US — Retail Media — 2024 Q4,1,6,3,2024-10-01,2024-12-31,Sales,Glow Routine,105336.48
+600,LEC_DE_RET_MED_2024Q4,Lumière Éclat — DE — Retail Media — 2024 Q4,1,6,4,2024-10-01,2024-12-31,Sales,Night Ritual,93661.53
+601,AUS_FR_PAID_SOC_2024Q4,Aurora Skin — FR — Paid Social — 2024 Q4,2,1,1,2024-10-01,2024-12-31,Awareness,Fresh Botanics,85282.9
+602,AUS_UK_PAID_SOC_2024Q4,Aurora Skin — UK — Paid Social — 2024 Q4,2,1,2,2024-10-01,2024-12-31,Awareness,Signature Scent,93770.7
+603,AUS_US_PAID_SOC_2024Q4,Aurora Skin — US — Paid Social — 2024 Q4,2,1,3,2024-10-01,2024-12-31,Awareness,Cinematic Launch,83543.33
+604,AUS_DE_PAID_SOC_2024Q4,Aurora Skin — DE — Paid Social — 2024 Q4,2,1,4,2024-10-01,2024-12-31,Consideration,Fresh Botanics,83652.04
+605,AUS_FR_PAID_SEA_2024Q4,Aurora Skin — FR — Paid Search — 2024 Q4,2,2,1,2024-10-01,2024-12-31,Sales,Night Ritual,66584.48
+606,AUS_UK_PAID_SEA_2024Q4,Aurora Skin — UK — Paid Search — 2024 Q4,2,2,2,2024-10-01,2024-12-31,Conversion,Signature Scent,78684.24
+607,AUS_US_PAID_SEA_2024Q4,Aurora Skin — US — Paid Search — 2024 Q4,2,2,3,2024-10-01,2024-12-31,Conversion,Fresh Botanics,75788.38
+608,AUS_DE_PAID_SEA_2024Q4,Aurora Skin — DE — Paid Search — 2024 Q4,2,2,4,2024-10-01,2024-12-31,Sales,Night Ritual,68698.78
+609,AUS_FR_PROG_2024Q4,Aurora Skin — FR — Programmatic — 2024 Q4,2,3,1,2024-10-01,2024-12-31,Consideration,Night Ritual,96317.1
+610,AUS_UK_PROG_2024Q4,Aurora Skin — UK — Programmatic — 2024 Q4,2,3,2,2024-10-01,2024-12-31,Traffic,Silk Repair,86308.26
+611,AUS_US_PROG_2024Q4,Aurora Skin — US — Programmatic — 2024 Q4,2,3,3,2024-10-01,2024-12-31,Consideration,Cinematic Launch,99294.52
+612,AUS_DE_PROG_2024Q4,Aurora Skin — DE — Programmatic — 2024 Q4,2,3,4,2024-10-01,2024-12-31,Traffic,Studio Pro,98647.34
+613,AUS_FR_TV_2024Q4,Aurora Skin — FR — TV — 2024 Q4,2,4,1,2024-10-01,2024-12-31,Brand Lift,Glow Routine,281503.96
+614,AUS_UK_TV_2024Q4,Aurora Skin — UK — TV — 2024 Q4,2,4,2,2024-10-01,2024-12-31,Awareness,Bold Color,262702.16
+615,AUS_US_TV_2024Q4,Aurora Skin — US — TV — 2024 Q4,2,4,3,2024-10-01,2024-12-31,Brand Lift,Studio Pro,251501.77
+616,AUS_DE_TV_2024Q4,Aurora Skin — DE — TV — 2024 Q4,2,4,4,2024-10-01,2024-12-31,Awareness,Glow Routine,258484.31
+617,AUS_FR_INFL_2024Q4,Aurora Skin — FR — Influencer — 2024 Q4,2,5,1,2024-10-01,2024-12-31,Awareness,Glow Routine,55327.55
+618,AUS_UK_INFL_2024Q4,Aurora Skin — UK — Influencer — 2024 Q4,2,5,2,2024-10-01,2024-12-31,Awareness,Glow Routine,48496.06
+619,AUS_US_INFL_2024Q4,Aurora Skin — US — Influencer — 2024 Q4,2,5,3,2024-10-01,2024-12-31,Awareness,Glow Routine,58975.52
+620,AUS_DE_INFL_2024Q4,Aurora Skin — DE — Influencer — 2024 Q4,2,5,4,2024-10-01,2024-12-31,Consideration,Glow Routine,46746.4
+621,AUS_FR_RET_MED_2024Q4,Aurora Skin — FR — Retail Media — 2024 Q4,2,6,1,2024-10-01,2024-12-31,Sales,Signature Scent,69539.76
+622,AUS_UK_RET_MED_2024Q4,Aurora Skin — UK — Retail Media — 2024 Q4,2,6,2,2024-10-01,2024-12-31,Conversion,Night Ritual,66878.4
+623,AUS_US_RET_MED_2024Q4,Aurora Skin — US — Retail Media — 2024 Q4,2,6,3,2024-10-01,2024-12-31,Sales,Night Ritual,78561.1
+624,AUS_DE_RET_MED_2024Q4,Aurora Skin — DE — Retail Media — 2024 Q4,2,6,4,2024-10-01,2024-12-31,Sales,Fresh Botanics,67003.86
+625,NAB_FR_PAID_SOC_2024Q4,Noir Absolu — FR — Paid Social — 2024 Q4,3,1,1,2024-10-01,2024-12-31,Consideration,Studio Pro,112890.0
+626,NAB_UK_PAID_SOC_2024Q4,Noir Absolu — UK — Paid Social — 2024 Q4,3,1,2,2024-10-01,2024-12-31,Consideration,Cinematic Launch,92633.19
+627,NAB_US_PAID_SOC_2024Q4,Noir Absolu — US — Paid Social — 2024 Q4,3,1,3,2024-10-01,2024-12-31,Awareness,Cinematic Launch,119125.14
+628,NAB_DE_PAID_SOC_2024Q4,Noir Absolu — DE — Paid Social — 2024 Q4,3,1,4,2024-10-01,2024-12-31,Awareness,Cinematic Launch,110571.47
+629,NAB_FR_PAID_SEA_2024Q4,Noir Absolu — FR — Paid Search — 2024 Q4,3,2,1,2024-10-01,2024-12-31,Sales,Signature Scent,89045.34
+630,NAB_UK_PAID_SEA_2024Q4,Noir Absolu — UK — Paid Search — 2024 Q4,3,2,2,2024-10-01,2024-12-31,Sales,Fresh Botanics,98024.33
+631,NAB_US_PAID_SEA_2024Q4,Noir Absolu — US — Paid Search — 2024 Q4,3,2,3,2024-10-01,2024-12-31,Conversion,Cinematic Launch,90669.83
+632,NAB_DE_PAID_SEA_2024Q4,Noir Absolu — DE — Paid Search — 2024 Q4,3,2,4,2024-10-01,2024-12-31,Conversion,Night Ritual,92185.73
+633,NAB_FR_PROG_2024Q4,Noir Absolu — FR — Programmatic — 2024 Q4,3,3,1,2024-10-01,2024-12-31,Consideration,Fresh Botanics,122833.95
+634,NAB_UK_PROG_2024Q4,Noir Absolu — UK — Programmatic — 2024 Q4,3,3,2,2024-10-01,2024-12-31,Traffic,Glow Routine,135086.6
+635,NAB_US_PROG_2024Q4,Noir Absolu — US — Programmatic — 2024 Q4,3,3,3,2024-10-01,2024-12-31,Consideration,Bold Color,129129.4
+636,NAB_DE_PROG_2024Q4,Noir Absolu — DE — Programmatic — 2024 Q4,3,3,4,2024-10-01,2024-12-31,Consideration,Studio Pro,108474.72
+637,NAB_FR_TV_2024Q4,Noir Absolu — FR — TV — 2024 Q4,3,4,1,2024-10-01,2024-12-31,Brand Lift,Bold Color,307627.74
+638,NAB_UK_TV_2024Q4,Noir Absolu — UK — TV — 2024 Q4,3,4,2,2024-10-01,2024-12-31,Awareness,Glow Routine,298092.59
+639,NAB_US_TV_2024Q4,Noir Absolu — US — TV — 2024 Q4,3,4,3,2024-10-01,2024-12-31,Awareness,Glow Routine,303939.84
+640,NAB_DE_TV_2024Q4,Noir Absolu — DE — TV — 2024 Q4,3,4,4,2024-10-01,2024-12-31,Brand Lift,Signature Scent,308039.8
+641,NAB_FR_INFL_2024Q4,Noir Absolu — FR — Influencer — 2024 Q4,3,5,1,2024-10-01,2024-12-31,Consideration,Night Ritual,60787.55
+642,NAB_UK_INFL_2024Q4,Noir Absolu — UK — Influencer — 2024 Q4,3,5,2,2024-10-01,2024-12-31,Awareness,Bold Color,68246.37
+643,NAB_US_INFL_2024Q4,Noir Absolu — US — Influencer — 2024 Q4,3,5,3,2024-10-01,2024-12-31,Awareness,Studio Pro,81206.81
+644,NAB_DE_INFL_2024Q4,Noir Absolu — DE — Influencer — 2024 Q4,3,5,4,2024-10-01,2024-12-31,Consideration,Bold Color,59298.67
+645,NAB_FR_RET_MED_2024Q4,Noir Absolu — FR — Retail Media — 2024 Q4,3,6,1,2024-10-01,2024-12-31,Conversion,Bold Color,89283.27
+646,NAB_UK_RET_MED_2024Q4,Noir Absolu — UK — Retail Media — 2024 Q4,3,6,2,2024-10-01,2024-12-31,Conversion,Bold Color,96250.64
+647,NAB_US_RET_MED_2024Q4,Noir Absolu — US — Retail Media — 2024 Q4,3,6,3,2024-10-01,2024-12-31,Conversion,Fresh Botanics,95212.85
+648,NAB_DE_RET_MED_2024Q4,Noir Absolu — DE — Retail Media — 2024 Q4,3,6,4,2024-10-01,2024-12-31,Sales,Night Ritual,84313.06
+649,VBL_FR_PAID_SOC_2024Q4,Velvet Bloom — FR — Paid Social — 2024 Q4,4,1,1,2024-10-01,2024-12-31,Consideration,Cinematic Launch,75584.78
+650,VBL_UK_PAID_SOC_2024Q4,Velvet Bloom — UK — Paid Social — 2024 Q4,4,1,2,2024-10-01,2024-12-31,Consideration,Silk Repair,85265.5
+651,VBL_US_PAID_SOC_2024Q4,Velvet Bloom — US — Paid Social — 2024 Q4,4,1,3,2024-10-01,2024-12-31,Consideration,Glow Routine,98416.25
+652,VBL_DE_PAID_SOC_2024Q4,Velvet Bloom — DE — Paid Social — 2024 Q4,4,1,4,2024-10-01,2024-12-31,Consideration,Signature Scent,77887.04
+653,VBL_FR_PAID_SEA_2024Q4,Velvet Bloom — FR — Paid Search — 2024 Q4,4,2,1,2024-10-01,2024-12-31,Sales,Signature Scent,77003.16
+654,VBL_UK_PAID_SEA_2024Q4,Velvet Bloom — UK — Paid Search — 2024 Q4,4,2,2,2024-10-01,2024-12-31,Conversion,Fresh Botanics,75294.66
+655,VBL_US_PAID_SEA_2024Q4,Velvet Bloom — US — Paid Search — 2024 Q4,4,2,3,2024-10-01,2024-12-31,Sales,Cinematic Launch,88977.82
+656,VBL_DE_PAID_SEA_2024Q4,Velvet Bloom — DE — Paid Search — 2024 Q4,4,2,4,2024-10-01,2024-12-31,Sales,Bold Color,76929.36
+657,VBL_FR_PROG_2024Q4,Velvet Bloom — FR — Programmatic — 2024 Q4,4,3,1,2024-10-01,2024-12-31,Traffic,Fresh Botanics,80455.94
+658,VBL_UK_PROG_2024Q4,Velvet Bloom — UK — Programmatic — 2024 Q4,4,3,2,2024-10-01,2024-12-31,Traffic,Cinematic Launch,104595.62
+659,VBL_US_PROG_2024Q4,Velvet Bloom — US — Programmatic — 2024 Q4,4,3,3,2024-10-01,2024-12-31,Traffic,Fresh Botanics,93238.77
+660,VBL_DE_PROG_2024Q4,Velvet Bloom — DE — Programmatic — 2024 Q4,4,3,4,2024-10-01,2024-12-31,Consideration,Silk Repair,104483.32
+661,VBL_FR_TV_2024Q4,Velvet Bloom — FR — TV — 2024 Q4,4,4,1,2024-10-01,2024-12-31,Awareness,Bold Color,249411.26
+662,VBL_UK_TV_2024Q4,Velvet Bloom — UK — TV — 2024 Q4,4,4,2,2024-10-01,2024-12-31,Awareness,Cinematic Launch,287354.25
+663,VBL_US_TV_2024Q4,Velvet Bloom — US — TV — 2024 Q4,4,4,3,2024-10-01,2024-12-31,Brand Lift,Night Ritual,322729.71
+664,VBL_DE_TV_2024Q4,Velvet Bloom — DE — TV — 2024 Q4,4,4,4,2024-10-01,2024-12-31,Brand Lift,Night Ritual,256919.89
+665,VBL_FR_INFL_2024Q4,Velvet Bloom — FR — Influencer — 2024 Q4,4,5,1,2024-10-01,2024-12-31,Awareness,Night Ritual,47154.27
+666,VBL_UK_INFL_2024Q4,Velvet Bloom — UK — Influencer — 2024 Q4,4,5,2,2024-10-01,2024-12-31,Awareness,Signature Scent,55068.62
+667,VBL_US_INFL_2024Q4,Velvet Bloom — US — Influencer — 2024 Q4,4,5,3,2024-10-01,2024-12-31,Awareness,Fresh Botanics,68804.85
+668,VBL_DE_INFL_2024Q4,Velvet Bloom — DE — Influencer — 2024 Q4,4,5,4,2024-10-01,2024-12-31,Awareness,Studio Pro,58101.36
+669,VBL_FR_RET_MED_2024Q4,Velvet Bloom — FR — Retail Media — 2024 Q4,4,6,1,2024-10-01,2024-12-31,Sales,Glow Routine,75578.71
+670,VBL_UK_RET_MED_2024Q4,Velvet Bloom — UK — Retail Media — 2024 Q4,4,6,2,2024-10-01,2024-12-31,Sales,Studio Pro,74268.53
+671,VBL_US_RET_MED_2024Q4,Velvet Bloom — US — Retail Media — 2024 Q4,4,6,3,2024-10-01,2024-12-31,Conversion,Cinematic Launch,92410.24
+672,VBL_DE_RET_MED_2024Q4,Velvet Bloom — DE — Retail Media — 2024 Q4,4,6,4,2024-10-01,2024-12-31,Sales,Bold Color,74919.86
+673,PRS_FR_PAID_SOC_2024Q4,Prisme Studio — FR — Paid Social — 2024 Q4,5,1,1,2024-10-01,2024-12-31,Consideration,Studio Pro,103216.34
+674,PRS_UK_PAID_SOC_2024Q4,Prisme Studio — UK — Paid Social — 2024 Q4,5,1,2,2024-10-01,2024-12-31,Consideration,Bold Color,100904.51
+675,PRS_US_PAID_SOC_2024Q4,Prisme Studio — US — Paid Social — 2024 Q4,5,1,3,2024-10-01,2024-12-31,Awareness,Bold Color,101834.77
+676,PRS_DE_PAID_SOC_2024Q4,Prisme Studio — DE — Paid Social — 2024 Q4,5,1,4,2024-10-01,2024-12-31,Consideration,Signature Scent,110131.51
+677,PRS_FR_PAID_SEA_2024Q4,Prisme Studio — FR — Paid Search — 2024 Q4,5,2,1,2024-10-01,2024-12-31,Conversion,Night Ritual,76467.54
+678,PRS_UK_PAID_SEA_2024Q4,Prisme Studio — UK — Paid Search — 2024 Q4,5,2,2,2024-10-01,2024-12-31,Sales,Signature Scent,73129.12
+679,PRS_US_PAID_SEA_2024Q4,Prisme Studio — US — Paid Search — 2024 Q4,5,2,3,2024-10-01,2024-12-31,Sales,Fresh Botanics,92419.28
+680,PRS_DE_PAID_SEA_2024Q4,Prisme Studio — DE — Paid Search — 2024 Q4,5,2,4,2024-10-01,2024-12-31,Conversion,Silk Repair,73045.17
+681,PRS_FR_PROG_2024Q4,Prisme Studio — FR — Programmatic — 2024 Q4,5,3,1,2024-10-01,2024-12-31,Traffic,Silk Repair,108339.77
+682,PRS_UK_PROG_2024Q4,Prisme Studio — UK — Programmatic — 2024 Q4,5,3,2,2024-10-01,2024-12-31,Traffic,Fresh Botanics,101827.12
+683,PRS_US_PROG_2024Q4,Prisme Studio — US — Programmatic — 2024 Q4,5,3,3,2024-10-01,2024-12-31,Traffic,Bold Color,130238.61
+684,PRS_DE_PROG_2024Q4,Prisme Studio — DE — Programmatic — 2024 Q4,5,3,4,2024-10-01,2024-12-31,Traffic,Glow Routine,100337.3
+685,PRS_FR_TV_2024Q4,Prisme Studio — FR — TV — 2024 Q4,5,4,1,2024-10-01,2024-12-31,Brand Lift,Glow Routine,285972.7
+686,PRS_UK_TV_2024Q4,Prisme Studio — UK — TV — 2024 Q4,5,4,2,2024-10-01,2024-12-31,Awareness,Cinematic Launch,357271.72
+687,PRS_US_TV_2024Q4,Prisme Studio — US — TV — 2024 Q4,5,4,3,2024-10-01,2024-12-31,Awareness,Bold Color,376978.35
+688,PRS_DE_TV_2024Q4,Prisme Studio — DE — TV — 2024 Q4,5,4,4,2024-10-01,2024-12-31,Awareness,Studio Pro,262266.18
+689,PRS_FR_INFL_2024Q4,Prisme Studio — FR — Influencer — 2024 Q4,5,5,1,2024-10-01,2024-12-31,Consideration,Silk Repair,69463.92
+690,PRS_UK_INFL_2024Q4,Prisme Studio — UK — Influencer — 2024 Q4,5,5,2,2024-10-01,2024-12-31,Consideration,Silk Repair,64227.7
+691,PRS_US_INFL_2024Q4,Prisme Studio — US — Influencer — 2024 Q4,5,5,3,2024-10-01,2024-12-31,Awareness,Bold Color,61867.82
+692,PRS_DE_INFL_2024Q4,Prisme Studio — DE — Influencer — 2024 Q4,5,5,4,2024-10-01,2024-12-31,Awareness,Fresh Botanics,71753.93
+693,PRS_FR_RET_MED_2024Q4,Prisme Studio — FR — Retail Media — 2024 Q4,5,6,1,2024-10-01,2024-12-31,Conversion,Studio Pro,75435.48
+694,PRS_UK_RET_MED_2024Q4,Prisme Studio — UK — Retail Media — 2024 Q4,5,6,2,2024-10-01,2024-12-31,Conversion,Silk Repair,86411.14
+695,PRS_US_RET_MED_2024Q4,Prisme Studio — US — Retail Media — 2024 Q4,5,6,3,2024-10-01,2024-12-31,Sales,Studio Pro,86893.15
+696,PRS_DE_RET_MED_2024Q4,Prisme Studio — DE — Retail Media — 2024 Q4,5,6,4,2024-10-01,2024-12-31,Conversion,Studio Pro,96358.74
+697,CPL_FR_PAID_SOC_2024Q4,Color Pop Lab — FR — Paid Social — 2024 Q4,6,1,1,2024-10-01,2024-12-31,Consideration,Cinematic Launch,59020.42
+698,CPL_UK_PAID_SOC_2024Q4,Color Pop Lab — UK — Paid Social — 2024 Q4,6,1,2,2024-10-01,2024-12-31,Awareness,Signature Scent,64026.33
+699,CPL_US_PAID_SOC_2024Q4,Color Pop Lab — US — Paid Social — 2024 Q4,6,1,3,2024-10-01,2024-12-31,Consideration,Fresh Botanics,87953.37
+700,CPL_DE_PAID_SOC_2024Q4,Color Pop Lab — DE — Paid Social — 2024 Q4,6,1,4,2024-10-01,2024-12-31,Consideration,Fresh Botanics,65903.56
+701,CPL_FR_PAID_SEA_2024Q4,Color Pop Lab — FR — Paid Search — 2024 Q4,6,2,1,2024-10-01,2024-12-31,Sales,Bold Color,48008.67
+702,CPL_UK_PAID_SEA_2024Q4,Color Pop Lab — UK — Paid Search — 2024 Q4,6,2,2,2024-10-01,2024-12-31,Conversion,Studio Pro,54717.17
+703,CPL_US_PAID_SEA_2024Q4,Color Pop Lab — US — Paid Search — 2024 Q4,6,2,3,2024-10-01,2024-12-31,Sales,Glow Routine,59459.29
+704,CPL_DE_PAID_SEA_2024Q4,Color Pop Lab — DE — Paid Search — 2024 Q4,6,2,4,2024-10-01,2024-12-31,Conversion,Studio Pro,48525.29
+705,CPL_FR_PROG_2024Q4,Color Pop Lab — FR — Programmatic — 2024 Q4,6,3,1,2024-10-01,2024-12-31,Traffic,Signature Scent,81270.02
+706,CPL_UK_PROG_2024Q4,Color Pop Lab — UK — Programmatic — 2024 Q4,6,3,2,2024-10-01,2024-12-31,Traffic,Signature Scent,91792.94
+707,CPL_US_PROG_2024Q4,Color Pop Lab — US — Programmatic — 2024 Q4,6,3,3,2024-10-01,2024-12-31,Traffic,Signature Scent,99676.97
+708,CPL_DE_PROG_2024Q4,Color Pop Lab — DE — Programmatic — 2024 Q4,6,3,4,2024-10-01,2024-12-31,Traffic,Glow Routine,83288.35
+709,CPL_FR_TV_2024Q4,Color Pop Lab — FR — TV — 2024 Q4,6,4,1,2024-10-01,2024-12-31,Awareness,Fresh Botanics,206661.93
+710,CPL_UK_TV_2024Q4,Color Pop Lab — UK — TV — 2024 Q4,6,4,2,2024-10-01,2024-12-31,Brand Lift,Studio Pro,244518.11
+711,CPL_US_TV_2024Q4,Color Pop Lab — US — TV — 2024 Q4,6,4,3,2024-10-01,2024-12-31,Awareness,Silk Repair,233399.2
+712,CPL_DE_TV_2024Q4,Color Pop Lab — DE — TV — 2024 Q4,6,4,4,2024-10-01,2024-12-31,Awareness,Bold Color,197044.1
+713,CPL_FR_INFL_2024Q4,Color Pop Lab — FR — Influencer — 2024 Q4,6,5,1,2024-10-01,2024-12-31,Awareness,Night Ritual,41116.71
+714,CPL_UK_INFL_2024Q4,Color Pop Lab — UK — Influencer — 2024 Q4,6,5,2,2024-10-01,2024-12-31,Awareness,Cinematic Launch,38967.93
+715,CPL_US_INFL_2024Q4,Color Pop Lab — US — Influencer — 2024 Q4,6,5,3,2024-10-01,2024-12-31,Consideration,Signature Scent,48084.29
+716,CPL_DE_INFL_2024Q4,Color Pop Lab — DE — Influencer — 2024 Q4,6,5,4,2024-10-01,2024-12-31,Awareness,Studio Pro,43930.82
+717,CPL_FR_RET_MED_2024Q4,Color Pop Lab — FR — Retail Media — 2024 Q4,6,6,1,2024-10-01,2024-12-31,Conversion,Cinematic Launch,53386.79
+718,CPL_UK_RET_MED_2024Q4,Color Pop Lab — UK — Retail Media — 2024 Q4,6,6,2,2024-10-01,2024-12-31,Sales,Glow Routine,71391.48
+719,CPL_US_RET_MED_2024Q4,Color Pop Lab — US — Retail Media — 2024 Q4,6,6,3,2024-10-01,2024-12-31,Sales,Glow Routine,68748.42
+720,CPL_DE_RET_MED_2024Q4,Color Pop Lab — DE — Retail Media — 2024 Q4,6,6,4,2024-10-01,2024-12-31,Sales,Studio Pro,68017.89
+721,SDR_FR_PAID_SOC_2024Q4,Soie Dorée — FR — Paid Social — 2024 Q4,7,1,1,2024-10-01,2024-12-31,Awareness,Glow Routine,86473.53
+722,SDR_UK_PAID_SOC_2024Q4,Soie Dorée — UK — Paid Social — 2024 Q4,7,1,2,2024-10-01,2024-12-31,Awareness,Glow Routine,91244.85
+723,SDR_US_PAID_SOC_2024Q4,Soie Dorée — US — Paid Social — 2024 Q4,7,1,3,2024-10-01,2024-12-31,Awareness,Glow Routine,117365.66
+724,SDR_DE_PAID_SOC_2024Q4,Soie Dorée — DE — Paid Social — 2024 Q4,7,1,4,2024-10-01,2024-12-31,Awareness,Studio Pro,101116.57
+725,SDR_FR_PAID_SEA_2024Q4,Soie Dorée — FR — Paid Search — 2024 Q4,7,2,1,2024-10-01,2024-12-31,Sales,Silk Repair,73983.01
+726,SDR_UK_PAID_SEA_2024Q4,Soie Dorée — UK — Paid Search — 2024 Q4,7,2,2,2024-10-01,2024-12-31,Sales,Signature Scent,88327.16
+727,SDR_US_PAID_SEA_2024Q4,Soie Dorée — US — Paid Search — 2024 Q4,7,2,3,2024-10-01,2024-12-31,Sales,Signature Scent,106019.13
+728,SDR_DE_PAID_SEA_2024Q4,Soie Dorée — DE — Paid Search — 2024 Q4,7,2,4,2024-10-01,2024-12-31,Conversion,Night Ritual,71270.36
+729,SDR_FR_PROG_2024Q4,Soie Dorée — FR — Programmatic — 2024 Q4,7,3,1,2024-10-01,2024-12-31,Consideration,Glow Routine,110402.15
+730,SDR_UK_PROG_2024Q4,Soie Dorée — UK — Programmatic — 2024 Q4,7,3,2,2024-10-01,2024-12-31,Traffic,Studio Pro,113812.6
+731,SDR_US_PROG_2024Q4,Soie Dorée — US — Programmatic — 2024 Q4,7,3,3,2024-10-01,2024-12-31,Consideration,Signature Scent,130946.0
+732,SDR_DE_PROG_2024Q4,Soie Dorée — DE — Programmatic — 2024 Q4,7,3,4,2024-10-01,2024-12-31,Consideration,Glow Routine,106449.78
+733,SDR_FR_TV_2024Q4,Soie Dorée — FR — TV — 2024 Q4,7,4,1,2024-10-01,2024-12-31,Awareness,Silk Repair,315556.81
+734,SDR_UK_TV_2024Q4,Soie Dorée — UK — TV — 2024 Q4,7,4,2,2024-10-01,2024-12-31,Awareness,Bold Color,289357.01
+735,SDR_US_TV_2024Q4,Soie Dorée — US — TV — 2024 Q4,7,4,3,2024-10-01,2024-12-31,Brand Lift,Silk Repair,310728.36
+736,SDR_DE_TV_2024Q4,Soie Dorée — DE — TV — 2024 Q4,7,4,4,2024-10-01,2024-12-31,Brand Lift,Studio Pro,271911.32
+737,SDR_FR_INFL_2024Q4,Soie Dorée — FR — Influencer — 2024 Q4,7,5,1,2024-10-01,2024-12-31,Consideration,Cinematic Launch,62455.89
+738,SDR_UK_INFL_2024Q4,Soie Dorée — UK — Influencer — 2024 Q4,7,5,2,2024-10-01,2024-12-31,Consideration,Fresh Botanics,65786.3
+739,SDR_US_INFL_2024Q4,Soie Dorée — US — Influencer — 2024 Q4,7,5,3,2024-10-01,2024-12-31,Consideration,Bold Color,82544.45
+740,SDR_DE_INFL_2024Q4,Soie Dorée — DE — Influencer — 2024 Q4,7,5,4,2024-10-01,2024-12-31,Awareness,Bold Color,62086.5
+741,SDR_FR_RET_MED_2024Q4,Soie Dorée — FR — Retail Media — 2024 Q4,7,6,1,2024-10-01,2024-12-31,Sales,Bold Color,76129.18
+742,SDR_UK_RET_MED_2024Q4,Soie Dorée — UK — Retail Media — 2024 Q4,7,6,2,2024-10-01,2024-12-31,Sales,Fresh Botanics,84377.11
+743,SDR_US_RET_MED_2024Q4,Soie Dorée — US — Retail Media — 2024 Q4,7,6,3,2024-10-01,2024-12-31,Sales,Silk Repair,87065.79
+744,SDR_DE_RET_MED_2024Q4,Soie Dorée — DE — Retail Media — 2024 Q4,7,6,4,2024-10-01,2024-12-31,Sales,Studio Pro,86686.38
+745,BTN_FR_PAID_SOC_2024Q4,Botaniq — FR — Paid Social — 2024 Q4,8,1,1,2024-10-01,2024-12-31,Awareness,Studio Pro,67501.45
+746,BTN_UK_PAID_SOC_2024Q4,Botaniq — UK — Paid Social — 2024 Q4,8,1,2,2024-10-01,2024-12-31,Consideration,Cinematic Launch,78301.81
+747,BTN_US_PAID_SOC_2024Q4,Botaniq — US — Paid Social — 2024 Q4,8,1,3,2024-10-01,2024-12-31,Consideration,Silk Repair,84810.02
+748,BTN_DE_PAID_SOC_2024Q4,Botaniq — DE — Paid Social — 2024 Q4,8,1,4,2024-10-01,2024-12-31,Consideration,Bold Color,70813.91
+749,BTN_FR_PAID_SEA_2024Q4,Botaniq — FR — Paid Search — 2024 Q4,8,2,1,2024-10-01,2024-12-31,Conversion,Signature Scent,57422.41
+750,BTN_UK_PAID_SEA_2024Q4,Botaniq — UK — Paid Search — 2024 Q4,8,2,2,2024-10-01,2024-12-31,Conversion,Night Ritual,60841.12
+751,BTN_US_PAID_SEA_2024Q4,Botaniq — US — Paid Search — 2024 Q4,8,2,3,2024-10-01,2024-12-31,Sales,Silk Repair,72316.86
+752,BTN_DE_PAID_SEA_2024Q4,Botaniq — DE — Paid Search — 2024 Q4,8,2,4,2024-10-01,2024-12-31,Sales,Night Ritual,54008.23
+753,BTN_FR_PROG_2024Q4,Botaniq — FR — Programmatic — 2024 Q4,8,3,1,2024-10-01,2024-12-31,Traffic,Signature Scent,76632.25
+754,BTN_UK_PROG_2024Q4,Botaniq — UK — Programmatic — 2024 Q4,8,3,2,2024-10-01,2024-12-31,Consideration,Silk Repair,79354.1
+755,BTN_US_PROG_2024Q4,Botaniq — US — Programmatic — 2024 Q4,8,3,3,2024-10-01,2024-12-31,Traffic,Glow Routine,94446.54
+756,BTN_DE_PROG_2024Q4,Botaniq — DE — Programmatic — 2024 Q4,8,3,4,2024-10-01,2024-12-31,Consideration,Glow Routine,69582.5
+757,BTN_FR_TV_2024Q4,Botaniq — FR — TV — 2024 Q4,8,4,1,2024-10-01,2024-12-31,Awareness,Silk Repair,219132.91
+758,BTN_UK_TV_2024Q4,Botaniq — UK — TV — 2024 Q4,8,4,2,2024-10-01,2024-12-31,Awareness,Studio Pro,199586.41
+759,BTN_US_TV_2024Q4,Botaniq — US — TV — 2024 Q4,8,4,3,2024-10-01,2024-12-31,Brand Lift,Cinematic Launch,266696.56
+760,BTN_DE_TV_2024Q4,Botaniq — DE — TV — 2024 Q4,8,4,4,2024-10-01,2024-12-31,Brand Lift,Glow Routine,185497.22
+761,BTN_FR_INFL_2024Q4,Botaniq — FR — Influencer — 2024 Q4,8,5,1,2024-10-01,2024-12-31,Awareness,Night Ritual,42874.74
+762,BTN_UK_INFL_2024Q4,Botaniq — UK — Influencer — 2024 Q4,8,5,2,2024-10-01,2024-12-31,Awareness,Studio Pro,48113.06
+763,BTN_US_INFL_2024Q4,Botaniq — US — Influencer — 2024 Q4,8,5,3,2024-10-01,2024-12-31,Awareness,Silk Repair,44112.34
+764,BTN_DE_INFL_2024Q4,Botaniq — DE — Influencer — 2024 Q4,8,5,4,2024-10-01,2024-12-31,Consideration,Night Ritual,42224.66
+765,BTN_FR_RET_MED_2024Q4,Botaniq — FR — Retail Media — 2024 Q4,8,6,1,2024-10-01,2024-12-31,Sales,Glow Routine,55455.72
+766,BTN_UK_RET_MED_2024Q4,Botaniq — UK — Retail Media — 2024 Q4,8,6,2,2024-10-01,2024-12-31,Conversion,Night Ritual,55489.22
+767,BTN_US_RET_MED_2024Q4,Botaniq — US — Retail Media — 2024 Q4,8,6,3,2024-10-01,2024-12-31,Sales,Fresh Botanics,72633.72
+768,BTN_DE_RET_MED_2024Q4,Botaniq — DE — Retail Media — 2024 Q4,8,6,4,2024-10-01,2024-12-31,Conversion,Cinematic Launch,59163.05
+769,LEC_FR_PAID_SOC_2025Q1,Lumière Éclat — FR — Paid Social — 2025 Q1,1,1,1,2025-01-01,2025-03-31,Awareness,Signature Scent,107439.7
+770,LEC_UK_PAID_SOC_2025Q1,Lumière Éclat — UK — Paid Social — 2025 Q1,1,1,2,2025-01-01,2025-03-31,Awareness,Signature Scent,103369.58
+771,LEC_US_PAID_SOC_2025Q1,Lumière Éclat — US — Paid Social — 2025 Q1,1,1,3,2025-01-01,2025-03-31,Awareness,Signature Scent,106055.98
+772,LEC_DE_PAID_SOC_2025Q1,Lumière Éclat — DE — Paid Social — 2025 Q1,1,1,4,2025-01-01,2025-03-31,Awareness,Night Ritual,90290.67
+773,LEC_FR_PAID_SEA_2025Q1,Lumière Éclat — FR — Paid Search — 2025 Q1,1,2,1,2025-01-01,2025-03-31,Conversion,Bold Color,78618.96
+774,LEC_UK_PAID_SEA_2025Q1,Lumière Éclat — UK — Paid Search — 2025 Q1,1,2,2,2025-01-01,2025-03-31,Sales,Glow Routine,91756.51
+775,LEC_US_PAID_SEA_2025Q1,Lumière Éclat — US — Paid Search — 2025 Q1,1,2,3,2025-01-01,2025-03-31,Conversion,Night Ritual,87068.92
+776,LEC_DE_PAID_SEA_2025Q1,Lumière Éclat — DE — Paid Search — 2025 Q1,1,2,4,2025-01-01,2025-03-31,Conversion,Glow Routine,79758.78
+777,LEC_FR_PROG_2025Q1,Lumière Éclat — FR — Programmatic — 2025 Q1,1,3,1,2025-01-01,2025-03-31,Traffic,Night Ritual,108087.96
+778,LEC_UK_PROG_2025Q1,Lumière Éclat — UK — Programmatic — 2025 Q1,1,3,2,2025-01-01,2025-03-31,Traffic,Glow Routine,127450.57
+779,LEC_US_PROG_2025Q1,Lumière Éclat — US — Programmatic — 2025 Q1,1,3,3,2025-01-01,2025-03-31,Consideration,Studio Pro,129294.73
+780,LEC_DE_PROG_2025Q1,Lumière Éclat — DE — Programmatic — 2025 Q1,1,3,4,2025-01-01,2025-03-31,Traffic,Silk Repair,124892.06
+781,LEC_FR_TV_2025Q1,Lumière Éclat — FR — TV — 2025 Q1,1,4,1,2025-01-01,2025-03-31,Brand Lift,Studio Pro,310216.48
+782,LEC_UK_TV_2025Q1,Lumière Éclat — UK — TV — 2025 Q1,1,4,2,2025-01-01,2025-03-31,Awareness,Studio Pro,353613.48
+783,LEC_US_TV_2025Q1,Lumière Éclat — US — TV — 2025 Q1,1,4,3,2025-01-01,2025-03-31,Brand Lift,Signature Scent,340956.4
+784,LEC_DE_TV_2025Q1,Lumière Éclat — DE — TV — 2025 Q1,1,4,4,2025-01-01,2025-03-31,Brand Lift,Cinematic Launch,256422.5
+785,LEC_FR_INFL_2025Q1,Lumière Éclat — FR — Influencer — 2025 Q1,1,5,1,2025-01-01,2025-03-31,Consideration,Bold Color,62393.4
+786,LEC_UK_INFL_2025Q1,Lumière Éclat — UK — Influencer — 2025 Q1,1,5,2,2025-01-01,2025-03-31,Awareness,Bold Color,66967.04
+787,LEC_US_INFL_2025Q1,Lumière Éclat — US — Influencer — 2025 Q1,1,5,3,2025-01-01,2025-03-31,Consideration,Fresh Botanics,79133.22
+788,LEC_DE_INFL_2025Q1,Lumière Éclat — DE — Influencer — 2025 Q1,1,5,4,2025-01-01,2025-03-31,Consideration,Cinematic Launch,57347.08
+789,LEC_FR_RET_MED_2025Q1,Lumière Éclat — FR — Retail Media — 2025 Q1,1,6,1,2025-01-01,2025-03-31,Conversion,Signature Scent,96630.72
+790,LEC_UK_RET_MED_2025Q1,Lumière Éclat — UK — Retail Media — 2025 Q1,1,6,2,2025-01-01,2025-03-31,Sales,Studio Pro,102153.39
+791,LEC_US_RET_MED_2025Q1,Lumière Éclat — US — Retail Media — 2025 Q1,1,6,3,2025-01-01,2025-03-31,Conversion,Studio Pro,95020.63
+792,LEC_DE_RET_MED_2025Q1,Lumière Éclat — DE — Retail Media — 2025 Q1,1,6,4,2025-01-01,2025-03-31,Conversion,Bold Color,81412.23
+793,AUS_FR_PAID_SOC_2025Q1,Aurora Skin — FR — Paid Social — 2025 Q1,2,1,1,2025-01-01,2025-03-31,Consideration,Fresh Botanics,95057.89
+794,AUS_UK_PAID_SOC_2025Q1,Aurora Skin — UK — Paid Social — 2025 Q1,2,1,2,2025-01-01,2025-03-31,Awareness,Night Ritual,89708.27
+795,AUS_US_PAID_SOC_2025Q1,Aurora Skin — US — Paid Social — 2025 Q1,2,1,3,2025-01-01,2025-03-31,Consideration,Night Ritual,87030.8
+796,AUS_DE_PAID_SOC_2025Q1,Aurora Skin — DE — Paid Social — 2025 Q1,2,1,4,2025-01-01,2025-03-31,Awareness,Glow Routine,72860.22
+797,AUS_FR_PAID_SEA_2025Q1,Aurora Skin — FR — Paid Search — 2025 Q1,2,2,1,2025-01-01,2025-03-31,Sales,Studio Pro,66261.46
+798,AUS_UK_PAID_SEA_2025Q1,Aurora Skin — UK — Paid Search — 2025 Q1,2,2,2,2025-01-01,2025-03-31,Conversion,Signature Scent,75560.86
+799,AUS_US_PAID_SEA_2025Q1,Aurora Skin — US — Paid Search — 2025 Q1,2,2,3,2025-01-01,2025-03-31,Sales,Glow Routine,70845.85
+800,AUS_DE_PAID_SEA_2025Q1,Aurora Skin — DE — Paid Search — 2025 Q1,2,2,4,2025-01-01,2025-03-31,Conversion,Signature Scent,63432.47
+801,AUS_FR_PROG_2025Q1,Aurora Skin — FR — Programmatic — 2025 Q1,2,3,1,2025-01-01,2025-03-31,Traffic,Studio Pro,84295.57
+802,AUS_UK_PROG_2025Q1,Aurora Skin — UK — Programmatic — 2025 Q1,2,3,2,2025-01-01,2025-03-31,Consideration,Silk Repair,108586.1
+803,AUS_US_PROG_2025Q1,Aurora Skin — US — Programmatic — 2025 Q1,2,3,3,2025-01-01,2025-03-31,Consideration,Glow Routine,101378.8
+804,AUS_DE_PROG_2025Q1,Aurora Skin — DE — Programmatic — 2025 Q1,2,3,4,2025-01-01,2025-03-31,Consideration,Studio Pro,87826.34
+805,AUS_FR_TV_2025Q1,Aurora Skin — FR — TV — 2025 Q1,2,4,1,2025-01-01,2025-03-31,Awareness,Bold Color,246898.18
+806,AUS_UK_TV_2025Q1,Aurora Skin — UK — TV — 2025 Q1,2,4,2,2025-01-01,2025-03-31,Brand Lift,Night Ritual,286492.3
+807,AUS_US_TV_2025Q1,Aurora Skin — US — TV — 2025 Q1,2,4,3,2025-01-01,2025-03-31,Brand Lift,Signature Scent,279220.97
+808,AUS_DE_TV_2025Q1,Aurora Skin — DE — TV — 2025 Q1,2,4,4,2025-01-01,2025-03-31,Brand Lift,Signature Scent,230308.47
+809,AUS_FR_INFL_2025Q1,Aurora Skin — FR — Influencer — 2025 Q1,2,5,1,2025-01-01,2025-03-31,Consideration,Cinematic Launch,53620.89
+810,AUS_UK_INFL_2025Q1,Aurora Skin — UK — Influencer — 2025 Q1,2,5,2,2025-01-01,2025-03-31,Awareness,Studio Pro,47495.33
+811,AUS_US_INFL_2025Q1,Aurora Skin — US — Influencer — 2025 Q1,2,5,3,2025-01-01,2025-03-31,Awareness,Glow Routine,60717.59
+812,AUS_DE_INFL_2025Q1,Aurora Skin — DE — Influencer — 2025 Q1,2,5,4,2025-01-01,2025-03-31,Consideration,Signature Scent,46027.41
+813,AUS_FR_RET_MED_2025Q1,Aurora Skin — FR — Retail Media — 2025 Q1,2,6,1,2025-01-01,2025-03-31,Conversion,Bold Color,78948.02
+814,AUS_UK_RET_MED_2025Q1,Aurora Skin — UK — Retail Media — 2025 Q1,2,6,2,2025-01-01,2025-03-31,Conversion,Night Ritual,69970.79
+815,AUS_US_RET_MED_2025Q1,Aurora Skin — US — Retail Media — 2025 Q1,2,6,3,2025-01-01,2025-03-31,Conversion,Glow Routine,82244.06
+816,AUS_DE_RET_MED_2025Q1,Aurora Skin — DE — Retail Media — 2025 Q1,2,6,4,2025-01-01,2025-03-31,Conversion,Bold Color,81478.01
+817,NAB_FR_PAID_SOC_2025Q1,Noir Absolu — FR — Paid Social — 2025 Q1,3,1,1,2025-01-01,2025-03-31,Consideration,Silk Repair,105712.06
+818,NAB_UK_PAID_SOC_2025Q1,Noir Absolu — UK — Paid Social — 2025 Q1,3,1,2,2025-01-01,2025-03-31,Awareness,Studio Pro,102223.07
+819,NAB_US_PAID_SOC_2025Q1,Noir Absolu — US — Paid Social — 2025 Q1,3,1,3,2025-01-01,2025-03-31,Consideration,Bold Color,129605.47
+820,NAB_DE_PAID_SOC_2025Q1,Noir Absolu — DE — Paid Social — 2025 Q1,3,1,4,2025-01-01,2025-03-31,Awareness,Glow Routine,106894.46
+821,NAB_FR_PAID_SEA_2025Q1,Noir Absolu — FR — Paid Search — 2025 Q1,3,2,1,2025-01-01,2025-03-31,Conversion,Signature Scent,71446.08
+822,NAB_UK_PAID_SEA_2025Q1,Noir Absolu — UK — Paid Search — 2025 Q1,3,2,2,2025-01-01,2025-03-31,Conversion,Bold Color,77648.77
+823,NAB_US_PAID_SEA_2025Q1,Noir Absolu — US — Paid Search — 2025 Q1,3,2,3,2025-01-01,2025-03-31,Conversion,Glow Routine,92423.56
+824,NAB_DE_PAID_SEA_2025Q1,Noir Absolu — DE — Paid Search — 2025 Q1,3,2,4,2025-01-01,2025-03-31,Conversion,Night Ritual,88466.47
+825,NAB_FR_PROG_2025Q1,Noir Absolu — FR — Programmatic — 2025 Q1,3,3,1,2025-01-01,2025-03-31,Consideration,Studio Pro,122716.82
+826,NAB_UK_PROG_2025Q1,Noir Absolu — UK — Programmatic — 2025 Q1,3,3,2,2025-01-01,2025-03-31,Traffic,Night Ritual,110120.89
+827,NAB_US_PROG_2025Q1,Noir Absolu — US — Programmatic — 2025 Q1,3,3,3,2025-01-01,2025-03-31,Consideration,Night Ritual,115209.92
+828,NAB_DE_PROG_2025Q1,Noir Absolu — DE — Programmatic — 2025 Q1,3,3,4,2025-01-01,2025-03-31,Consideration,Studio Pro,109194.11
+829,NAB_FR_TV_2025Q1,Noir Absolu — FR — TV — 2025 Q1,3,4,1,2025-01-01,2025-03-31,Brand Lift,Glow Routine,331200.39
+830,NAB_UK_TV_2025Q1,Noir Absolu — UK — TV — 2025 Q1,3,4,2,2025-01-01,2025-03-31,Brand Lift,Bold Color,271068.54
+831,NAB_US_TV_2025Q1,Noir Absolu — US — TV — 2025 Q1,3,4,3,2025-01-01,2025-03-31,Awareness,Glow Routine,359412.41
+832,NAB_DE_TV_2025Q1,Noir Absolu — DE — TV — 2025 Q1,3,4,4,2025-01-01,2025-03-31,Awareness,Signature Scent,273984.09
+833,NAB_FR_INFL_2025Q1,Noir Absolu — FR — Influencer — 2025 Q1,3,5,1,2025-01-01,2025-03-31,Awareness,Studio Pro,69081.2
+834,NAB_UK_INFL_2025Q1,Noir Absolu — UK — Influencer — 2025 Q1,3,5,2,2025-01-01,2025-03-31,Awareness,Signature Scent,60263.33
+835,NAB_US_INFL_2025Q1,Noir Absolu — US — Influencer — 2025 Q1,3,5,3,2025-01-01,2025-03-31,Consideration,Cinematic Launch,79797.57
+836,NAB_DE_INFL_2025Q1,Noir Absolu — DE — Influencer — 2025 Q1,3,5,4,2025-01-01,2025-03-31,Consideration,Night Ritual,64729.68
+837,NAB_FR_RET_MED_2025Q1,Noir Absolu — FR — Retail Media — 2025 Q1,3,6,1,2025-01-01,2025-03-31,Sales,Signature Scent,77742.7
+838,NAB_UK_RET_MED_2025Q1,Noir Absolu — UK — Retail Media — 2025 Q1,3,6,2,2025-01-01,2025-03-31,Conversion,Signature Scent,103961.47
+839,NAB_US_RET_MED_2025Q1,Noir Absolu — US — Retail Media — 2025 Q1,3,6,3,2025-01-01,2025-03-31,Conversion,Silk Repair,98850.66
+840,NAB_DE_RET_MED_2025Q1,Noir Absolu — DE — Retail Media — 2025 Q1,3,6,4,2025-01-01,2025-03-31,Conversion,Studio Pro,88220.76
+841,VBL_FR_PAID_SOC_2025Q1,Velvet Bloom — FR — Paid Social — 2025 Q1,4,1,1,2025-01-01,2025-03-31,Consideration,Silk Repair,92076.75
+842,VBL_UK_PAID_SOC_2025Q1,Velvet Bloom — UK — Paid Social — 2025 Q1,4,1,2,2025-01-01,2025-03-31,Awareness,Silk Repair,82586.64
+843,VBL_US_PAID_SOC_2025Q1,Velvet Bloom — US — Paid Social — 2025 Q1,4,1,3,2025-01-01,2025-03-31,Awareness,Cinematic Launch,89017.05
+844,VBL_DE_PAID_SOC_2025Q1,Velvet Bloom — DE — Paid Social — 2025 Q1,4,1,4,2025-01-01,2025-03-31,Awareness,Fresh Botanics,84132.98
+845,VBL_FR_PAID_SEA_2025Q1,Velvet Bloom — FR — Paid Search — 2025 Q1,4,2,1,2025-01-01,2025-03-31,Sales,Fresh Botanics,66102.21
+846,VBL_UK_PAID_SEA_2025Q1,Velvet Bloom — UK — Paid Search — 2025 Q1,4,2,2,2025-01-01,2025-03-31,Sales,Signature Scent,80544.79
+847,VBL_US_PAID_SEA_2025Q1,Velvet Bloom — US — Paid Search — 2025 Q1,4,2,3,2025-01-01,2025-03-31,Sales,Glow Routine,84056.73
+848,VBL_DE_PAID_SEA_2025Q1,Velvet Bloom — DE — Paid Search — 2025 Q1,4,2,4,2025-01-01,2025-03-31,Conversion,Silk Repair,68722.78
+849,VBL_FR_PROG_2025Q1,Velvet Bloom — FR — Programmatic — 2025 Q1,4,3,1,2025-01-01,2025-03-31,Traffic,Glow Routine,102869.83
+850,VBL_UK_PROG_2025Q1,Velvet Bloom — UK — Programmatic — 2025 Q1,4,3,2,2025-01-01,2025-03-31,Consideration,Studio Pro,105828.51
+851,VBL_US_PROG_2025Q1,Velvet Bloom — US — Programmatic — 2025 Q1,4,3,3,2025-01-01,2025-03-31,Traffic,Studio Pro,124460.65
+852,VBL_DE_PROG_2025Q1,Velvet Bloom — DE — Programmatic — 2025 Q1,4,3,4,2025-01-01,2025-03-31,Consideration,Night Ritual,98418.64
+853,VBL_FR_TV_2025Q1,Velvet Bloom — FR — TV — 2025 Q1,4,4,1,2025-01-01,2025-03-31,Brand Lift,Bold Color,288789.13
+854,VBL_UK_TV_2025Q1,Velvet Bloom — UK — TV — 2025 Q1,4,4,2,2025-01-01,2025-03-31,Awareness,Cinematic Launch,257644.32
+855,VBL_US_TV_2025Q1,Velvet Bloom — US — TV — 2025 Q1,4,4,3,2025-01-01,2025-03-31,Brand Lift,Studio Pro,271025.42
+856,VBL_DE_TV_2025Q1,Velvet Bloom — DE — TV — 2025 Q1,4,4,4,2025-01-01,2025-03-31,Brand Lift,Signature Scent,243138.41
+857,VBL_FR_INFL_2025Q1,Velvet Bloom — FR — Influencer — 2025 Q1,4,5,1,2025-01-01,2025-03-31,Consideration,Studio Pro,58540.59
+858,VBL_UK_INFL_2025Q1,Velvet Bloom — UK — Influencer — 2025 Q1,4,5,2,2025-01-01,2025-03-31,Consideration,Night Ritual,59593.32
+859,VBL_US_INFL_2025Q1,Velvet Bloom — US — Influencer — 2025 Q1,4,5,3,2025-01-01,2025-03-31,Awareness,Night Ritual,62301.5
+860,VBL_DE_INFL_2025Q1,Velvet Bloom — DE — Influencer — 2025 Q1,4,5,4,2025-01-01,2025-03-31,Awareness,Silk Repair,57691.13
+861,VBL_FR_RET_MED_2025Q1,Velvet Bloom — FR — Retail Media — 2025 Q1,4,6,1,2025-01-01,2025-03-31,Sales,Cinematic Launch,67329.48
+862,VBL_UK_RET_MED_2025Q1,Velvet Bloom — UK — Retail Media — 2025 Q1,4,6,2,2025-01-01,2025-03-31,Sales,Silk Repair,78645.72
+863,VBL_US_RET_MED_2025Q1,Velvet Bloom — US — Retail Media — 2025 Q1,4,6,3,2025-01-01,2025-03-31,Sales,Bold Color,73246.24
+864,VBL_DE_RET_MED_2025Q1,Velvet Bloom — DE — Retail Media — 2025 Q1,4,6,4,2025-01-01,2025-03-31,Conversion,Night Ritual,81550.46
+865,PRS_FR_PAID_SOC_2025Q1,Prisme Studio — FR — Paid Social — 2025 Q1,5,1,1,2025-01-01,2025-03-31,Consideration,Cinematic Launch,96893.09
+866,PRS_UK_PAID_SOC_2025Q1,Prisme Studio — UK — Paid Social — 2025 Q1,5,1,2,2025-01-01,2025-03-31,Awareness,Studio Pro,90852.74
+867,PRS_US_PAID_SOC_2025Q1,Prisme Studio — US — Paid Social — 2025 Q1,5,1,3,2025-01-01,2025-03-31,Awareness,Silk Repair,106637.64
+868,PRS_DE_PAID_SOC_2025Q1,Prisme Studio — DE — Paid Social — 2025 Q1,5,1,4,2025-01-01,2025-03-31,Consideration,Signature Scent,107382.04
+869,PRS_FR_PAID_SEA_2025Q1,Prisme Studio — FR — Paid Search — 2025 Q1,5,2,1,2025-01-01,2025-03-31,Sales,Studio Pro,74325.67
+870,PRS_UK_PAID_SEA_2025Q1,Prisme Studio — UK — Paid Search — 2025 Q1,5,2,2,2025-01-01,2025-03-31,Sales,Fresh Botanics,92460.07
+871,PRS_US_PAID_SEA_2025Q1,Prisme Studio — US — Paid Search — 2025 Q1,5,2,3,2025-01-01,2025-03-31,Sales,Glow Routine,85889.98
+872,PRS_DE_PAID_SEA_2025Q1,Prisme Studio — DE — Paid Search — 2025 Q1,5,2,4,2025-01-01,2025-03-31,Conversion,Cinematic Launch,92426.31
+873,PRS_FR_PROG_2025Q1,Prisme Studio — FR — Programmatic — 2025 Q1,5,3,1,2025-01-01,2025-03-31,Consideration,Silk Repair,117075.16
+874,PRS_UK_PROG_2025Q1,Prisme Studio — UK — Programmatic — 2025 Q1,5,3,2,2025-01-01,2025-03-31,Consideration,Silk Repair,119245.28
+875,PRS_US_PROG_2025Q1,Prisme Studio — US — Programmatic — 2025 Q1,5,3,3,2025-01-01,2025-03-31,Consideration,Bold Color,127416.22
+876,PRS_DE_PROG_2025Q1,Prisme Studio — DE — Programmatic — 2025 Q1,5,3,4,2025-01-01,2025-03-31,Consideration,Silk Repair,102426.81
+877,PRS_FR_TV_2025Q1,Prisme Studio — FR — TV — 2025 Q1,5,4,1,2025-01-01,2025-03-31,Awareness,Studio Pro,328057.71
+878,PRS_UK_TV_2025Q1,Prisme Studio — UK — TV — 2025 Q1,5,4,2,2025-01-01,2025-03-31,Awareness,Night Ritual,322428.58
+879,PRS_US_TV_2025Q1,Prisme Studio — US — TV — 2025 Q1,5,4,3,2025-01-01,2025-03-31,Awareness,Glow Routine,393887.84
+880,PRS_DE_TV_2025Q1,Prisme Studio — DE — TV — 2025 Q1,5,4,4,2025-01-01,2025-03-31,Awareness,Studio Pro,337970.78
+881,PRS_FR_INFL_2025Q1,Prisme Studio — FR — Influencer — 2025 Q1,5,5,1,2025-01-01,2025-03-31,Consideration,Night Ritual,56296.28
+882,PRS_UK_INFL_2025Q1,Prisme Studio — UK — Influencer — 2025 Q1,5,5,2,2025-01-01,2025-03-31,Awareness,Glow Routine,57553.15
+883,PRS_US_INFL_2025Q1,Prisme Studio — US — Influencer — 2025 Q1,5,5,3,2025-01-01,2025-03-31,Awareness,Cinematic Launch,62631.25
+884,PRS_DE_INFL_2025Q1,Prisme Studio — DE — Influencer — 2025 Q1,5,5,4,2025-01-01,2025-03-31,Awareness,Studio Pro,54513.58
+885,PRS_FR_RET_MED_2025Q1,Prisme Studio — FR — Retail Media — 2025 Q1,5,6,1,2025-01-01,2025-03-31,Conversion,Glow Routine,96090.43
+886,PRS_UK_RET_MED_2025Q1,Prisme Studio — UK — Retail Media — 2025 Q1,5,6,2,2025-01-01,2025-03-31,Sales,Fresh Botanics,99438.62
+887,PRS_US_RET_MED_2025Q1,Prisme Studio — US — Retail Media — 2025 Q1,5,6,3,2025-01-01,2025-03-31,Conversion,Silk Repair,112161.91
+888,PRS_DE_RET_MED_2025Q1,Prisme Studio — DE — Retail Media — 2025 Q1,5,6,4,2025-01-01,2025-03-31,Conversion,Silk Repair,88080.78
+889,CPL_FR_PAID_SOC_2025Q1,Color Pop Lab — FR — Paid Social — 2025 Q1,6,1,1,2025-01-01,2025-03-31,Consideration,Silk Repair,66926.81
+890,CPL_UK_PAID_SOC_2025Q1,Color Pop Lab — UK — Paid Social — 2025 Q1,6,1,2,2025-01-01,2025-03-31,Consideration,Night Ritual,70707.12
+891,CPL_US_PAID_SOC_2025Q1,Color Pop Lab — US — Paid Social — 2025 Q1,6,1,3,2025-01-01,2025-03-31,Awareness,Glow Routine,85157.57
+892,CPL_DE_PAID_SOC_2025Q1,Color Pop Lab — DE — Paid Social — 2025 Q1,6,1,4,2025-01-01,2025-03-31,Consideration,Night Ritual,60932.04
+893,CPL_FR_PAID_SEA_2025Q1,Color Pop Lab — FR — Paid Search — 2025 Q1,6,2,1,2025-01-01,2025-03-31,Sales,Glow Routine,60919.81
+894,CPL_UK_PAID_SEA_2025Q1,Color Pop Lab — UK — Paid Search — 2025 Q1,6,2,2,2025-01-01,2025-03-31,Sales,Night Ritual,61250.47
+895,CPL_US_PAID_SEA_2025Q1,Color Pop Lab — US — Paid Search — 2025 Q1,6,2,3,2025-01-01,2025-03-31,Sales,Signature Scent,55488.79
+896,CPL_DE_PAID_SEA_2025Q1,Color Pop Lab — DE — Paid Search — 2025 Q1,6,2,4,2025-01-01,2025-03-31,Sales,Signature Scent,52062.06
+897,CPL_FR_PROG_2025Q1,Color Pop Lab — FR — Programmatic — 2025 Q1,6,3,1,2025-01-01,2025-03-31,Traffic,Glow Routine,80835.29
+898,CPL_UK_PROG_2025Q1,Color Pop Lab — UK — Programmatic — 2025 Q1,6,3,2,2025-01-01,2025-03-31,Traffic,Studio Pro,75385.48
+899,CPL_US_PROG_2025Q1,Color Pop Lab — US — Programmatic — 2025 Q1,6,3,3,2025-01-01,2025-03-31,Traffic,Fresh Botanics,82428.2
+900,CPL_DE_PROG_2025Q1,Color Pop Lab — DE — Programmatic — 2025 Q1,6,3,4,2025-01-01,2025-03-31,Consideration,Fresh Botanics,79296.73
+901,CPL_FR_TV_2025Q1,Color Pop Lab — FR — TV — 2025 Q1,6,4,1,2025-01-01,2025-03-31,Awareness,Fresh Botanics,211561.04
+902,CPL_UK_TV_2025Q1,Color Pop Lab — UK — TV — 2025 Q1,6,4,2,2025-01-01,2025-03-31,Brand Lift,Glow Routine,226636.91
+903,CPL_US_TV_2025Q1,Color Pop Lab — US — TV — 2025 Q1,6,4,3,2025-01-01,2025-03-31,Brand Lift,Silk Repair,247450.55
+904,CPL_DE_TV_2025Q1,Color Pop Lab — DE — TV — 2025 Q1,6,4,4,2025-01-01,2025-03-31,Brand Lift,Cinematic Launch,200746.54
+905,CPL_FR_INFL_2025Q1,Color Pop Lab — FR — Influencer — 2025 Q1,6,5,1,2025-01-01,2025-03-31,Awareness,Bold Color,37230.57
+906,CPL_UK_INFL_2025Q1,Color Pop Lab — UK — Influencer — 2025 Q1,6,5,2,2025-01-01,2025-03-31,Consideration,Glow Routine,43834.64
+907,CPL_US_INFL_2025Q1,Color Pop Lab — US — Influencer — 2025 Q1,6,5,3,2025-01-01,2025-03-31,Consideration,Silk Repair,45019.67
+908,CPL_DE_INFL_2025Q1,Color Pop Lab — DE — Influencer — 2025 Q1,6,5,4,2025-01-01,2025-03-31,Consideration,Signature Scent,43083.93
+909,CPL_FR_RET_MED_2025Q1,Color Pop Lab — FR — Retail Media — 2025 Q1,6,6,1,2025-01-01,2025-03-31,Conversion,Signature Scent,59010.12
+910,CPL_UK_RET_MED_2025Q1,Color Pop Lab — UK — Retail Media — 2025 Q1,6,6,2,2025-01-01,2025-03-31,Sales,Bold Color,64718.84
+911,CPL_US_RET_MED_2025Q1,Color Pop Lab — US — Retail Media — 2025 Q1,6,6,3,2025-01-01,2025-03-31,Sales,Studio Pro,68256.93
+912,CPL_DE_RET_MED_2025Q1,Color Pop Lab — DE — Retail Media — 2025 Q1,6,6,4,2025-01-01,2025-03-31,Sales,Fresh Botanics,61320.65
+913,SDR_FR_PAID_SOC_2025Q1,Soie Dorée — FR — Paid Social — 2025 Q1,7,1,1,2025-01-01,2025-03-31,Consideration,Silk Repair,87155.51
+914,SDR_UK_PAID_SOC_2025Q1,Soie Dorée — UK — Paid Social — 2025 Q1,7,1,2,2025-01-01,2025-03-31,Awareness,Fresh Botanics,104420.14
+915,SDR_US_PAID_SOC_2025Q1,Soie Dorée — US — Paid Social — 2025 Q1,7,1,3,2025-01-01,2025-03-31,Consideration,Studio Pro,114775.98
+916,SDR_DE_PAID_SOC_2025Q1,Soie Dorée — DE — Paid Social — 2025 Q1,7,1,4,2025-01-01,2025-03-31,Consideration,Bold Color,113866.0
+917,SDR_FR_PAID_SEA_2025Q1,Soie Dorée — FR — Paid Search — 2025 Q1,7,2,1,2025-01-01,2025-03-31,Sales,Bold Color,73471.56
+918,SDR_UK_PAID_SEA_2025Q1,Soie Dorée — UK — Paid Search — 2025 Q1,7,2,2,2025-01-01,2025-03-31,Conversion,Glow Routine,74951.83
+919,SDR_US_PAID_SEA_2025Q1,Soie Dorée — US — Paid Search — 2025 Q1,7,2,3,2025-01-01,2025-03-31,Sales,Cinematic Launch,91529.85
+920,SDR_DE_PAID_SEA_2025Q1,Soie Dorée — DE — Paid Search — 2025 Q1,7,2,4,2025-01-01,2025-03-31,Conversion,Signature Scent,86940.74
+921,SDR_FR_PROG_2025Q1,Soie Dorée — FR — Programmatic — 2025 Q1,7,3,1,2025-01-01,2025-03-31,Traffic,Cinematic Launch,114861.92
+922,SDR_UK_PROG_2025Q1,Soie Dorée — UK — Programmatic — 2025 Q1,7,3,2,2025-01-01,2025-03-31,Traffic,Glow Routine,133755.64
+923,SDR_US_PROG_2025Q1,Soie Dorée — US — Programmatic — 2025 Q1,7,3,3,2025-01-01,2025-03-31,Traffic,Glow Routine,134290.18
+924,SDR_DE_PROG_2025Q1,Soie Dorée — DE — Programmatic — 2025 Q1,7,3,4,2025-01-01,2025-03-31,Consideration,Night Ritual,117277.69
+925,SDR_FR_TV_2025Q1,Soie Dorée — FR — TV — 2025 Q1,7,4,1,2025-01-01,2025-03-31,Awareness,Bold Color,323367.87
+926,SDR_UK_TV_2025Q1,Soie Dorée — UK — TV — 2025 Q1,7,4,2,2025-01-01,2025-03-31,Awareness,Glow Routine,353347.33
+927,SDR_US_TV_2025Q1,Soie Dorée — US — TV — 2025 Q1,7,4,3,2025-01-01,2025-03-31,Brand Lift,Fresh Botanics,371505.64
+928,SDR_DE_TV_2025Q1,Soie Dorée — DE — TV — 2025 Q1,7,4,4,2025-01-01,2025-03-31,Awareness,Signature Scent,344894.57
+929,SDR_FR_INFL_2025Q1,Soie Dorée — FR — Influencer — 2025 Q1,7,5,1,2025-01-01,2025-03-31,Consideration,Glow Routine,58504.23
+930,SDR_UK_INFL_2025Q1,Soie Dorée — UK — Influencer — 2025 Q1,7,5,2,2025-01-01,2025-03-31,Awareness,Night Ritual,60956.53
+931,SDR_US_INFL_2025Q1,Soie Dorée — US — Influencer — 2025 Q1,7,5,3,2025-01-01,2025-03-31,Consideration,Fresh Botanics,82516.58
+932,SDR_DE_INFL_2025Q1,Soie Dorée — DE — Influencer — 2025 Q1,7,5,4,2025-01-01,2025-03-31,Awareness,Studio Pro,63002.0
+933,SDR_FR_RET_MED_2025Q1,Soie Dorée — FR — Retail Media — 2025 Q1,7,6,1,2025-01-01,2025-03-31,Conversion,Silk Repair,96949.23
+934,SDR_UK_RET_MED_2025Q1,Soie Dorée — UK — Retail Media — 2025 Q1,7,6,2,2025-01-01,2025-03-31,Conversion,Studio Pro,83712.66
+935,SDR_US_RET_MED_2025Q1,Soie Dorée — US — Retail Media — 2025 Q1,7,6,3,2025-01-01,2025-03-31,Conversion,Fresh Botanics,110672.52
+936,SDR_DE_RET_MED_2025Q1,Soie Dorée — DE — Retail Media — 2025 Q1,7,6,4,2025-01-01,2025-03-31,Conversion,Night Ritual,85919.99
+937,BTN_FR_PAID_SOC_2025Q1,Botaniq — FR — Paid Social — 2025 Q1,8,1,1,2025-01-01,2025-03-31,Awareness,Studio Pro,77894.95
+938,BTN_UK_PAID_SOC_2025Q1,Botaniq — UK — Paid Social — 2025 Q1,8,1,2,2025-01-01,2025-03-31,Consideration,Studio Pro,77792.76
+939,BTN_US_PAID_SOC_2025Q1,Botaniq — US — Paid Social — 2025 Q1,8,1,3,2025-01-01,2025-03-31,Consideration,Night Ritual,73997.14
+940,BTN_DE_PAID_SOC_2025Q1,Botaniq — DE — Paid Social — 2025 Q1,8,1,4,2025-01-01,2025-03-31,Consideration,Fresh Botanics,69239.86
+941,BTN_FR_PAID_SEA_2025Q1,Botaniq — FR — Paid Search — 2025 Q1,8,2,1,2025-01-01,2025-03-31,Conversion,Fresh Botanics,57515.31
+942,BTN_UK_PAID_SEA_2025Q1,Botaniq — UK — Paid Search — 2025 Q1,8,2,2,2025-01-01,2025-03-31,Conversion,Bold Color,62349.06
+943,BTN_US_PAID_SEA_2025Q1,Botaniq — US — Paid Search — 2025 Q1,8,2,3,2025-01-01,2025-03-31,Sales,Night Ritual,60309.99
+944,BTN_DE_PAID_SEA_2025Q1,Botaniq — DE — Paid Search — 2025 Q1,8,2,4,2025-01-01,2025-03-31,Sales,Glow Routine,50090.4
+945,BTN_FR_PROG_2025Q1,Botaniq — FR — Programmatic — 2025 Q1,8,3,1,2025-01-01,2025-03-31,Traffic,Signature Scent,75267.18
+946,BTN_UK_PROG_2025Q1,Botaniq — UK — Programmatic — 2025 Q1,8,3,2,2025-01-01,2025-03-31,Consideration,Glow Routine,86574.47
+947,BTN_US_PROG_2025Q1,Botaniq — US — Programmatic — 2025 Q1,8,3,3,2025-01-01,2025-03-31,Traffic,Fresh Botanics,75337.11
+948,BTN_DE_PROG_2025Q1,Botaniq — DE — Programmatic — 2025 Q1,8,3,4,2025-01-01,2025-03-31,Traffic,Night Ritual,69087.18
+949,BTN_FR_TV_2025Q1,Botaniq — FR — TV — 2025 Q1,8,4,1,2025-01-01,2025-03-31,Awareness,Silk Repair,190231.9
+950,BTN_UK_TV_2025Q1,Botaniq — UK — TV — 2025 Q1,8,4,2,2025-01-01,2025-03-31,Brand Lift,Cinematic Launch,185600.12
+951,BTN_US_TV_2025Q1,Botaniq — US — TV — 2025 Q1,8,4,3,2025-01-01,2025-03-31,Brand Lift,Fresh Botanics,200938.9
+952,BTN_DE_TV_2025Q1,Botaniq — DE — TV — 2025 Q1,8,4,4,2025-01-01,2025-03-31,Awareness,Signature Scent,182910.3
+953,BTN_FR_INFL_2025Q1,Botaniq — FR — Influencer — 2025 Q1,8,5,1,2025-01-01,2025-03-31,Consideration,Fresh Botanics,41794.77
+954,BTN_UK_INFL_2025Q1,Botaniq — UK — Influencer — 2025 Q1,8,5,2,2025-01-01,2025-03-31,Consideration,Bold Color,38892.43
+955,BTN_US_INFL_2025Q1,Botaniq — US — Influencer — 2025 Q1,8,5,3,2025-01-01,2025-03-31,Awareness,Signature Scent,54638.13
+956,BTN_DE_INFL_2025Q1,Botaniq — DE — Influencer — 2025 Q1,8,5,4,2025-01-01,2025-03-31,Awareness,Cinematic Launch,38402.2
+957,BTN_FR_RET_MED_2025Q1,Botaniq — FR — Retail Media — 2025 Q1,8,6,1,2025-01-01,2025-03-31,Sales,Studio Pro,60383.46
+958,BTN_UK_RET_MED_2025Q1,Botaniq — UK — Retail Media — 2025 Q1,8,6,2,2025-01-01,2025-03-31,Sales,Glow Routine,56904.55
+959,BTN_US_RET_MED_2025Q1,Botaniq — US — Retail Media — 2025 Q1,8,6,3,2025-01-01,2025-03-31,Sales,Silk Repair,73039.93
+960,BTN_DE_RET_MED_2025Q1,Botaniq — DE — Retail Media — 2025 Q1,8,6,4,2025-01-01,2025-03-31,Conversion,Fresh Botanics,67588.7
+961,LEC_FR_PAID_SOC_2025Q2,Lumière Éclat — FR — Paid Social — 2025 Q2,1,1,1,2025-04-01,2025-06-30,Consideration,Bold Color,94008.16
+962,LEC_UK_PAID_SOC_2025Q2,Lumière Éclat — UK — Paid Social — 2025 Q2,1,1,2,2025-04-01,2025-06-30,Consideration,Bold Color,100579.49
+963,LEC_US_PAID_SOC_2025Q2,Lumière Éclat — US — Paid Social — 2025 Q2,1,1,3,2025-04-01,2025-06-30,Consideration,Glow Routine,99335.73
+964,LEC_DE_PAID_SOC_2025Q2,Lumière Éclat — DE — Paid Social — 2025 Q2,1,1,4,2025-04-01,2025-06-30,Awareness,Night Ritual,106342.28
+965,LEC_FR_PAID_SEA_2025Q2,Lumière Éclat — FR — Paid Search — 2025 Q2,1,2,1,2025-04-01,2025-06-30,Conversion,Cinematic Launch,79767.48
+966,LEC_UK_PAID_SEA_2025Q2,Lumière Éclat — UK — Paid Search — 2025 Q2,1,2,2,2025-04-01,2025-06-30,Sales,Silk Repair,88138.16
+967,LEC_US_PAID_SEA_2025Q2,Lumière Éclat — US — Paid Search — 2025 Q2,1,2,3,2025-04-01,2025-06-30,Sales,Signature Scent,102141.76
+968,LEC_DE_PAID_SEA_2025Q2,Lumière Éclat — DE — Paid Search — 2025 Q2,1,2,4,2025-04-01,2025-06-30,Conversion,Silk Repair,71568.19
+969,LEC_FR_PROG_2025Q2,Lumière Éclat — FR — Programmatic — 2025 Q2,1,3,1,2025-04-01,2025-06-30,Traffic,Bold Color,115989.95
+970,LEC_UK_PROG_2025Q2,Lumière Éclat — UK — Programmatic — 2025 Q2,1,3,2,2025-04-01,2025-06-30,Traffic,Glow Routine,101914.18
+971,LEC_US_PROG_2025Q2,Lumière Éclat — US — Programmatic — 2025 Q2,1,3,3,2025-04-01,2025-06-30,Traffic,Glow Routine,127624.34
+972,LEC_DE_PROG_2025Q2,Lumière Éclat — DE — Programmatic — 2025 Q2,1,3,4,2025-04-01,2025-06-30,Consideration,Bold Color,101587.51
+973,LEC_FR_TV_2025Q2,Lumière Éclat — FR — TV — 2025 Q2,1,4,1,2025-04-01,2025-06-30,Awareness,Signature Scent,338311.8
+974,LEC_UK_TV_2025Q2,Lumière Éclat — UK — TV — 2025 Q2,1,4,2,2025-04-01,2025-06-30,Awareness,Glow Routine,355594.64
+975,LEC_US_TV_2025Q2,Lumière Éclat — US — TV — 2025 Q2,1,4,3,2025-04-01,2025-06-30,Brand Lift,Cinematic Launch,388983.62
+976,LEC_DE_TV_2025Q2,Lumière Éclat — DE — TV — 2025 Q2,1,4,4,2025-04-01,2025-06-30,Brand Lift,Studio Pro,256084.67
+977,LEC_FR_INFL_2025Q2,Lumière Éclat — FR — Influencer — 2025 Q2,1,5,1,2025-04-01,2025-06-30,Consideration,Signature Scent,71316.28
+978,LEC_UK_INFL_2025Q2,Lumière Éclat — UK — Influencer — 2025 Q2,1,5,2,2025-04-01,2025-06-30,Awareness,Studio Pro,74892.11
+979,LEC_US_INFL_2025Q2,Lumière Éclat — US — Influencer — 2025 Q2,1,5,3,2025-04-01,2025-06-30,Awareness,Fresh Botanics,62778.99
+980,LEC_DE_INFL_2025Q2,Lumière Éclat — DE — Influencer — 2025 Q2,1,5,4,2025-04-01,2025-06-30,Awareness,Signature Scent,64634.28
+981,LEC_FR_RET_MED_2025Q2,Lumière Éclat — FR — Retail Media — 2025 Q2,1,6,1,2025-04-01,2025-06-30,Sales,Fresh Botanics,85327.91
+982,LEC_UK_RET_MED_2025Q2,Lumière Éclat — UK — Retail Media — 2025 Q2,1,6,2,2025-04-01,2025-06-30,Sales,Fresh Botanics,82326.79
+983,LEC_US_RET_MED_2025Q2,Lumière Éclat — US — Retail Media — 2025 Q2,1,6,3,2025-04-01,2025-06-30,Sales,Silk Repair,87795.83
+984,LEC_DE_RET_MED_2025Q2,Lumière Éclat — DE — Retail Media — 2025 Q2,1,6,4,2025-04-01,2025-06-30,Sales,Silk Repair,96660.68
+985,AUS_FR_PAID_SOC_2025Q2,Aurora Skin — FR — Paid Social — 2025 Q2,2,1,1,2025-04-01,2025-06-30,Consideration,Bold Color,84247.73
+986,AUS_UK_PAID_SOC_2025Q2,Aurora Skin — UK — Paid Social — 2025 Q2,2,1,2,2025-04-01,2025-06-30,Consideration,Night Ritual,100621.87
+987,AUS_US_PAID_SOC_2025Q2,Aurora Skin — US — Paid Social — 2025 Q2,2,1,3,2025-04-01,2025-06-30,Awareness,Silk Repair,92803.29
+988,AUS_DE_PAID_SOC_2025Q2,Aurora Skin — DE — Paid Social — 2025 Q2,2,1,4,2025-04-01,2025-06-30,Consideration,Glow Routine,76933.41
+989,AUS_FR_PAID_SEA_2025Q2,Aurora Skin — FR — Paid Search — 2025 Q2,2,2,1,2025-04-01,2025-06-30,Sales,Bold Color,77311.59
+990,AUS_UK_PAID_SEA_2025Q2,Aurora Skin — UK — Paid Search — 2025 Q2,2,2,2,2025-04-01,2025-06-30,Sales,Silk Repair,65540.6
+991,AUS_US_PAID_SEA_2025Q2,Aurora Skin — US — Paid Search — 2025 Q2,2,2,3,2025-04-01,2025-06-30,Sales,Signature Scent,75619.58
+992,AUS_DE_PAID_SEA_2025Q2,Aurora Skin — DE — Paid Search — 2025 Q2,2,2,4,2025-04-01,2025-06-30,Conversion,Signature Scent,62961.3
+993,AUS_FR_PROG_2025Q2,Aurora Skin — FR — Programmatic — 2025 Q2,2,3,1,2025-04-01,2025-06-30,Traffic,Fresh Botanics,106596.11
+994,AUS_UK_PROG_2025Q2,Aurora Skin — UK — Programmatic — 2025 Q2,2,3,2,2025-04-01,2025-06-30,Consideration,Night Ritual,104967.94
+995,AUS_US_PROG_2025Q2,Aurora Skin — US — Programmatic — 2025 Q2,2,3,3,2025-04-01,2025-06-30,Traffic,Studio Pro,97283.63
+996,AUS_DE_PROG_2025Q2,Aurora Skin — DE — Programmatic — 2025 Q2,2,3,4,2025-04-01,2025-06-30,Consideration,Cinematic Launch,99438.43
+997,AUS_FR_TV_2025Q2,Aurora Skin — FR — TV — 2025 Q2,2,4,1,2025-04-01,2025-06-30,Brand Lift,Night Ritual,219586.08
+998,AUS_UK_TV_2025Q2,Aurora Skin — UK — TV — 2025 Q2,2,4,2,2025-04-01,2025-06-30,Awareness,Bold Color,284744.32
+999,AUS_US_TV_2025Q2,Aurora Skin — US — TV — 2025 Q2,2,4,3,2025-04-01,2025-06-30,Awareness,Night Ritual,275458.98
+1000,AUS_DE_TV_2025Q2,Aurora Skin — DE — TV — 2025 Q2,2,4,4,2025-04-01,2025-06-30,Awareness,Signature Scent,253517.44
+1001,AUS_FR_INFL_2025Q2,Aurora Skin — FR — Influencer — 2025 Q2,2,5,1,2025-04-01,2025-06-30,Awareness,Signature Scent,51655.63
+1002,AUS_UK_INFL_2025Q2,Aurora Skin — UK — Influencer — 2025 Q2,2,5,2,2025-04-01,2025-06-30,Consideration,Studio Pro,57618.77
+1003,AUS_US_INFL_2025Q2,Aurora Skin — US — Influencer — 2025 Q2,2,5,3,2025-04-01,2025-06-30,Awareness,Cinematic Launch,67350.0
+1004,AUS_DE_INFL_2025Q2,Aurora Skin — DE — Influencer — 2025 Q2,2,5,4,2025-04-01,2025-06-30,Consideration,Bold Color,46855.81
+1005,AUS_FR_RET_MED_2025Q2,Aurora Skin — FR — Retail Media — 2025 Q2,2,6,1,2025-04-01,2025-06-30,Conversion,Glow Routine,77635.12
+1006,AUS_UK_RET_MED_2025Q2,Aurora Skin — UK — Retail Media — 2025 Q2,2,6,2,2025-04-01,2025-06-30,Conversion,Cinematic Launch,72234.11
+1007,AUS_US_RET_MED_2025Q2,Aurora Skin — US — Retail Media — 2025 Q2,2,6,3,2025-04-01,2025-06-30,Conversion,Glow Routine,83030.87
+1008,AUS_DE_RET_MED_2025Q2,Aurora Skin — DE — Retail Media — 2025 Q2,2,6,4,2025-04-01,2025-06-30,Sales,Bold Color,73982.38
+1009,NAB_FR_PAID_SOC_2025Q2,Noir Absolu — FR — Paid Social — 2025 Q2,3,1,1,2025-04-01,2025-06-30,Awareness,Night Ritual,85961.31
+1010,NAB_UK_PAID_SOC_2025Q2,Noir Absolu — UK — Paid Social — 2025 Q2,3,1,2,2025-04-01,2025-06-30,Consideration,Fresh Botanics,101022.12
+1011,NAB_US_PAID_SOC_2025Q2,Noir Absolu — US — Paid Social — 2025 Q2,3,1,3,2025-04-01,2025-06-30,Awareness,Silk Repair,101499.01
+1012,NAB_DE_PAID_SOC_2025Q2,Noir Absolu — DE — Paid Social — 2025 Q2,3,1,4,2025-04-01,2025-06-30,Awareness,Cinematic Launch,92448.83
+1013,NAB_FR_PAID_SEA_2025Q2,Noir Absolu — FR — Paid Search — 2025 Q2,3,2,1,2025-04-01,2025-06-30,Conversion,Bold Color,78668.0
+1014,NAB_UK_PAID_SEA_2025Q2,Noir Absolu — UK — Paid Search — 2025 Q2,3,2,2,2025-04-01,2025-06-30,Sales,Signature Scent,82185.91
+1015,NAB_US_PAID_SEA_2025Q2,Noir Absolu — US — Paid Search — 2025 Q2,3,2,3,2025-04-01,2025-06-30,Sales,Fresh Botanics,96058.86
+1016,NAB_DE_PAID_SEA_2025Q2,Noir Absolu — DE — Paid Search — 2025 Q2,3,2,4,2025-04-01,2025-06-30,Conversion,Cinematic Launch,81618.88
+1017,NAB_FR_PROG_2025Q2,Noir Absolu — FR — Programmatic — 2025 Q2,3,3,1,2025-04-01,2025-06-30,Traffic,Night Ritual,109843.2
+1018,NAB_UK_PROG_2025Q2,Noir Absolu — UK — Programmatic — 2025 Q2,3,3,2,2025-04-01,2025-06-30,Traffic,Cinematic Launch,128147.45
+1019,NAB_US_PROG_2025Q2,Noir Absolu — US — Programmatic — 2025 Q2,3,3,3,2025-04-01,2025-06-30,Traffic,Studio Pro,110833.06
+1020,NAB_DE_PROG_2025Q2,Noir Absolu — DE — Programmatic — 2025 Q2,3,3,4,2025-04-01,2025-06-30,Traffic,Fresh Botanics,121404.74
+1021,NAB_FR_TV_2025Q2,Noir Absolu — FR — TV — 2025 Q2,3,4,1,2025-04-01,2025-06-30,Brand Lift,Night Ritual,325880.0
+1022,NAB_UK_TV_2025Q2,Noir Absolu — UK — TV — 2025 Q2,3,4,2,2025-04-01,2025-06-30,Brand Lift,Silk Repair,355555.87
+1023,NAB_US_TV_2025Q2,Noir Absolu — US — TV — 2025 Q2,3,4,3,2025-04-01,2025-06-30,Brand Lift,Studio Pro,297632.82
+1024,NAB_DE_TV_2025Q2,Noir Absolu — DE — TV — 2025 Q2,3,4,4,2025-04-01,2025-06-30,Awareness,Bold Color,304228.9
+1025,NAB_FR_INFL_2025Q2,Noir Absolu — FR — Influencer — 2025 Q2,3,5,1,2025-04-01,2025-06-30,Consideration,Glow Routine,59430.36
+1026,NAB_UK_INFL_2025Q2,Noir Absolu — UK — Influencer — 2025 Q2,3,5,2,2025-04-01,2025-06-30,Awareness,Studio Pro,56100.79
+1027,NAB_US_INFL_2025Q2,Noir Absolu — US — Influencer — 2025 Q2,3,5,3,2025-04-01,2025-06-30,Awareness,Bold Color,79263.49
+1028,NAB_DE_INFL_2025Q2,Noir Absolu — DE — Influencer — 2025 Q2,3,5,4,2025-04-01,2025-06-30,Consideration,Night Ritual,62121.22
+1029,NAB_FR_RET_MED_2025Q2,Noir Absolu — FR — Retail Media — 2025 Q2,3,6,1,2025-04-01,2025-06-30,Conversion,Studio Pro,86840.52
+1030,NAB_UK_RET_MED_2025Q2,Noir Absolu — UK — Retail Media — 2025 Q2,3,6,2,2025-04-01,2025-06-30,Conversion,Glow Routine,79519.32
+1031,NAB_US_RET_MED_2025Q2,Noir Absolu — US — Retail Media — 2025 Q2,3,6,3,2025-04-01,2025-06-30,Sales,Studio Pro,93555.37
+1032,NAB_DE_RET_MED_2025Q2,Noir Absolu — DE — Retail Media — 2025 Q2,3,6,4,2025-04-01,2025-06-30,Sales,Fresh Botanics,76755.92
+1033,VBL_FR_PAID_SOC_2025Q2,Velvet Bloom — FR — Paid Social — 2025 Q2,4,1,1,2025-04-01,2025-06-30,Consideration,Bold Color,94838.66
+1034,VBL_UK_PAID_SOC_2025Q2,Velvet Bloom — UK — Paid Social — 2025 Q2,4,1,2,2025-04-01,2025-06-30,Consideration,Fresh Botanics,100666.24
+1035,VBL_US_PAID_SOC_2025Q2,Velvet Bloom — US — Paid Social — 2025 Q2,4,1,3,2025-04-01,2025-06-30,Consideration,Night Ritual,96731.72
+1036,VBL_DE_PAID_SOC_2025Q2,Velvet Bloom — DE — Paid Social — 2025 Q2,4,1,4,2025-04-01,2025-06-30,Consideration,Signature Scent,82695.96
+1037,VBL_FR_PAID_SEA_2025Q2,Velvet Bloom — FR — Paid Search — 2025 Q2,4,2,1,2025-04-01,2025-06-30,Conversion,Night Ritual,75528.36
+1038,VBL_UK_PAID_SEA_2025Q2,Velvet Bloom — UK — Paid Search — 2025 Q2,4,2,2,2025-04-01,2025-06-30,Sales,Bold Color,72323.01
+1039,VBL_US_PAID_SEA_2025Q2,Velvet Bloom — US — Paid Search — 2025 Q2,4,2,3,2025-04-01,2025-06-30,Sales,Studio Pro,71105.36
+1040,VBL_DE_PAID_SEA_2025Q2,Velvet Bloom — DE — Paid Search — 2025 Q2,4,2,4,2025-04-01,2025-06-30,Sales,Night Ritual,58648.65
+1041,VBL_FR_PROG_2025Q2,Velvet Bloom — FR — Programmatic — 2025 Q2,4,3,1,2025-04-01,2025-06-30,Consideration,Bold Color,86000.2
+1042,VBL_UK_PROG_2025Q2,Velvet Bloom — UK — Programmatic — 2025 Q2,4,3,2,2025-04-01,2025-06-30,Traffic,Silk Repair,89738.74
+1043,VBL_US_PROG_2025Q2,Velvet Bloom — US — Programmatic — 2025 Q2,4,3,3,2025-04-01,2025-06-30,Traffic,Silk Repair,100963.71
+1044,VBL_DE_PROG_2025Q2,Velvet Bloom — DE — Programmatic — 2025 Q2,4,3,4,2025-04-01,2025-06-30,Traffic,Night Ritual,90215.2
+1045,VBL_FR_TV_2025Q2,Velvet Bloom — FR — TV — 2025 Q2,4,4,1,2025-04-01,2025-06-30,Awareness,Silk Repair,249468.1
+1046,VBL_UK_TV_2025Q2,Velvet Bloom — UK — TV — 2025 Q2,4,4,2,2025-04-01,2025-06-30,Brand Lift,Night Ritual,292591.19
+1047,VBL_US_TV_2025Q2,Velvet Bloom — US — TV — 2025 Q2,4,4,3,2025-04-01,2025-06-30,Awareness,Fresh Botanics,264920.45
+1048,VBL_DE_TV_2025Q2,Velvet Bloom — DE — TV — 2025 Q2,4,4,4,2025-04-01,2025-06-30,Awareness,Studio Pro,240104.36
+1049,VBL_FR_INFL_2025Q2,Velvet Bloom — FR — Influencer — 2025 Q2,4,5,1,2025-04-01,2025-06-30,Consideration,Cinematic Launch,52414.95
+1050,VBL_UK_INFL_2025Q2,Velvet Bloom — UK — Influencer — 2025 Q2,4,5,2,2025-04-01,2025-06-30,Consideration,Cinematic Launch,50799.89
+1051,VBL_US_INFL_2025Q2,Velvet Bloom — US — Influencer — 2025 Q2,4,5,3,2025-04-01,2025-06-30,Consideration,Silk Repair,53686.99
+1052,VBL_DE_INFL_2025Q2,Velvet Bloom — DE — Influencer — 2025 Q2,4,5,4,2025-04-01,2025-06-30,Awareness,Signature Scent,59381.29
+1053,VBL_FR_RET_MED_2025Q2,Velvet Bloom — FR — Retail Media — 2025 Q2,4,6,1,2025-04-01,2025-06-30,Conversion,Fresh Botanics,78138.42
+1054,VBL_UK_RET_MED_2025Q2,Velvet Bloom — UK — Retail Media — 2025 Q2,4,6,2,2025-04-01,2025-06-30,Conversion,Silk Repair,88584.74
+1055,VBL_US_RET_MED_2025Q2,Velvet Bloom — US — Retail Media — 2025 Q2,4,6,3,2025-04-01,2025-06-30,Conversion,Night Ritual,75975.88
+1056,VBL_DE_RET_MED_2025Q2,Velvet Bloom — DE — Retail Media — 2025 Q2,4,6,4,2025-04-01,2025-06-30,Conversion,Fresh Botanics,74233.16
+1057,PRS_FR_PAID_SOC_2025Q2,Prisme Studio — FR — Paid Social — 2025 Q2,5,1,1,2025-04-01,2025-06-30,Consideration,Glow Routine,103393.28
+1058,PRS_UK_PAID_SOC_2025Q2,Prisme Studio — UK — Paid Social — 2025 Q2,5,1,2,2025-04-01,2025-06-30,Awareness,Cinematic Launch,118471.55
+1059,PRS_US_PAID_SOC_2025Q2,Prisme Studio — US — Paid Social — 2025 Q2,5,1,3,2025-04-01,2025-06-30,Consideration,Night Ritual,99114.83
+1060,PRS_DE_PAID_SOC_2025Q2,Prisme Studio — DE — Paid Social — 2025 Q2,5,1,4,2025-04-01,2025-06-30,Consideration,Cinematic Launch,92207.47
+1061,PRS_FR_PAID_SEA_2025Q2,Prisme Studio — FR — Paid Search — 2025 Q2,5,2,1,2025-04-01,2025-06-30,Conversion,Night Ritual,69862.24
+1062,PRS_UK_PAID_SEA_2025Q2,Prisme Studio — UK — Paid Search — 2025 Q2,5,2,2,2025-04-01,2025-06-30,Conversion,Night Ritual,77453.73
+1063,PRS_US_PAID_SEA_2025Q2,Prisme Studio — US — Paid Search — 2025 Q2,5,2,3,2025-04-01,2025-06-30,Sales,Bold Color,90218.61
+1064,PRS_DE_PAID_SEA_2025Q2,Prisme Studio — DE — Paid Search — 2025 Q2,5,2,4,2025-04-01,2025-06-30,Sales,Night Ritual,77055.64
+1065,PRS_FR_PROG_2025Q2,Prisme Studio — FR — Programmatic — 2025 Q2,5,3,1,2025-04-01,2025-06-30,Consideration,Cinematic Launch,96475.67
+1066,PRS_UK_PROG_2025Q2,Prisme Studio — UK — Programmatic — 2025 Q2,5,3,2,2025-04-01,2025-06-30,Consideration,Glow Routine,127220.01
+1067,PRS_US_PROG_2025Q2,Prisme Studio — US — Programmatic — 2025 Q2,5,3,3,2025-04-01,2025-06-30,Traffic,Studio Pro,146007.17
+1068,PRS_DE_PROG_2025Q2,Prisme Studio — DE — Programmatic — 2025 Q2,5,3,4,2025-04-01,2025-06-30,Consideration,Fresh Botanics,113574.06
+1069,PRS_FR_TV_2025Q2,Prisme Studio — FR — TV — 2025 Q2,5,4,1,2025-04-01,2025-06-30,Brand Lift,Night Ritual,324654.55
+1070,PRS_UK_TV_2025Q2,Prisme Studio — UK — TV — 2025 Q2,5,4,2,2025-04-01,2025-06-30,Awareness,Signature Scent,347533.74
+1071,PRS_US_TV_2025Q2,Prisme Studio — US — TV — 2025 Q2,5,4,3,2025-04-01,2025-06-30,Awareness,Studio Pro,338205.15
+1072,PRS_DE_TV_2025Q2,Prisme Studio — DE — TV — 2025 Q2,5,4,4,2025-04-01,2025-06-30,Awareness,Signature Scent,327575.89
+1073,PRS_FR_INFL_2025Q2,Prisme Studio — FR — Influencer — 2025 Q2,5,5,1,2025-04-01,2025-06-30,Consideration,Night Ritual,70548.29
+1074,PRS_UK_INFL_2025Q2,Prisme Studio — UK — Influencer — 2025 Q2,5,5,2,2025-04-01,2025-06-30,Awareness,Cinematic Launch,75355.92
+1075,PRS_US_INFL_2025Q2,Prisme Studio — US — Influencer — 2025 Q2,5,5,3,2025-04-01,2025-06-30,Awareness,Signature Scent,63104.9
+1076,PRS_DE_INFL_2025Q2,Prisme Studio — DE — Influencer — 2025 Q2,5,5,4,2025-04-01,2025-06-30,Awareness,Silk Repair,53765.86
+1077,PRS_FR_RET_MED_2025Q2,Prisme Studio — FR — Retail Media — 2025 Q2,5,6,1,2025-04-01,2025-06-30,Sales,Signature Scent,95354.6
+1078,PRS_UK_RET_MED_2025Q2,Prisme Studio — UK — Retail Media — 2025 Q2,5,6,2,2025-04-01,2025-06-30,Sales,Fresh Botanics,101710.96
+1079,PRS_US_RET_MED_2025Q2,Prisme Studio — US — Retail Media — 2025 Q2,5,6,3,2025-04-01,2025-06-30,Conversion,Cinematic Launch,93860.7
+1080,PRS_DE_RET_MED_2025Q2,Prisme Studio — DE — Retail Media — 2025 Q2,5,6,4,2025-04-01,2025-06-30,Sales,Bold Color,75489.52
+1081,CPL_FR_PAID_SOC_2025Q2,Color Pop Lab — FR — Paid Social — 2025 Q2,6,1,1,2025-04-01,2025-06-30,Consideration,Bold Color,63210.35
+1082,CPL_UK_PAID_SOC_2025Q2,Color Pop Lab — UK — Paid Social — 2025 Q2,6,1,2,2025-04-01,2025-06-30,Consideration,Bold Color,69795.7
+1083,CPL_US_PAID_SOC_2025Q2,Color Pop Lab — US — Paid Social — 2025 Q2,6,1,3,2025-04-01,2025-06-30,Awareness,Studio Pro,72812.2
+1084,CPL_DE_PAID_SOC_2025Q2,Color Pop Lab — DE — Paid Social — 2025 Q2,6,1,4,2025-04-01,2025-06-30,Consideration,Studio Pro,66489.81
+1085,CPL_FR_PAID_SEA_2025Q2,Color Pop Lab — FR — Paid Search — 2025 Q2,6,2,1,2025-04-01,2025-06-30,Sales,Night Ritual,55291.64
+1086,CPL_UK_PAID_SEA_2025Q2,Color Pop Lab — UK — Paid Search — 2025 Q2,6,2,2,2025-04-01,2025-06-30,Conversion,Bold Color,53789.87
+1087,CPL_US_PAID_SEA_2025Q2,Color Pop Lab — US — Paid Search — 2025 Q2,6,2,3,2025-04-01,2025-06-30,Conversion,Fresh Botanics,56900.41
+1088,CPL_DE_PAID_SEA_2025Q2,Color Pop Lab — DE — Paid Search — 2025 Q2,6,2,4,2025-04-01,2025-06-30,Sales,Night Ritual,56340.47
+1089,CPL_FR_PROG_2025Q2,Color Pop Lab — FR — Programmatic — 2025 Q2,6,3,1,2025-04-01,2025-06-30,Traffic,Bold Color,83933.79
+1090,CPL_UK_PROG_2025Q2,Color Pop Lab — UK — Programmatic — 2025 Q2,6,3,2,2025-04-01,2025-06-30,Traffic,Night Ritual,91645.32
+1091,CPL_US_PROG_2025Q2,Color Pop Lab — US — Programmatic — 2025 Q2,6,3,3,2025-04-01,2025-06-30,Consideration,Signature Scent,100315.95
+1092,CPL_DE_PROG_2025Q2,Color Pop Lab — DE — Programmatic — 2025 Q2,6,3,4,2025-04-01,2025-06-30,Traffic,Signature Scent,68286.29
+1093,CPL_FR_TV_2025Q2,Color Pop Lab — FR — TV — 2025 Q2,6,4,1,2025-04-01,2025-06-30,Brand Lift,Fresh Botanics,183802.69
+1094,CPL_UK_TV_2025Q2,Color Pop Lab — UK — TV — 2025 Q2,6,4,2,2025-04-01,2025-06-30,Awareness,Signature Scent,219608.26
+1095,CPL_US_TV_2025Q2,Color Pop Lab — US — TV — 2025 Q2,6,4,3,2025-04-01,2025-06-30,Awareness,Night Ritual,264835.18
+1096,CPL_DE_TV_2025Q2,Color Pop Lab — DE — TV — 2025 Q2,6,4,4,2025-04-01,2025-06-30,Brand Lift,Cinematic Launch,207908.38
+1097,CPL_FR_INFL_2025Q2,Color Pop Lab — FR — Influencer — 2025 Q2,6,5,1,2025-04-01,2025-06-30,Awareness,Silk Repair,36875.32
+1098,CPL_UK_INFL_2025Q2,Color Pop Lab — UK — Influencer — 2025 Q2,6,5,2,2025-04-01,2025-06-30,Awareness,Fresh Botanics,48854.13
+1099,CPL_US_INFL_2025Q2,Color Pop Lab — US — Influencer — 2025 Q2,6,5,3,2025-04-01,2025-06-30,Awareness,Cinematic Launch,49054.51
+1100,CPL_DE_INFL_2025Q2,Color Pop Lab — DE — Influencer — 2025 Q2,6,5,4,2025-04-01,2025-06-30,Awareness,Night Ritual,44577.29
+1101,CPL_FR_RET_MED_2025Q2,Color Pop Lab — FR — Retail Media — 2025 Q2,6,6,1,2025-04-01,2025-06-30,Conversion,Cinematic Launch,67301.37
+1102,CPL_UK_RET_MED_2025Q2,Color Pop Lab — UK — Retail Media — 2025 Q2,6,6,2,2025-04-01,2025-06-30,Conversion,Studio Pro,56589.38
+1103,CPL_US_RET_MED_2025Q2,Color Pop Lab — US — Retail Media — 2025 Q2,6,6,3,2025-04-01,2025-06-30,Conversion,Night Ritual,70223.93
+1104,CPL_DE_RET_MED_2025Q2,Color Pop Lab — DE — Retail Media — 2025 Q2,6,6,4,2025-04-01,2025-06-30,Conversion,Silk Repair,58476.41
+1105,SDR_FR_PAID_SOC_2025Q2,Soie Dorée — FR — Paid Social — 2025 Q2,7,1,1,2025-04-01,2025-06-30,Awareness,Glow Routine,88124.54
+1106,SDR_UK_PAID_SOC_2025Q2,Soie Dorée — UK — Paid Social — 2025 Q2,7,1,2,2025-04-01,2025-06-30,Consideration,Studio Pro,103593.59
+1107,SDR_US_PAID_SOC_2025Q2,Soie Dorée — US — Paid Social — 2025 Q2,7,1,3,2025-04-01,2025-06-30,Awareness,Signature Scent,114391.97
+1108,SDR_DE_PAID_SOC_2025Q2,Soie Dorée — DE — Paid Social — 2025 Q2,7,1,4,2025-04-01,2025-06-30,Consideration,Studio Pro,87632.78
+1109,SDR_FR_PAID_SEA_2025Q2,Soie Dorée — FR — Paid Search — 2025 Q2,7,2,1,2025-04-01,2025-06-30,Sales,Cinematic Launch,91722.28
+1110,SDR_UK_PAID_SEA_2025Q2,Soie Dorée — UK — Paid Search — 2025 Q2,7,2,2,2025-04-01,2025-06-30,Sales,Studio Pro,80570.42
+1111,SDR_US_PAID_SEA_2025Q2,Soie Dorée — US — Paid Search — 2025 Q2,7,2,3,2025-04-01,2025-06-30,Conversion,Night Ritual,92104.62
+1112,SDR_DE_PAID_SEA_2025Q2,Soie Dorée — DE — Paid Search — 2025 Q2,7,2,4,2025-04-01,2025-06-30,Sales,Bold Color,73694.85
+1113,SDR_FR_PROG_2025Q2,Soie Dorée — FR — Programmatic — 2025 Q2,7,3,1,2025-04-01,2025-06-30,Traffic,Studio Pro,104174.13
+1114,SDR_UK_PROG_2025Q2,Soie Dorée — UK — Programmatic — 2025 Q2,7,3,2,2025-04-01,2025-06-30,Consideration,Silk Repair,102786.08
+1115,SDR_US_PROG_2025Q2,Soie Dorée — US — Programmatic — 2025 Q2,7,3,3,2025-04-01,2025-06-30,Traffic,Cinematic Launch,135341.66
+1116,SDR_DE_PROG_2025Q2,Soie Dorée — DE — Programmatic — 2025 Q2,7,3,4,2025-04-01,2025-06-30,Consideration,Night Ritual,117746.75
+1117,SDR_FR_TV_2025Q2,Soie Dorée — FR — TV — 2025 Q2,7,4,1,2025-04-01,2025-06-30,Awareness,Cinematic Launch,340486.62
+1118,SDR_UK_TV_2025Q2,Soie Dorée — UK — TV — 2025 Q2,7,4,2,2025-04-01,2025-06-30,Brand Lift,Silk Repair,350557.25
+1119,SDR_US_TV_2025Q2,Soie Dorée — US — TV — 2025 Q2,7,4,3,2025-04-01,2025-06-30,Awareness,Glow Routine,326386.66
+1120,SDR_DE_TV_2025Q2,Soie Dorée — DE — TV — 2025 Q2,7,4,4,2025-04-01,2025-06-30,Brand Lift,Night Ritual,303345.54
+1121,SDR_FR_INFL_2025Q2,Soie Dorée — FR — Influencer — 2025 Q2,7,5,1,2025-04-01,2025-06-30,Awareness,Night Ritual,54261.83
+1122,SDR_UK_INFL_2025Q2,Soie Dorée — UK — Influencer — 2025 Q2,7,5,2,2025-04-01,2025-06-30,Awareness,Night Ritual,60792.69
+1123,SDR_US_INFL_2025Q2,Soie Dorée — US — Influencer — 2025 Q2,7,5,3,2025-04-01,2025-06-30,Consideration,Bold Color,65340.69
+1124,SDR_DE_INFL_2025Q2,Soie Dorée — DE — Influencer — 2025 Q2,7,5,4,2025-04-01,2025-06-30,Consideration,Night Ritual,64880.36
+1125,SDR_FR_RET_MED_2025Q2,Soie Dorée — FR — Retail Media — 2025 Q2,7,6,1,2025-04-01,2025-06-30,Conversion,Bold Color,83441.31
+1126,SDR_UK_RET_MED_2025Q2,Soie Dorée — UK — Retail Media — 2025 Q2,7,6,2,2025-04-01,2025-06-30,Sales,Fresh Botanics,99368.16
+1127,SDR_US_RET_MED_2025Q2,Soie Dorée — US — Retail Media — 2025 Q2,7,6,3,2025-04-01,2025-06-30,Conversion,Bold Color,103266.99
+1128,SDR_DE_RET_MED_2025Q2,Soie Dorée — DE — Retail Media — 2025 Q2,7,6,4,2025-04-01,2025-06-30,Conversion,Studio Pro,88076.98
+1129,BTN_FR_PAID_SOC_2025Q2,Botaniq — FR — Paid Social — 2025 Q2,8,1,1,2025-04-01,2025-06-30,Awareness,Studio Pro,73990.92
+1130,BTN_UK_PAID_SOC_2025Q2,Botaniq — UK — Paid Social — 2025 Q2,8,1,2,2025-04-01,2025-06-30,Awareness,Cinematic Launch,69881.3
+1131,BTN_US_PAID_SOC_2025Q2,Botaniq — US — Paid Social — 2025 Q2,8,1,3,2025-04-01,2025-06-30,Consideration,Silk Repair,89618.26
+1132,BTN_DE_PAID_SOC_2025Q2,Botaniq — DE — Paid Social — 2025 Q2,8,1,4,2025-04-01,2025-06-30,Consideration,Bold Color,59692.82
+1133,BTN_FR_PAID_SEA_2025Q2,Botaniq — FR — Paid Search — 2025 Q2,8,2,1,2025-04-01,2025-06-30,Conversion,Fresh Botanics,49060.29
+1134,BTN_UK_PAID_SEA_2025Q2,Botaniq — UK — Paid Search — 2025 Q2,8,2,2,2025-04-01,2025-06-30,Sales,Signature Scent,58146.11
+1135,BTN_US_PAID_SEA_2025Q2,Botaniq — US — Paid Search — 2025 Q2,8,2,3,2025-04-01,2025-06-30,Conversion,Silk Repair,70578.0
+1136,BTN_DE_PAID_SEA_2025Q2,Botaniq — DE — Paid Search — 2025 Q2,8,2,4,2025-04-01,2025-06-30,Sales,Silk Repair,57113.68
+1137,BTN_FR_PROG_2025Q2,Botaniq — FR — Programmatic — 2025 Q2,8,3,1,2025-04-01,2025-06-30,Consideration,Signature Scent,84359.34
+1138,BTN_UK_PROG_2025Q2,Botaniq — UK — Programmatic — 2025 Q2,8,3,2,2025-04-01,2025-06-30,Traffic,Signature Scent,69154.13
+1139,BTN_US_PROG_2025Q2,Botaniq — US — Programmatic — 2025 Q2,8,3,3,2025-04-01,2025-06-30,Consideration,Fresh Botanics,80486.64
+1140,BTN_DE_PROG_2025Q2,Botaniq — DE — Programmatic — 2025 Q2,8,3,4,2025-04-01,2025-06-30,Consideration,Signature Scent,79905.73
+1141,BTN_FR_TV_2025Q2,Botaniq — FR — TV — 2025 Q2,8,4,1,2025-04-01,2025-06-30,Awareness,Bold Color,184911.98
+1142,BTN_UK_TV_2025Q2,Botaniq — UK — TV — 2025 Q2,8,4,2,2025-04-01,2025-06-30,Brand Lift,Night Ritual,227294.75
+1143,BTN_US_TV_2025Q2,Botaniq — US — TV — 2025 Q2,8,4,3,2025-04-01,2025-06-30,Awareness,Glow Routine,205996.37
+1144,BTN_DE_TV_2025Q2,Botaniq — DE — TV — 2025 Q2,8,4,4,2025-04-01,2025-06-30,Awareness,Studio Pro,220169.67
+1145,BTN_FR_INFL_2025Q2,Botaniq — FR — Influencer — 2025 Q2,8,5,1,2025-04-01,2025-06-30,Awareness,Glow Routine,39851.97
+1146,BTN_UK_INFL_2025Q2,Botaniq — UK — Influencer — 2025 Q2,8,5,2,2025-04-01,2025-06-30,Awareness,Studio Pro,47412.07
+1147,BTN_US_INFL_2025Q2,Botaniq — US — Influencer — 2025 Q2,8,5,3,2025-04-01,2025-06-30,Consideration,Fresh Botanics,46054.35
+1148,BTN_DE_INFL_2025Q2,Botaniq — DE — Influencer — 2025 Q2,8,5,4,2025-04-01,2025-06-30,Consideration,Night Ritual,36628.93
+1149,BTN_FR_RET_MED_2025Q2,Botaniq — FR — Retail Media — 2025 Q2,8,6,1,2025-04-01,2025-06-30,Conversion,Silk Repair,51345.68
+1150,BTN_UK_RET_MED_2025Q2,Botaniq — UK — Retail Media — 2025 Q2,8,6,2,2025-04-01,2025-06-30,Sales,Cinematic Launch,66776.31
+1151,BTN_US_RET_MED_2025Q2,Botaniq — US — Retail Media — 2025 Q2,8,6,3,2025-04-01,2025-06-30,Sales,Studio Pro,73690.37
+1152,BTN_DE_RET_MED_2025Q2,Botaniq — DE — Retail Media — 2025 Q2,8,6,4,2025-04-01,2025-06-30,Conversion,Bold Color,59250.91
+1153,LEC_FR_PAID_SOC_2025Q3,Lumière Éclat — FR — Paid Social — 2025 Q3,1,1,1,2025-07-01,2025-09-30,Consideration,Bold Color,94739.31
+1154,LEC_UK_PAID_SOC_2025Q3,Lumière Éclat — UK — Paid Social — 2025 Q3,1,1,2,2025-07-01,2025-09-30,Consideration,Fresh Botanics,102831.26
+1155,LEC_US_PAID_SOC_2025Q3,Lumière Éclat — US — Paid Social — 2025 Q3,1,1,3,2025-07-01,2025-09-30,Awareness,Fresh Botanics,128735.14
+1156,LEC_DE_PAID_SOC_2025Q3,Lumière Éclat — DE — Paid Social — 2025 Q3,1,1,4,2025-07-01,2025-09-30,Consideration,Studio Pro,87362.3
+1157,LEC_FR_PAID_SEA_2025Q3,Lumière Éclat — FR — Paid Search — 2025 Q3,1,2,1,2025-07-01,2025-09-30,Conversion,Bold Color,73467.21
+1158,LEC_UK_PAID_SEA_2025Q3,Lumière Éclat — UK — Paid Search — 2025 Q3,1,2,2,2025-07-01,2025-09-30,Sales,Night Ritual,79873.14
+1159,LEC_US_PAID_SEA_2025Q3,Lumière Éclat — US — Paid Search — 2025 Q3,1,2,3,2025-07-01,2025-09-30,Conversion,Glow Routine,100839.88
+1160,LEC_DE_PAID_SEA_2025Q3,Lumière Éclat — DE — Paid Search — 2025 Q3,1,2,4,2025-07-01,2025-09-30,Sales,Bold Color,91469.11
+1161,LEC_FR_PROG_2025Q3,Lumière Éclat — FR — Programmatic — 2025 Q3,1,3,1,2025-07-01,2025-09-30,Traffic,Cinematic Launch,97885.51
+1162,LEC_UK_PROG_2025Q3,Lumière Éclat — UK — Programmatic — 2025 Q3,1,3,2,2025-07-01,2025-09-30,Consideration,Bold Color,103251.08
+1163,LEC_US_PROG_2025Q3,Lumière Éclat — US — Programmatic — 2025 Q3,1,3,3,2025-07-01,2025-09-30,Consideration,Night Ritual,148239.03
+1164,LEC_DE_PROG_2025Q3,Lumière Éclat — DE — Programmatic — 2025 Q3,1,3,4,2025-07-01,2025-09-30,Consideration,Glow Routine,102311.47
+1165,LEC_FR_TV_2025Q3,Lumière Éclat — FR — TV — 2025 Q3,1,4,1,2025-07-01,2025-09-30,Awareness,Fresh Botanics,299819.85
+1166,LEC_UK_TV_2025Q3,Lumière Éclat — UK — TV — 2025 Q3,1,4,2,2025-07-01,2025-09-30,Brand Lift,Fresh Botanics,303351.48
+1167,LEC_US_TV_2025Q3,Lumière Éclat — US — TV — 2025 Q3,1,4,3,2025-07-01,2025-09-30,Awareness,Signature Scent,307593.09
+1168,LEC_DE_TV_2025Q3,Lumière Éclat — DE — TV — 2025 Q3,1,4,4,2025-07-01,2025-09-30,Brand Lift,Bold Color,317078.57
+1169,LEC_FR_INFL_2025Q3,Lumière Éclat — FR — Influencer — 2025 Q3,1,5,1,2025-07-01,2025-09-30,Awareness,Signature Scent,60054.47
+1170,LEC_UK_INFL_2025Q3,Lumière Éclat — UK — Influencer — 2025 Q3,1,5,2,2025-07-01,2025-09-30,Consideration,Fresh Botanics,57142.44
+1171,LEC_US_INFL_2025Q3,Lumière Éclat — US — Influencer — 2025 Q3,1,5,3,2025-07-01,2025-09-30,Awareness,Glow Routine,62584.54
+1172,LEC_DE_INFL_2025Q3,Lumière Éclat — DE — Influencer — 2025 Q3,1,5,4,2025-07-01,2025-09-30,Consideration,Silk Repair,58526.12
+1173,LEC_FR_RET_MED_2025Q3,Lumière Éclat — FR — Retail Media — 2025 Q3,1,6,1,2025-07-01,2025-09-30,Conversion,Silk Repair,76117.95
+1174,LEC_UK_RET_MED_2025Q3,Lumière Éclat — UK — Retail Media — 2025 Q3,1,6,2,2025-07-01,2025-09-30,Sales,Signature Scent,101123.05
+1175,LEC_US_RET_MED_2025Q3,Lumière Éclat — US — Retail Media — 2025 Q3,1,6,3,2025-07-01,2025-09-30,Conversion,Cinematic Launch,86248.4
+1176,LEC_DE_RET_MED_2025Q3,Lumière Éclat — DE — Retail Media — 2025 Q3,1,6,4,2025-07-01,2025-09-30,Sales,Cinematic Launch,96782.79
+1177,AUS_FR_PAID_SOC_2025Q3,Aurora Skin — FR — Paid Social — 2025 Q3,2,1,1,2025-07-01,2025-09-30,Consideration,Glow Routine,85216.49
+1178,AUS_UK_PAID_SOC_2025Q3,Aurora Skin — UK — Paid Social — 2025 Q3,2,1,2,2025-07-01,2025-09-30,Consideration,Bold Color,96019.61
+1179,AUS_US_PAID_SOC_2025Q3,Aurora Skin — US — Paid Social — 2025 Q3,2,1,3,2025-07-01,2025-09-30,Consideration,Bold Color,96619.15
+1180,AUS_DE_PAID_SOC_2025Q3,Aurora Skin — DE — Paid Social — 2025 Q3,2,1,4,2025-07-01,2025-09-30,Consideration,Studio Pro,75183.26
+1181,AUS_FR_PAID_SEA_2025Q3,Aurora Skin — FR — Paid Search — 2025 Q3,2,2,1,2025-07-01,2025-09-30,Sales,Signature Scent,59072.08
+1182,AUS_UK_PAID_SEA_2025Q3,Aurora Skin — UK — Paid Search — 2025 Q3,2,2,2,2025-07-01,2025-09-30,Conversion,Bold Color,79968.22
+1183,AUS_US_PAID_SEA_2025Q3,Aurora Skin — US — Paid Search — 2025 Q3,2,2,3,2025-07-01,2025-09-30,Conversion,Silk Repair,82848.61
+1184,AUS_DE_PAID_SEA_2025Q3,Aurora Skin — DE — Paid Search — 2025 Q3,2,2,4,2025-07-01,2025-09-30,Sales,Night Ritual,66582.82
+1185,AUS_FR_PROG_2025Q3,Aurora Skin — FR — Programmatic — 2025 Q3,2,3,1,2025-07-01,2025-09-30,Consideration,Night Ritual,95107.92
+1186,AUS_UK_PROG_2025Q3,Aurora Skin — UK — Programmatic — 2025 Q3,2,3,2,2025-07-01,2025-09-30,Consideration,Bold Color,94072.2
+1187,AUS_US_PROG_2025Q3,Aurora Skin — US — Programmatic — 2025 Q3,2,3,3,2025-07-01,2025-09-30,Traffic,Night Ritual,100552.18
+1188,AUS_DE_PROG_2025Q3,Aurora Skin — DE — Programmatic — 2025 Q3,2,3,4,2025-07-01,2025-09-30,Traffic,Night Ritual,84575.84
+1189,AUS_FR_TV_2025Q3,Aurora Skin — FR — TV — 2025 Q3,2,4,1,2025-07-01,2025-09-30,Brand Lift,Signature Scent,259720.23
+1190,AUS_UK_TV_2025Q3,Aurora Skin — UK — TV — 2025 Q3,2,4,2,2025-07-01,2025-09-30,Brand Lift,Glow Routine,279988.55
+1191,AUS_US_TV_2025Q3,Aurora Skin — US — TV — 2025 Q3,2,4,3,2025-07-01,2025-09-30,Brand Lift,Signature Scent,266981.35
+1192,AUS_DE_TV_2025Q3,Aurora Skin — DE — TV — 2025 Q3,2,4,4,2025-07-01,2025-09-30,Awareness,Glow Routine,214851.46
+1193,AUS_FR_INFL_2025Q3,Aurora Skin — FR — Influencer — 2025 Q3,2,5,1,2025-07-01,2025-09-30,Awareness,Cinematic Launch,56630.46
+1194,AUS_UK_INFL_2025Q3,Aurora Skin — UK — Influencer — 2025 Q3,2,5,2,2025-07-01,2025-09-30,Awareness,Studio Pro,47598.46
+1195,AUS_US_INFL_2025Q3,Aurora Skin — US — Influencer — 2025 Q3,2,5,3,2025-07-01,2025-09-30,Awareness,Silk Repair,52620.35
+1196,AUS_DE_INFL_2025Q3,Aurora Skin — DE — Influencer — 2025 Q3,2,5,4,2025-07-01,2025-09-30,Consideration,Fresh Botanics,56533.19
+1197,AUS_FR_RET_MED_2025Q3,Aurora Skin — FR — Retail Media — 2025 Q3,2,6,1,2025-07-01,2025-09-30,Sales,Night Ritual,62716.11
+1198,AUS_UK_RET_MED_2025Q3,Aurora Skin — UK — Retail Media — 2025 Q3,2,6,2,2025-07-01,2025-09-30,Conversion,Fresh Botanics,88548.54
+1199,AUS_US_RET_MED_2025Q3,Aurora Skin — US — Retail Media — 2025 Q3,2,6,3,2025-07-01,2025-09-30,Sales,Night Ritual,76651.28
+1200,AUS_DE_RET_MED_2025Q3,Aurora Skin — DE — Retail Media — 2025 Q3,2,6,4,2025-07-01,2025-09-30,Sales,Cinematic Launch,74718.39
+1201,NAB_FR_PAID_SOC_2025Q3,Noir Absolu — FR — Paid Social — 2025 Q3,3,1,1,2025-07-01,2025-09-30,Consideration,Fresh Botanics,108768.13
+1202,NAB_UK_PAID_SOC_2025Q3,Noir Absolu — UK — Paid Social — 2025 Q3,3,1,2,2025-07-01,2025-09-30,Consideration,Signature Scent,117365.06
+1203,NAB_US_PAID_SOC_2025Q3,Noir Absolu — US — Paid Social — 2025 Q3,3,1,3,2025-07-01,2025-09-30,Awareness,Signature Scent,106280.71
+1204,NAB_DE_PAID_SOC_2025Q3,Noir Absolu — DE — Paid Social — 2025 Q3,3,1,4,2025-07-01,2025-09-30,Consideration,Fresh Botanics,93922.36
+1205,NAB_FR_PAID_SEA_2025Q3,Noir Absolu — FR — Paid Search — 2025 Q3,3,2,1,2025-07-01,2025-09-30,Sales,Night Ritual,91778.64
+1206,NAB_UK_PAID_SEA_2025Q3,Noir Absolu — UK — Paid Search — 2025 Q3,3,2,2,2025-07-01,2025-09-30,Sales,Silk Repair,97459.05
+1207,NAB_US_PAID_SEA_2025Q3,Noir Absolu — US — Paid Search — 2025 Q3,3,2,3,2025-07-01,2025-09-30,Conversion,Bold Color,94486.92
+1208,NAB_DE_PAID_SEA_2025Q3,Noir Absolu — DE — Paid Search — 2025 Q3,3,2,4,2025-07-01,2025-09-30,Sales,Bold Color,71677.62
+1209,NAB_FR_PROG_2025Q3,Noir Absolu — FR — Programmatic — 2025 Q3,3,3,1,2025-07-01,2025-09-30,Consideration,Glow Routine,113432.73
+1210,NAB_UK_PROG_2025Q3,Noir Absolu — UK — Programmatic — 2025 Q3,3,3,2,2025-07-01,2025-09-30,Consideration,Cinematic Launch,133414.93
+1211,NAB_US_PROG_2025Q3,Noir Absolu — US — Programmatic — 2025 Q3,3,3,3,2025-07-01,2025-09-30,Traffic,Cinematic Launch,117652.88
+1212,NAB_DE_PROG_2025Q3,Noir Absolu — DE — Programmatic — 2025 Q3,3,3,4,2025-07-01,2025-09-30,Traffic,Signature Scent,98896.54
+1213,NAB_FR_TV_2025Q3,Noir Absolu — FR — TV — 2025 Q3,3,4,1,2025-07-01,2025-09-30,Awareness,Studio Pro,320313.09
+1214,NAB_UK_TV_2025Q3,Noir Absolu — UK — TV — 2025 Q3,3,4,2,2025-07-01,2025-09-30,Awareness,Cinematic Launch,333129.55
+1215,NAB_US_TV_2025Q3,Noir Absolu — US — TV — 2025 Q3,3,4,3,2025-07-01,2025-09-30,Brand Lift,Silk Repair,371635.67
+1216,NAB_DE_TV_2025Q3,Noir Absolu — DE — TV — 2025 Q3,3,4,4,2025-07-01,2025-09-30,Awareness,Signature Scent,319651.55
+1217,NAB_FR_INFL_2025Q3,Noir Absolu — FR — Influencer — 2025 Q3,3,5,1,2025-07-01,2025-09-30,Consideration,Fresh Botanics,59171.19
+1218,NAB_UK_INFL_2025Q3,Noir Absolu — UK — Influencer — 2025 Q3,3,5,2,2025-07-01,2025-09-30,Consideration,Silk Repair,74621.63
+1219,NAB_US_INFL_2025Q3,Noir Absolu — US — Influencer — 2025 Q3,3,5,3,2025-07-01,2025-09-30,Awareness,Fresh Botanics,75418.69
+1220,NAB_DE_INFL_2025Q3,Noir Absolu — DE — Influencer — 2025 Q3,3,5,4,2025-07-01,2025-09-30,Awareness,Bold Color,67302.27
+1221,NAB_FR_RET_MED_2025Q3,Noir Absolu — FR — Retail Media — 2025 Q3,3,6,1,2025-07-01,2025-09-30,Conversion,Studio Pro,78585.22
+1222,NAB_UK_RET_MED_2025Q3,Noir Absolu — UK — Retail Media — 2025 Q3,3,6,2,2025-07-01,2025-09-30,Conversion,Glow Routine,92962.0
+1223,NAB_US_RET_MED_2025Q3,Noir Absolu — US — Retail Media — 2025 Q3,3,6,3,2025-07-01,2025-09-30,Conversion,Bold Color,102785.51
+1224,NAB_DE_RET_MED_2025Q3,Noir Absolu — DE — Retail Media — 2025 Q3,3,6,4,2025-07-01,2025-09-30,Conversion,Cinematic Launch,84987.26
+1225,VBL_FR_PAID_SOC_2025Q3,Velvet Bloom — FR — Paid Social — 2025 Q3,4,1,1,2025-07-01,2025-09-30,Consideration,Fresh Botanics,86146.82
+1226,VBL_UK_PAID_SOC_2025Q3,Velvet Bloom — UK — Paid Social — 2025 Q3,4,1,2,2025-07-01,2025-09-30,Awareness,Silk Repair,94026.92
+1227,VBL_US_PAID_SOC_2025Q3,Velvet Bloom — US — Paid Social — 2025 Q3,4,1,3,2025-07-01,2025-09-30,Awareness,Silk Repair,105011.25
+1228,VBL_DE_PAID_SOC_2025Q3,Velvet Bloom — DE — Paid Social — 2025 Q3,4,1,4,2025-07-01,2025-09-30,Consideration,Fresh Botanics,84945.19
+1229,VBL_FR_PAID_SEA_2025Q3,Velvet Bloom — FR — Paid Search — 2025 Q3,4,2,1,2025-07-01,2025-09-30,Conversion,Fresh Botanics,60084.43
+1230,VBL_UK_PAID_SEA_2025Q3,Velvet Bloom — UK — Paid Search — 2025 Q3,4,2,2,2025-07-01,2025-09-30,Conversion,Night Ritual,72251.56
+1231,VBL_US_PAID_SEA_2025Q3,Velvet Bloom — US — Paid Search — 2025 Q3,4,2,3,2025-07-01,2025-09-30,Sales,Signature Scent,82703.49
+1232,VBL_DE_PAID_SEA_2025Q3,Velvet Bloom — DE — Paid Search — 2025 Q3,4,2,4,2025-07-01,2025-09-30,Conversion,Cinematic Launch,70139.33
+1233,VBL_FR_PROG_2025Q3,Velvet Bloom — FR — Programmatic — 2025 Q3,4,3,1,2025-07-01,2025-09-30,Consideration,Glow Routine,101134.37
+1234,VBL_UK_PROG_2025Q3,Velvet Bloom — UK — Programmatic — 2025 Q3,4,3,2,2025-07-01,2025-09-30,Traffic,Signature Scent,102006.96
+1235,VBL_US_PROG_2025Q3,Velvet Bloom — US — Programmatic — 2025 Q3,4,3,3,2025-07-01,2025-09-30,Traffic,Fresh Botanics,103412.68
+1236,VBL_DE_PROG_2025Q3,Velvet Bloom — DE — Programmatic — 2025 Q3,4,3,4,2025-07-01,2025-09-30,Traffic,Bold Color,104822.47
+1237,VBL_FR_TV_2025Q3,Velvet Bloom — FR — TV — 2025 Q3,4,4,1,2025-07-01,2025-09-30,Awareness,Silk Repair,253493.38
+1238,VBL_UK_TV_2025Q3,Velvet Bloom — UK — TV — 2025 Q3,4,4,2,2025-07-01,2025-09-30,Awareness,Night Ritual,228909.14
+1239,VBL_US_TV_2025Q3,Velvet Bloom — US — TV — 2025 Q3,4,4,3,2025-07-01,2025-09-30,Brand Lift,Glow Routine,263111.61
+1240,VBL_DE_TV_2025Q3,Velvet Bloom — DE — TV — 2025 Q3,4,4,4,2025-07-01,2025-09-30,Awareness,Night Ritual,285577.26
+1241,VBL_FR_INFL_2025Q3,Velvet Bloom — FR — Influencer — 2025 Q3,4,5,1,2025-07-01,2025-09-30,Awareness,Fresh Botanics,48323.73
+1242,VBL_UK_INFL_2025Q3,Velvet Bloom — UK — Influencer — 2025 Q3,4,5,2,2025-07-01,2025-09-30,Consideration,Cinematic Launch,52450.98
+1243,VBL_US_INFL_2025Q3,Velvet Bloom — US — Influencer — 2025 Q3,4,5,3,2025-07-01,2025-09-30,Awareness,Signature Scent,58262.05
+1244,VBL_DE_INFL_2025Q3,Velvet Bloom — DE — Influencer — 2025 Q3,4,5,4,2025-07-01,2025-09-30,Consideration,Signature Scent,57267.6
+1245,VBL_FR_RET_MED_2025Q3,Velvet Bloom — FR — Retail Media — 2025 Q3,4,6,1,2025-07-01,2025-09-30,Sales,Cinematic Launch,75895.95
+1246,VBL_UK_RET_MED_2025Q3,Velvet Bloom — UK — Retail Media — 2025 Q3,4,6,2,2025-07-01,2025-09-30,Sales,Studio Pro,74909.25
+1247,VBL_US_RET_MED_2025Q3,Velvet Bloom — US — Retail Media — 2025 Q3,4,6,3,2025-07-01,2025-09-30,Conversion,Cinematic Launch,95258.9
+1248,VBL_DE_RET_MED_2025Q3,Velvet Bloom — DE — Retail Media — 2025 Q3,4,6,4,2025-07-01,2025-09-30,Sales,Studio Pro,73988.22
+1249,PRS_FR_PAID_SOC_2025Q3,Prisme Studio — FR — Paid Social — 2025 Q3,5,1,1,2025-07-01,2025-09-30,Consideration,Fresh Botanics,91352.23
+1250,PRS_UK_PAID_SOC_2025Q3,Prisme Studio — UK — Paid Social — 2025 Q3,5,1,2,2025-07-01,2025-09-30,Consideration,Signature Scent,104955.9
+1251,PRS_US_PAID_SOC_2025Q3,Prisme Studio — US — Paid Social — 2025 Q3,5,1,3,2025-07-01,2025-09-30,Awareness,Cinematic Launch,121314.02
+1252,PRS_DE_PAID_SOC_2025Q3,Prisme Studio — DE — Paid Social — 2025 Q3,5,1,4,2025-07-01,2025-09-30,Consideration,Studio Pro,109874.51
+1253,PRS_FR_PAID_SEA_2025Q3,Prisme Studio — FR — Paid Search — 2025 Q3,5,2,1,2025-07-01,2025-09-30,Sales,Night Ritual,70362.3
+1254,PRS_UK_PAID_SEA_2025Q3,Prisme Studio — UK — Paid Search — 2025 Q3,5,2,2,2025-07-01,2025-09-30,Sales,Studio Pro,96498.57
+1255,PRS_US_PAID_SEA_2025Q3,Prisme Studio — US — Paid Search — 2025 Q3,5,2,3,2025-07-01,2025-09-30,Conversion,Fresh Botanics,97426.83
+1256,PRS_DE_PAID_SEA_2025Q3,Prisme Studio — DE — Paid Search — 2025 Q3,5,2,4,2025-07-01,2025-09-30,Sales,Bold Color,79294.28
+1257,PRS_FR_PROG_2025Q3,Prisme Studio — FR — Programmatic — 2025 Q3,5,3,1,2025-07-01,2025-09-30,Traffic,Cinematic Launch,98890.41
+1258,PRS_UK_PROG_2025Q3,Prisme Studio — UK — Programmatic — 2025 Q3,5,3,2,2025-07-01,2025-09-30,Traffic,Glow Routine,130054.71
+1259,PRS_US_PROG_2025Q3,Prisme Studio — US — Programmatic — 2025 Q3,5,3,3,2025-07-01,2025-09-30,Consideration,Glow Routine,118767.49
+1260,PRS_DE_PROG_2025Q3,Prisme Studio — DE — Programmatic — 2025 Q3,5,3,4,2025-07-01,2025-09-30,Traffic,Fresh Botanics,102885.68
+1261,PRS_FR_TV_2025Q3,Prisme Studio — FR — TV — 2025 Q3,5,4,1,2025-07-01,2025-09-30,Awareness,Glow Routine,305698.46
+1262,PRS_UK_TV_2025Q3,Prisme Studio — UK — TV — 2025 Q3,5,4,2,2025-07-01,2025-09-30,Brand Lift,Night Ritual,326922.05
+1263,PRS_US_TV_2025Q3,Prisme Studio — US — TV — 2025 Q3,5,4,3,2025-07-01,2025-09-30,Awareness,Studio Pro,308877.79
+1264,PRS_DE_TV_2025Q3,Prisme Studio — DE — TV — 2025 Q3,5,4,4,2025-07-01,2025-09-30,Brand Lift,Studio Pro,336224.1
+1265,PRS_FR_INFL_2025Q3,Prisme Studio — FR — Influencer — 2025 Q3,5,5,1,2025-07-01,2025-09-30,Consideration,Signature Scent,64961.61
+1266,PRS_UK_INFL_2025Q3,Prisme Studio — UK — Influencer — 2025 Q3,5,5,2,2025-07-01,2025-09-30,Consideration,Fresh Botanics,68365.75
+1267,PRS_US_INFL_2025Q3,Prisme Studio — US — Influencer — 2025 Q3,5,5,3,2025-07-01,2025-09-30,Consideration,Silk Repair,61449.15
+1268,PRS_DE_INFL_2025Q3,Prisme Studio — DE — Influencer — 2025 Q3,5,5,4,2025-07-01,2025-09-30,Awareness,Studio Pro,64105.07
+1269,PRS_FR_RET_MED_2025Q3,Prisme Studio — FR — Retail Media — 2025 Q3,5,6,1,2025-07-01,2025-09-30,Conversion,Signature Scent,84278.65
+1270,PRS_UK_RET_MED_2025Q3,Prisme Studio — UK — Retail Media — 2025 Q3,5,6,2,2025-07-01,2025-09-30,Conversion,Cinematic Launch,92143.31
+1271,PRS_US_RET_MED_2025Q3,Prisme Studio — US — Retail Media — 2025 Q3,5,6,3,2025-07-01,2025-09-30,Conversion,Fresh Botanics,98722.86
+1272,PRS_DE_RET_MED_2025Q3,Prisme Studio — DE — Retail Media — 2025 Q3,5,6,4,2025-07-01,2025-09-30,Sales,Night Ritual,80932.93
+1273,CPL_FR_PAID_SOC_2025Q3,Color Pop Lab — FR — Paid Social — 2025 Q3,6,1,1,2025-07-01,2025-09-30,Awareness,Fresh Botanics,65455.67
+1274,CPL_UK_PAID_SOC_2025Q3,Color Pop Lab — UK — Paid Social — 2025 Q3,6,1,2,2025-07-01,2025-09-30,Awareness,Studio Pro,64394.1
+1275,CPL_US_PAID_SOC_2025Q3,Color Pop Lab — US — Paid Social — 2025 Q3,6,1,3,2025-07-01,2025-09-30,Consideration,Night Ritual,73366.31
+1276,CPL_DE_PAID_SOC_2025Q3,Color Pop Lab — DE — Paid Social — 2025 Q3,6,1,4,2025-07-01,2025-09-30,Consideration,Fresh Botanics,67985.32
+1277,CPL_FR_PAID_SEA_2025Q3,Color Pop Lab — FR — Paid Search — 2025 Q3,6,2,1,2025-07-01,2025-09-30,Conversion,Silk Repair,62708.78
+1278,CPL_UK_PAID_SEA_2025Q3,Color Pop Lab — UK — Paid Search — 2025 Q3,6,2,2,2025-07-01,2025-09-30,Conversion,Night Ritual,61367.45
+1279,CPL_US_PAID_SEA_2025Q3,Color Pop Lab — US — Paid Search — 2025 Q3,6,2,3,2025-07-01,2025-09-30,Sales,Cinematic Launch,59008.33
+1280,CPL_DE_PAID_SEA_2025Q3,Color Pop Lab — DE — Paid Search — 2025 Q3,6,2,4,2025-07-01,2025-09-30,Conversion,Bold Color,47476.24
+1281,CPL_FR_PROG_2025Q3,Color Pop Lab — FR — Programmatic — 2025 Q3,6,3,1,2025-07-01,2025-09-30,Traffic,Fresh Botanics,80592.23
+1282,CPL_UK_PROG_2025Q3,Color Pop Lab — UK — Programmatic — 2025 Q3,6,3,2,2025-07-01,2025-09-30,Consideration,Silk Repair,80724.4
+1283,CPL_US_PROG_2025Q3,Color Pop Lab — US — Programmatic — 2025 Q3,6,3,3,2025-07-01,2025-09-30,Traffic,Fresh Botanics,85231.9
+1284,CPL_DE_PROG_2025Q3,Color Pop Lab — DE — Programmatic — 2025 Q3,6,3,4,2025-07-01,2025-09-30,Consideration,Cinematic Launch,67318.9
+1285,CPL_FR_TV_2025Q3,Color Pop Lab — FR — TV — 2025 Q3,6,4,1,2025-07-01,2025-09-30,Awareness,Silk Repair,234327.98
+1286,CPL_UK_TV_2025Q3,Color Pop Lab — UK — TV — 2025 Q3,6,4,2,2025-07-01,2025-09-30,Awareness,Cinematic Launch,217900.32
+1287,CPL_US_TV_2025Q3,Color Pop Lab — US — TV — 2025 Q3,6,4,3,2025-07-01,2025-09-30,Brand Lift,Signature Scent,257598.41
+1288,CPL_DE_TV_2025Q3,Color Pop Lab — DE — TV — 2025 Q3,6,4,4,2025-07-01,2025-09-30,Awareness,Fresh Botanics,211338.86
+1289,CPL_FR_INFL_2025Q3,Color Pop Lab — FR — Influencer — 2025 Q3,6,5,1,2025-07-01,2025-09-30,Awareness,Silk Repair,47076.82
+1290,CPL_UK_INFL_2025Q3,Color Pop Lab — UK — Influencer — 2025 Q3,6,5,2,2025-07-01,2025-09-30,Consideration,Cinematic Launch,50330.51
+1291,CPL_US_INFL_2025Q3,Color Pop Lab — US — Influencer — 2025 Q3,6,5,3,2025-07-01,2025-09-30,Awareness,Cinematic Launch,53804.53
+1292,CPL_DE_INFL_2025Q3,Color Pop Lab — DE — Influencer — 2025 Q3,6,5,4,2025-07-01,2025-09-30,Awareness,Cinematic Launch,38606.51
+1293,CPL_FR_RET_MED_2025Q3,Color Pop Lab — FR — Retail Media — 2025 Q3,6,6,1,2025-07-01,2025-09-30,Conversion,Cinematic Launch,58522.83
+1294,CPL_UK_RET_MED_2025Q3,Color Pop Lab — UK — Retail Media — 2025 Q3,6,6,2,2025-07-01,2025-09-30,Sales,Night Ritual,56214.87
+1295,CPL_US_RET_MED_2025Q3,Color Pop Lab — US — Retail Media — 2025 Q3,6,6,3,2025-07-01,2025-09-30,Conversion,Bold Color,66420.92
+1296,CPL_DE_RET_MED_2025Q3,Color Pop Lab — DE — Retail Media — 2025 Q3,6,6,4,2025-07-01,2025-09-30,Sales,Signature Scent,66517.38
+1297,SDR_FR_PAID_SOC_2025Q3,Soie Dorée — FR — Paid Social — 2025 Q3,7,1,1,2025-07-01,2025-09-30,Consideration,Silk Repair,88732.31
+1298,SDR_UK_PAID_SOC_2025Q3,Soie Dorée — UK — Paid Social — 2025 Q3,7,1,2,2025-07-01,2025-09-30,Consideration,Night Ritual,118019.53
+1299,SDR_US_PAID_SOC_2025Q3,Soie Dorée — US — Paid Social — 2025 Q3,7,1,3,2025-07-01,2025-09-30,Awareness,Cinematic Launch,111786.53
+1300,SDR_DE_PAID_SOC_2025Q3,Soie Dorée — DE — Paid Social — 2025 Q3,7,1,4,2025-07-01,2025-09-30,Consideration,Studio Pro,113519.95
+1301,SDR_FR_PAID_SEA_2025Q3,Soie Dorée — FR — Paid Search — 2025 Q3,7,2,1,2025-07-01,2025-09-30,Conversion,Bold Color,85330.3
+1302,SDR_UK_PAID_SEA_2025Q3,Soie Dorée — UK — Paid Search — 2025 Q3,7,2,2,2025-07-01,2025-09-30,Sales,Bold Color,91799.51
+1303,SDR_US_PAID_SEA_2025Q3,Soie Dorée — US — Paid Search — 2025 Q3,7,2,3,2025-07-01,2025-09-30,Conversion,Cinematic Launch,83462.78
+1304,SDR_DE_PAID_SEA_2025Q3,Soie Dorée — DE — Paid Search — 2025 Q3,7,2,4,2025-07-01,2025-09-30,Conversion,Fresh Botanics,74730.96
+1305,SDR_FR_PROG_2025Q3,Soie Dorée — FR — Programmatic — 2025 Q3,7,3,1,2025-07-01,2025-09-30,Traffic,Silk Repair,107478.77
+1306,SDR_UK_PROG_2025Q3,Soie Dorée — UK — Programmatic — 2025 Q3,7,3,2,2025-07-01,2025-09-30,Consideration,Studio Pro,129438.75
+1307,SDR_US_PROG_2025Q3,Soie Dorée — US — Programmatic — 2025 Q3,7,3,3,2025-07-01,2025-09-30,Traffic,Bold Color,139966.74
+1308,SDR_DE_PROG_2025Q3,Soie Dorée — DE — Programmatic — 2025 Q3,7,3,4,2025-07-01,2025-09-30,Consideration,Night Ritual,112306.27
+1309,SDR_FR_TV_2025Q3,Soie Dorée — FR — TV — 2025 Q3,7,4,1,2025-07-01,2025-09-30,Awareness,Glow Routine,332479.76
+1310,SDR_UK_TV_2025Q3,Soie Dorée — UK — TV — 2025 Q3,7,4,2,2025-07-01,2025-09-30,Brand Lift,Signature Scent,353003.14
+1311,SDR_US_TV_2025Q3,Soie Dorée — US — TV — 2025 Q3,7,4,3,2025-07-01,2025-09-30,Awareness,Studio Pro,392568.21
+1312,SDR_DE_TV_2025Q3,Soie Dorée — DE — TV — 2025 Q3,7,4,4,2025-07-01,2025-09-30,Awareness,Glow Routine,338864.19
+1313,SDR_FR_INFL_2025Q3,Soie Dorée — FR — Influencer — 2025 Q3,7,5,1,2025-07-01,2025-09-30,Consideration,Fresh Botanics,61046.78
+1314,SDR_UK_INFL_2025Q3,Soie Dorée — UK — Influencer — 2025 Q3,7,5,2,2025-07-01,2025-09-30,Consideration,Fresh Botanics,62526.23
+1315,SDR_US_INFL_2025Q3,Soie Dorée — US — Influencer — 2025 Q3,7,5,3,2025-07-01,2025-09-30,Awareness,Night Ritual,66297.09
+1316,SDR_DE_INFL_2025Q3,Soie Dorée — DE — Influencer — 2025 Q3,7,5,4,2025-07-01,2025-09-30,Consideration,Cinematic Launch,62435.59
+1317,SDR_FR_RET_MED_2025Q3,Soie Dorée — FR — Retail Media — 2025 Q3,7,6,1,2025-07-01,2025-09-30,Sales,Studio Pro,90916.49
+1318,SDR_UK_RET_MED_2025Q3,Soie Dorée — UK — Retail Media — 2025 Q3,7,6,2,2025-07-01,2025-09-30,Sales,Fresh Botanics,89906.84
+1319,SDR_US_RET_MED_2025Q3,Soie Dorée — US — Retail Media — 2025 Q3,7,6,3,2025-07-01,2025-09-30,Conversion,Bold Color,91848.81
+1320,SDR_DE_RET_MED_2025Q3,Soie Dorée — DE — Retail Media — 2025 Q3,7,6,4,2025-07-01,2025-09-30,Conversion,Signature Scent,79582.55
+1321,BTN_FR_PAID_SOC_2025Q3,Botaniq — FR — Paid Social — 2025 Q3,8,1,1,2025-07-01,2025-09-30,Consideration,Silk Repair,73303.69
+1322,BTN_UK_PAID_SOC_2025Q3,Botaniq — UK — Paid Social — 2025 Q3,8,1,2,2025-07-01,2025-09-30,Consideration,Fresh Botanics,79173.88
+1323,BTN_US_PAID_SOC_2025Q3,Botaniq — US — Paid Social — 2025 Q3,8,1,3,2025-07-01,2025-09-30,Awareness,Night Ritual,87152.74
+1324,BTN_DE_PAID_SOC_2025Q3,Botaniq — DE — Paid Social — 2025 Q3,8,1,4,2025-07-01,2025-09-30,Awareness,Silk Repair,74094.5
+1325,BTN_FR_PAID_SEA_2025Q3,Botaniq — FR — Paid Search — 2025 Q3,8,2,1,2025-07-01,2025-09-30,Conversion,Silk Repair,60990.64
+1326,BTN_UK_PAID_SEA_2025Q3,Botaniq — UK — Paid Search — 2025 Q3,8,2,2,2025-07-01,2025-09-30,Conversion,Studio Pro,56623.03
+1327,BTN_US_PAID_SEA_2025Q3,Botaniq — US — Paid Search — 2025 Q3,8,2,3,2025-07-01,2025-09-30,Conversion,Signature Scent,68199.5
+1328,BTN_DE_PAID_SEA_2025Q3,Botaniq — DE — Paid Search — 2025 Q3,8,2,4,2025-07-01,2025-09-30,Conversion,Bold Color,62326.68
+1329,BTN_FR_PROG_2025Q3,Botaniq — FR — Programmatic — 2025 Q3,8,3,1,2025-07-01,2025-09-30,Consideration,Bold Color,78002.44
+1330,BTN_UK_PROG_2025Q3,Botaniq — UK — Programmatic — 2025 Q3,8,3,2,2025-07-01,2025-09-30,Traffic,Cinematic Launch,73716.87
+1331,BTN_US_PROG_2025Q3,Botaniq — US — Programmatic — 2025 Q3,8,3,3,2025-07-01,2025-09-30,Consideration,Signature Scent,85244.77
+1332,BTN_DE_PROG_2025Q3,Botaniq — DE — Programmatic — 2025 Q3,8,3,4,2025-07-01,2025-09-30,Traffic,Bold Color,70670.26
+1333,BTN_FR_TV_2025Q3,Botaniq — FR — TV — 2025 Q3,8,4,1,2025-07-01,2025-09-30,Awareness,Bold Color,222716.0
+1334,BTN_UK_TV_2025Q3,Botaniq — UK — TV — 2025 Q3,8,4,2,2025-07-01,2025-09-30,Awareness,Studio Pro,186575.55
+1335,BTN_US_TV_2025Q3,Botaniq — US — TV — 2025 Q3,8,4,3,2025-07-01,2025-09-30,Brand Lift,Fresh Botanics,232296.7
+1336,BTN_DE_TV_2025Q3,Botaniq — DE — TV — 2025 Q3,8,4,4,2025-07-01,2025-09-30,Awareness,Fresh Botanics,200773.27
+1337,BTN_FR_INFL_2025Q3,Botaniq — FR — Influencer — 2025 Q3,8,5,1,2025-07-01,2025-09-30,Awareness,Bold Color,42141.48
+1338,BTN_UK_INFL_2025Q3,Botaniq — UK — Influencer — 2025 Q3,8,5,2,2025-07-01,2025-09-30,Awareness,Fresh Botanics,44638.16
+1339,BTN_US_INFL_2025Q3,Botaniq — US — Influencer — 2025 Q3,8,5,3,2025-07-01,2025-09-30,Awareness,Bold Color,53535.26
+1340,BTN_DE_INFL_2025Q3,Botaniq — DE — Influencer — 2025 Q3,8,5,4,2025-07-01,2025-09-30,Consideration,Silk Repair,40477.58
+1341,BTN_FR_RET_MED_2025Q3,Botaniq — FR — Retail Media — 2025 Q3,8,6,1,2025-07-01,2025-09-30,Sales,Signature Scent,65812.66
+1342,BTN_UK_RET_MED_2025Q3,Botaniq — UK — Retail Media — 2025 Q3,8,6,2,2025-07-01,2025-09-30,Conversion,Glow Routine,64024.68
+1343,BTN_US_RET_MED_2025Q3,Botaniq — US — Retail Media — 2025 Q3,8,6,3,2025-07-01,2025-09-30,Sales,Night Ritual,73334.61
+1344,BTN_DE_RET_MED_2025Q3,Botaniq — DE — Retail Media — 2025 Q3,8,6,4,2025-07-01,2025-09-30,Conversion,Glow Routine,62559.55
+1345,LEC_FR_PAID_SOC_2025Q4,Lumière Éclat — FR — Paid Social — 2025 Q4,1,1,1,2025-10-01,2025-12-31,Awareness,Night Ritual,100334.31
+1346,LEC_UK_PAID_SOC_2025Q4,Lumière Éclat — UK — Paid Social — 2025 Q4,1,1,2,2025-10-01,2025-12-31,Awareness,Studio Pro,101261.19
+1347,LEC_US_PAID_SOC_2025Q4,Lumière Éclat — US — Paid Social — 2025 Q4,1,1,3,2025-10-01,2025-12-31,Awareness,Studio Pro,131799.59
+1348,LEC_DE_PAID_SOC_2025Q4,Lumière Éclat — DE — Paid Social — 2025 Q4,1,1,4,2025-10-01,2025-12-31,Awareness,Signature Scent,89975.98
+1349,LEC_FR_PAID_SEA_2025Q4,Lumière Éclat — FR — Paid Search — 2025 Q4,1,2,1,2025-10-01,2025-12-31,Sales,Signature Scent,69846.14
+1350,LEC_UK_PAID_SEA_2025Q4,Lumière Éclat — UK — Paid Search — 2025 Q4,1,2,2,2025-10-01,2025-12-31,Sales,Bold Color,94800.96
+1351,LEC_US_PAID_SEA_2025Q4,Lumière Éclat — US — Paid Search — 2025 Q4,1,2,3,2025-10-01,2025-12-31,Sales,Silk Repair,94355.26
+1352,LEC_DE_PAID_SEA_2025Q4,Lumière Éclat — DE — Paid Search — 2025 Q4,1,2,4,2025-10-01,2025-12-31,Conversion,Bold Color,88862.24
+1353,LEC_FR_PROG_2025Q4,Lumière Éclat — FR — Programmatic — 2025 Q4,1,3,1,2025-10-01,2025-12-31,Traffic,Silk Repair,111433.68
+1354,LEC_UK_PROG_2025Q4,Lumière Éclat — UK — Programmatic — 2025 Q4,1,3,2,2025-10-01,2025-12-31,Traffic,Studio Pro,108555.03
+1355,LEC_US_PROG_2025Q4,Lumière Éclat — US — Programmatic — 2025 Q4,1,3,3,2025-10-01,2025-12-31,Consideration,Glow Routine,134917.57
+1356,LEC_DE_PROG_2025Q4,Lumière Éclat — DE — Programmatic — 2025 Q4,1,3,4,2025-10-01,2025-12-31,Traffic,Studio Pro,103969.91
+1357,LEC_FR_TV_2025Q4,Lumière Éclat — FR — TV — 2025 Q4,1,4,1,2025-10-01,2025-12-31,Awareness,Glow Routine,267554.9
+1358,LEC_UK_TV_2025Q4,Lumière Éclat — UK — TV — 2025 Q4,1,4,2,2025-10-01,2025-12-31,Awareness,Signature Scent,289144.57
+1359,LEC_US_TV_2025Q4,Lumière Éclat — US — TV — 2025 Q4,1,4,3,2025-10-01,2025-12-31,Awareness,Fresh Botanics,395805.3
+1360,LEC_DE_TV_2025Q4,Lumière Éclat — DE — TV — 2025 Q4,1,4,4,2025-10-01,2025-12-31,Awareness,Cinematic Launch,305083.75
+1361,LEC_FR_INFL_2025Q4,Lumière Éclat — FR — Influencer — 2025 Q4,1,5,1,2025-10-01,2025-12-31,Consideration,Fresh Botanics,68264.64
+1362,LEC_UK_INFL_2025Q4,Lumière Éclat — UK — Influencer — 2025 Q4,1,5,2,2025-10-01,2025-12-31,Awareness,Night Ritual,63859.85
+1363,LEC_US_INFL_2025Q4,Lumière Éclat — US — Influencer — 2025 Q4,1,5,3,2025-10-01,2025-12-31,Awareness,Glow Routine,77067.58
+1364,LEC_DE_INFL_2025Q4,Lumière Éclat — DE — Influencer — 2025 Q4,1,5,4,2025-10-01,2025-12-31,Consideration,Signature Scent,55687.44
+1365,LEC_FR_RET_MED_2025Q4,Lumière Éclat — FR — Retail Media — 2025 Q4,1,6,1,2025-10-01,2025-12-31,Conversion,Bold Color,97813.76
+1366,LEC_UK_RET_MED_2025Q4,Lumière Éclat — UK — Retail Media — 2025 Q4,1,6,2,2025-10-01,2025-12-31,Sales,Cinematic Launch,86328.3
+1367,LEC_US_RET_MED_2025Q4,Lumière Éclat — US — Retail Media — 2025 Q4,1,6,3,2025-10-01,2025-12-31,Conversion,Fresh Botanics,95616.71
+1368,LEC_DE_RET_MED_2025Q4,Lumière Éclat — DE — Retail Media — 2025 Q4,1,6,4,2025-10-01,2025-12-31,Sales,Night Ritual,86450.98
+1369,AUS_FR_PAID_SOC_2025Q4,Aurora Skin — FR — Paid Social — 2025 Q4,2,1,1,2025-10-01,2025-12-31,Consideration,Glow Routine,84746.56
+1370,AUS_UK_PAID_SOC_2025Q4,Aurora Skin — UK — Paid Social — 2025 Q4,2,1,2,2025-10-01,2025-12-31,Awareness,Silk Repair,90192.3
+1371,AUS_US_PAID_SOC_2025Q4,Aurora Skin — US — Paid Social — 2025 Q4,2,1,3,2025-10-01,2025-12-31,Consideration,Cinematic Launch,106580.96
+1372,AUS_DE_PAID_SOC_2025Q4,Aurora Skin — DE — Paid Social — 2025 Q4,2,1,4,2025-10-01,2025-12-31,Consideration,Glow Routine,90673.26
+1373,AUS_FR_PAID_SEA_2025Q4,Aurora Skin — FR — Paid Search — 2025 Q4,2,2,1,2025-10-01,2025-12-31,Sales,Night Ritual,74039.54
+1374,AUS_UK_PAID_SEA_2025Q4,Aurora Skin — UK — Paid Search — 2025 Q4,2,2,2,2025-10-01,2025-12-31,Conversion,Glow Routine,64926.13
+1375,AUS_US_PAID_SEA_2025Q4,Aurora Skin — US — Paid Search — 2025 Q4,2,2,3,2025-10-01,2025-12-31,Sales,Bold Color,67489.89
+1376,AUS_DE_PAID_SEA_2025Q4,Aurora Skin — DE — Paid Search — 2025 Q4,2,2,4,2025-10-01,2025-12-31,Sales,Glow Routine,72836.65
+1377,AUS_FR_PROG_2025Q4,Aurora Skin — FR — Programmatic — 2025 Q4,2,3,1,2025-10-01,2025-12-31,Traffic,Signature Scent,82615.27
+1378,AUS_UK_PROG_2025Q4,Aurora Skin — UK — Programmatic — 2025 Q4,2,3,2,2025-10-01,2025-12-31,Traffic,Studio Pro,108081.34
+1379,AUS_US_PROG_2025Q4,Aurora Skin — US — Programmatic — 2025 Q4,2,3,3,2025-10-01,2025-12-31,Traffic,Signature Scent,115144.27
+1380,AUS_DE_PROG_2025Q4,Aurora Skin — DE — Programmatic — 2025 Q4,2,3,4,2025-10-01,2025-12-31,Traffic,Silk Repair,95211.39
+1381,AUS_FR_TV_2025Q4,Aurora Skin — FR — TV — 2025 Q4,2,4,1,2025-10-01,2025-12-31,Awareness,Silk Repair,283684.69
+1382,AUS_UK_TV_2025Q4,Aurora Skin — UK — TV — 2025 Q4,2,4,2,2025-10-01,2025-12-31,Brand Lift,Cinematic Launch,249975.38
+1383,AUS_US_TV_2025Q4,Aurora Skin — US — TV — 2025 Q4,2,4,3,2025-10-01,2025-12-31,Awareness,Cinematic Launch,328471.36
+1384,AUS_DE_TV_2025Q4,Aurora Skin — DE — TV — 2025 Q4,2,4,4,2025-10-01,2025-12-31,Brand Lift,Bold Color,265256.04
+1385,AUS_FR_INFL_2025Q4,Aurora Skin — FR — Influencer — 2025 Q4,2,5,1,2025-10-01,2025-12-31,Awareness,Signature Scent,60233.25
+1386,AUS_UK_INFL_2025Q4,Aurora Skin — UK — Influencer — 2025 Q4,2,5,2,2025-10-01,2025-12-31,Awareness,Glow Routine,60078.19
+1387,AUS_US_INFL_2025Q4,Aurora Skin — US — Influencer — 2025 Q4,2,5,3,2025-10-01,2025-12-31,Awareness,Studio Pro,52204.01
+1388,AUS_DE_INFL_2025Q4,Aurora Skin — DE — Influencer — 2025 Q4,2,5,4,2025-10-01,2025-12-31,Awareness,Signature Scent,50211.92
+1389,AUS_FR_RET_MED_2025Q4,Aurora Skin — FR — Retail Media — 2025 Q4,2,6,1,2025-10-01,2025-12-31,Sales,Silk Repair,73809.76
+1390,AUS_UK_RET_MED_2025Q4,Aurora Skin — UK — Retail Media — 2025 Q4,2,6,2,2025-10-01,2025-12-31,Conversion,Night Ritual,68729.46
+1391,AUS_US_RET_MED_2025Q4,Aurora Skin — US — Retail Media — 2025 Q4,2,6,3,2025-10-01,2025-12-31,Conversion,Cinematic Launch,74466.26
+1392,AUS_DE_RET_MED_2025Q4,Aurora Skin — DE — Retail Media — 2025 Q4,2,6,4,2025-10-01,2025-12-31,Conversion,Silk Repair,70223.61
+1393,NAB_FR_PAID_SOC_2025Q4,Noir Absolu — FR — Paid Social — 2025 Q4,3,1,1,2025-10-01,2025-12-31,Awareness,Glow Routine,105756.55
+1394,NAB_UK_PAID_SOC_2025Q4,Noir Absolu — UK — Paid Social — 2025 Q4,3,1,2,2025-10-01,2025-12-31,Awareness,Silk Repair,106233.8
+1395,NAB_US_PAID_SOC_2025Q4,Noir Absolu — US — Paid Social — 2025 Q4,3,1,3,2025-10-01,2025-12-31,Consideration,Studio Pro,111046.79
+1396,NAB_DE_PAID_SOC_2025Q4,Noir Absolu — DE — Paid Social — 2025 Q4,3,1,4,2025-10-01,2025-12-31,Consideration,Signature Scent,87254.18
+1397,NAB_FR_PAID_SEA_2025Q4,Noir Absolu — FR — Paid Search — 2025 Q4,3,2,1,2025-10-01,2025-12-31,Conversion,Silk Repair,93155.91
+1398,NAB_UK_PAID_SEA_2025Q4,Noir Absolu — UK — Paid Search — 2025 Q4,3,2,2,2025-10-01,2025-12-31,Sales,Signature Scent,87351.42
+1399,NAB_US_PAID_SEA_2025Q4,Noir Absolu — US — Paid Search — 2025 Q4,3,2,3,2025-10-01,2025-12-31,Sales,Silk Repair,89325.02
+1400,NAB_DE_PAID_SEA_2025Q4,Noir Absolu — DE — Paid Search — 2025 Q4,3,2,4,2025-10-01,2025-12-31,Sales,Silk Repair,87840.89
+1401,NAB_FR_PROG_2025Q4,Noir Absolu — FR — Programmatic — 2025 Q4,3,3,1,2025-10-01,2025-12-31,Consideration,Studio Pro,112245.62
+1402,NAB_UK_PROG_2025Q4,Noir Absolu — UK — Programmatic — 2025 Q4,3,3,2,2025-10-01,2025-12-31,Traffic,Cinematic Launch,121521.97
+1403,NAB_US_PROG_2025Q4,Noir Absolu — US — Programmatic — 2025 Q4,3,3,3,2025-10-01,2025-12-31,Traffic,Cinematic Launch,119468.69
+1404,NAB_DE_PROG_2025Q4,Noir Absolu — DE — Programmatic — 2025 Q4,3,3,4,2025-10-01,2025-12-31,Traffic,Night Ritual,120297.26
+1405,NAB_FR_TV_2025Q4,Noir Absolu — FR — TV — 2025 Q4,3,4,1,2025-10-01,2025-12-31,Brand Lift,Glow Routine,269917.77
+1406,NAB_UK_TV_2025Q4,Noir Absolu — UK — TV — 2025 Q4,3,4,2,2025-10-01,2025-12-31,Awareness,Cinematic Launch,350271.17
+1407,NAB_US_TV_2025Q4,Noir Absolu — US — TV — 2025 Q4,3,4,3,2025-10-01,2025-12-31,Awareness,Silk Repair,297384.46
+1408,NAB_DE_TV_2025Q4,Noir Absolu — DE — TV — 2025 Q4,3,4,4,2025-10-01,2025-12-31,Awareness,Cinematic Launch,305280.69
+1409,NAB_FR_INFL_2025Q4,Noir Absolu — FR — Influencer — 2025 Q4,3,5,1,2025-10-01,2025-12-31,Consideration,Night Ritual,64313.62
+1410,NAB_UK_INFL_2025Q4,Noir Absolu — UK — Influencer — 2025 Q4,3,5,2,2025-10-01,2025-12-31,Awareness,Bold Color,73958.97
+1411,NAB_US_INFL_2025Q4,Noir Absolu — US — Influencer — 2025 Q4,3,5,3,2025-10-01,2025-12-31,Consideration,Night Ritual,75737.82
+1412,NAB_DE_INFL_2025Q4,Noir Absolu — DE — Influencer — 2025 Q4,3,5,4,2025-10-01,2025-12-31,Consideration,Cinematic Launch,71047.39
+1413,NAB_FR_RET_MED_2025Q4,Noir Absolu — FR — Retail Media — 2025 Q4,3,6,1,2025-10-01,2025-12-31,Sales,Studio Pro,93775.71
+1414,NAB_UK_RET_MED_2025Q4,Noir Absolu — UK — Retail Media — 2025 Q4,3,6,2,2025-10-01,2025-12-31,Conversion,Bold Color,84157.32
+1415,NAB_US_RET_MED_2025Q4,Noir Absolu — US — Retail Media — 2025 Q4,3,6,3,2025-10-01,2025-12-31,Sales,Signature Scent,107759.94
+1416,NAB_DE_RET_MED_2025Q4,Noir Absolu — DE — Retail Media — 2025 Q4,3,6,4,2025-10-01,2025-12-31,Conversion,Glow Routine,86219.4
+1417,VBL_FR_PAID_SOC_2025Q4,Velvet Bloom — FR — Paid Social — 2025 Q4,4,1,1,2025-10-01,2025-12-31,Consideration,Bold Color,92225.55
+1418,VBL_UK_PAID_SOC_2025Q4,Velvet Bloom — UK — Paid Social — 2025 Q4,4,1,2,2025-10-01,2025-12-31,Consideration,Silk Repair,91988.21
+1419,VBL_US_PAID_SOC_2025Q4,Velvet Bloom — US — Paid Social — 2025 Q4,4,1,3,2025-10-01,2025-12-31,Consideration,Silk Repair,89948.22
+1420,VBL_DE_PAID_SOC_2025Q4,Velvet Bloom — DE — Paid Social — 2025 Q4,4,1,4,2025-10-01,2025-12-31,Consideration,Night Ritual,72550.69
+1421,VBL_FR_PAID_SEA_2025Q4,Velvet Bloom — FR — Paid Search — 2025 Q4,4,2,1,2025-10-01,2025-12-31,Conversion,Signature Scent,66878.14
+1422,VBL_UK_PAID_SEA_2025Q4,Velvet Bloom — UK — Paid Search — 2025 Q4,4,2,2,2025-10-01,2025-12-31,Sales,Bold Color,66187.98
+1423,VBL_US_PAID_SEA_2025Q4,Velvet Bloom — US — Paid Search — 2025 Q4,4,2,3,2025-10-01,2025-12-31,Sales,Glow Routine,80555.38
+1424,VBL_DE_PAID_SEA_2025Q4,Velvet Bloom — DE — Paid Search — 2025 Q4,4,2,4,2025-10-01,2025-12-31,Sales,Glow Routine,59327.18
+1425,VBL_FR_PROG_2025Q4,Velvet Bloom — FR — Programmatic — 2025 Q4,4,3,1,2025-10-01,2025-12-31,Consideration,Signature Scent,90997.91
+1426,VBL_UK_PROG_2025Q4,Velvet Bloom — UK — Programmatic — 2025 Q4,4,3,2,2025-10-01,2025-12-31,Traffic,Bold Color,97180.52
+1427,VBL_US_PROG_2025Q4,Velvet Bloom — US — Programmatic — 2025 Q4,4,3,3,2025-10-01,2025-12-31,Consideration,Signature Scent,102833.83
+1428,VBL_DE_PROG_2025Q4,Velvet Bloom — DE — Programmatic — 2025 Q4,4,3,4,2025-10-01,2025-12-31,Traffic,Signature Scent,106961.1
+1429,VBL_FR_TV_2025Q4,Velvet Bloom — FR — TV — 2025 Q4,4,4,1,2025-10-01,2025-12-31,Awareness,Silk Repair,246835.09
+1430,VBL_UK_TV_2025Q4,Velvet Bloom — UK — TV — 2025 Q4,4,4,2,2025-10-01,2025-12-31,Awareness,Silk Repair,261257.89
+1431,VBL_US_TV_2025Q4,Velvet Bloom — US — TV — 2025 Q4,4,4,3,2025-10-01,2025-12-31,Brand Lift,Bold Color,291998.12
+1432,VBL_DE_TV_2025Q4,Velvet Bloom — DE — TV — 2025 Q4,4,4,4,2025-10-01,2025-12-31,Awareness,Night Ritual,222081.32
+1433,VBL_FR_INFL_2025Q4,Velvet Bloom — FR — Influencer — 2025 Q4,4,5,1,2025-10-01,2025-12-31,Awareness,Bold Color,46575.75
+1434,VBL_UK_INFL_2025Q4,Velvet Bloom — UK — Influencer — 2025 Q4,4,5,2,2025-10-01,2025-12-31,Consideration,Bold Color,56066.54
+1435,VBL_US_INFL_2025Q4,Velvet Bloom — US — Influencer — 2025 Q4,4,5,3,2025-10-01,2025-12-31,Awareness,Studio Pro,51974.83
+1436,VBL_DE_INFL_2025Q4,Velvet Bloom — DE — Influencer — 2025 Q4,4,5,4,2025-10-01,2025-12-31,Consideration,Fresh Botanics,51834.33
+1437,VBL_FR_RET_MED_2025Q4,Velvet Bloom — FR — Retail Media — 2025 Q4,4,6,1,2025-10-01,2025-12-31,Conversion,Cinematic Launch,67977.54
+1438,VBL_UK_RET_MED_2025Q4,Velvet Bloom — UK — Retail Media — 2025 Q4,4,6,2,2025-10-01,2025-12-31,Sales,Cinematic Launch,70618.08
+1439,VBL_US_RET_MED_2025Q4,Velvet Bloom — US — Retail Media — 2025 Q4,4,6,3,2025-10-01,2025-12-31,Conversion,Night Ritual,82022.38
+1440,VBL_DE_RET_MED_2025Q4,Velvet Bloom — DE — Retail Media — 2025 Q4,4,6,4,2025-10-01,2025-12-31,Conversion,Fresh Botanics,62496.83
+1441,PRS_FR_PAID_SOC_2025Q4,Prisme Studio — FR — Paid Social — 2025 Q4,5,1,1,2025-10-01,2025-12-31,Awareness,Glow Routine,87806.99
+1442,PRS_UK_PAID_SOC_2025Q4,Prisme Studio — UK — Paid Social — 2025 Q4,5,1,2,2025-10-01,2025-12-31,Awareness,Fresh Botanics,99615.86
+1443,PRS_US_PAID_SOC_2025Q4,Prisme Studio — US — Paid Social — 2025 Q4,5,1,3,2025-10-01,2025-12-31,Awareness,Fresh Botanics,105402.9
+1444,PRS_DE_PAID_SOC_2025Q4,Prisme Studio — DE — Paid Social — 2025 Q4,5,1,4,2025-10-01,2025-12-31,Awareness,Cinematic Launch,113241.01
+1445,PRS_FR_PAID_SEA_2025Q4,Prisme Studio — FR — Paid Search — 2025 Q4,5,2,1,2025-10-01,2025-12-31,Conversion,Cinematic Launch,72154.68
+1446,PRS_UK_PAID_SEA_2025Q4,Prisme Studio — UK — Paid Search — 2025 Q4,5,2,2,2025-10-01,2025-12-31,Conversion,Glow Routine,97630.17
+1447,PRS_US_PAID_SEA_2025Q4,Prisme Studio — US — Paid Search — 2025 Q4,5,2,3,2025-10-01,2025-12-31,Sales,Fresh Botanics,96529.07
+1448,PRS_DE_PAID_SEA_2025Q4,Prisme Studio — DE — Paid Search — 2025 Q4,5,2,4,2025-10-01,2025-12-31,Sales,Studio Pro,71218.2
+1449,PRS_FR_PROG_2025Q4,Prisme Studio — FR — Programmatic — 2025 Q4,5,3,1,2025-10-01,2025-12-31,Consideration,Studio Pro,102510.44
+1450,PRS_UK_PROG_2025Q4,Prisme Studio — UK — Programmatic — 2025 Q4,5,3,2,2025-10-01,2025-12-31,Traffic,Fresh Botanics,115292.96
+1451,PRS_US_PROG_2025Q4,Prisme Studio — US — Programmatic — 2025 Q4,5,3,3,2025-10-01,2025-12-31,Consideration,Bold Color,146112.63
+1452,PRS_DE_PROG_2025Q4,Prisme Studio — DE — Programmatic — 2025 Q4,5,3,4,2025-10-01,2025-12-31,Consideration,Glow Routine,129276.08
+1453,PRS_FR_TV_2025Q4,Prisme Studio — FR — TV — 2025 Q4,5,4,1,2025-10-01,2025-12-31,Awareness,Bold Color,313389.74
+1454,PRS_UK_TV_2025Q4,Prisme Studio — UK — TV — 2025 Q4,5,4,2,2025-10-01,2025-12-31,Awareness,Studio Pro,273193.3
+1455,PRS_US_TV_2025Q4,Prisme Studio — US — TV — 2025 Q4,5,4,3,2025-10-01,2025-12-31,Awareness,Studio Pro,352018.48
+1456,PRS_DE_TV_2025Q4,Prisme Studio — DE — TV — 2025 Q4,5,4,4,2025-10-01,2025-12-31,Brand Lift,Silk Repair,268426.58
+1457,PRS_FR_INFL_2025Q4,Prisme Studio — FR — Influencer — 2025 Q4,5,5,1,2025-10-01,2025-12-31,Consideration,Fresh Botanics,65753.38
+1458,PRS_UK_INFL_2025Q4,Prisme Studio — UK — Influencer — 2025 Q4,5,5,2,2025-10-01,2025-12-31,Awareness,Bold Color,58832.52
+1459,PRS_US_INFL_2025Q4,Prisme Studio — US — Influencer — 2025 Q4,5,5,3,2025-10-01,2025-12-31,Consideration,Glow Routine,79516.59
+1460,PRS_DE_INFL_2025Q4,Prisme Studio — DE — Influencer — 2025 Q4,5,5,4,2025-10-01,2025-12-31,Consideration,Cinematic Launch,66416.16
+1461,PRS_FR_RET_MED_2025Q4,Prisme Studio — FR — Retail Media — 2025 Q4,5,6,1,2025-10-01,2025-12-31,Sales,Studio Pro,74571.43
+1462,PRS_UK_RET_MED_2025Q4,Prisme Studio — UK — Retail Media — 2025 Q4,5,6,2,2025-10-01,2025-12-31,Sales,Glow Routine,96674.85
+1463,PRS_US_RET_MED_2025Q4,Prisme Studio — US — Retail Media — 2025 Q4,5,6,3,2025-10-01,2025-12-31,Sales,Cinematic Launch,103335.54
+1464,PRS_DE_RET_MED_2025Q4,Prisme Studio — DE — Retail Media — 2025 Q4,5,6,4,2025-10-01,2025-12-31,Conversion,Silk Repair,89813.84
+1465,CPL_FR_PAID_SOC_2025Q4,Color Pop Lab — FR — Paid Social — 2025 Q4,6,1,1,2025-10-01,2025-12-31,Awareness,Night Ritual,72024.56
+1466,CPL_UK_PAID_SOC_2025Q4,Color Pop Lab — UK — Paid Social — 2025 Q4,6,1,2,2025-10-01,2025-12-31,Consideration,Fresh Botanics,65137.59
+1467,CPL_US_PAID_SOC_2025Q4,Color Pop Lab — US — Paid Social — 2025 Q4,6,1,3,2025-10-01,2025-12-31,Consideration,Fresh Botanics,87159.54
+1468,CPL_DE_PAID_SOC_2025Q4,Color Pop Lab — DE — Paid Social — 2025 Q4,6,1,4,2025-10-01,2025-12-31,Consideration,Silk Repair,67424.55
+1469,CPL_FR_PAID_SEA_2025Q4,Color Pop Lab — FR — Paid Search — 2025 Q4,6,2,1,2025-10-01,2025-12-31,Sales,Night Ritual,48386.06
+1470,CPL_UK_PAID_SEA_2025Q4,Color Pop Lab — UK — Paid Search — 2025 Q4,6,2,2,2025-10-01,2025-12-31,Sales,Glow Routine,49505.32
+1471,CPL_US_PAID_SEA_2025Q4,Color Pop Lab — US — Paid Search — 2025 Q4,6,2,3,2025-10-01,2025-12-31,Conversion,Studio Pro,58247.66
+1472,CPL_DE_PAID_SEA_2025Q4,Color Pop Lab — DE — Paid Search — 2025 Q4,6,2,4,2025-10-01,2025-12-31,Conversion,Signature Scent,49757.79
+1473,CPL_FR_PROG_2025Q4,Color Pop Lab — FR — Programmatic — 2025 Q4,6,3,1,2025-10-01,2025-12-31,Traffic,Night Ritual,74624.46
+1474,CPL_UK_PROG_2025Q4,Color Pop Lab — UK — Programmatic — 2025 Q4,6,3,2,2025-10-01,2025-12-31,Consideration,Night Ritual,87514.51
+1475,CPL_US_PROG_2025Q4,Color Pop Lab — US — Programmatic — 2025 Q4,6,3,3,2025-10-01,2025-12-31,Consideration,Studio Pro,97879.96
+1476,CPL_DE_PROG_2025Q4,Color Pop Lab — DE — Programmatic — 2025 Q4,6,3,4,2025-10-01,2025-12-31,Traffic,Glow Routine,82850.01
+1477,CPL_FR_TV_2025Q4,Color Pop Lab — FR — TV — 2025 Q4,6,4,1,2025-10-01,2025-12-31,Awareness,Glow Routine,229298.92
+1478,CPL_UK_TV_2025Q4,Color Pop Lab — UK — TV — 2025 Q4,6,4,2,2025-10-01,2025-12-31,Brand Lift,Fresh Botanics,203685.85
+1479,CPL_US_TV_2025Q4,Color Pop Lab — US — TV — 2025 Q4,6,4,3,2025-10-01,2025-12-31,Brand Lift,Glow Routine,200241.12
+1480,CPL_DE_TV_2025Q4,Color Pop Lab — DE — TV — 2025 Q4,6,4,4,2025-10-01,2025-12-31,Awareness,Glow Routine,229338.03
+1481,CPL_FR_INFL_2025Q4,Color Pop Lab — FR — Influencer — 2025 Q4,6,5,1,2025-10-01,2025-12-31,Awareness,Signature Scent,48489.87
+1482,CPL_UK_INFL_2025Q4,Color Pop Lab — UK — Influencer — 2025 Q4,6,5,2,2025-10-01,2025-12-31,Consideration,Cinematic Launch,45859.04
+1483,CPL_US_INFL_2025Q4,Color Pop Lab — US — Influencer — 2025 Q4,6,5,3,2025-10-01,2025-12-31,Awareness,Night Ritual,49504.63
+1484,CPL_DE_INFL_2025Q4,Color Pop Lab — DE — Influencer — 2025 Q4,6,5,4,2025-10-01,2025-12-31,Awareness,Night Ritual,39739.19
+1485,CPL_FR_RET_MED_2025Q4,Color Pop Lab — FR — Retail Media — 2025 Q4,6,6,1,2025-10-01,2025-12-31,Conversion,Fresh Botanics,53847.23
+1486,CPL_UK_RET_MED_2025Q4,Color Pop Lab — UK — Retail Media — 2025 Q4,6,6,2,2025-10-01,2025-12-31,Conversion,Bold Color,65301.6
+1487,CPL_US_RET_MED_2025Q4,Color Pop Lab — US — Retail Media — 2025 Q4,6,6,3,2025-10-01,2025-12-31,Conversion,Glow Routine,77264.02
+1488,CPL_DE_RET_MED_2025Q4,Color Pop Lab — DE — Retail Media — 2025 Q4,6,6,4,2025-10-01,2025-12-31,Sales,Fresh Botanics,65203.57
+1489,SDR_FR_PAID_SOC_2025Q4,Soie Dorée — FR — Paid Social — 2025 Q4,7,1,1,2025-10-01,2025-12-31,Awareness,Silk Repair,106300.03
+1490,SDR_UK_PAID_SOC_2025Q4,Soie Dorée — UK — Paid Social — 2025 Q4,7,1,2,2025-10-01,2025-12-31,Awareness,Silk Repair,116815.65
+1491,SDR_US_PAID_SOC_2025Q4,Soie Dorée — US — Paid Social — 2025 Q4,7,1,3,2025-10-01,2025-12-31,Awareness,Fresh Botanics,107348.49
+1492,SDR_DE_PAID_SOC_2025Q4,Soie Dorée — DE — Paid Social — 2025 Q4,7,1,4,2025-10-01,2025-12-31,Consideration,Cinematic Launch,103187.52
+1493,SDR_FR_PAID_SEA_2025Q4,Soie Dorée — FR — Paid Search — 2025 Q4,7,2,1,2025-10-01,2025-12-31,Conversion,Cinematic Launch,74944.03
+1494,SDR_UK_PAID_SEA_2025Q4,Soie Dorée — UK — Paid Search — 2025 Q4,7,2,2,2025-10-01,2025-12-31,Conversion,Cinematic Launch,86563.72
+1495,SDR_US_PAID_SEA_2025Q4,Soie Dorée — US — Paid Search — 2025 Q4,7,2,3,2025-10-01,2025-12-31,Sales,Glow Routine,96532.36
+1496,SDR_DE_PAID_SEA_2025Q4,Soie Dorée — DE — Paid Search — 2025 Q4,7,2,4,2025-10-01,2025-12-31,Sales,Signature Scent,89095.84
+1497,SDR_FR_PROG_2025Q4,Soie Dorée — FR — Programmatic — 2025 Q4,7,3,1,2025-10-01,2025-12-31,Consideration,Night Ritual,114152.22
+1498,SDR_UK_PROG_2025Q4,Soie Dorée — UK — Programmatic — 2025 Q4,7,3,2,2025-10-01,2025-12-31,Traffic,Fresh Botanics,117164.19
+1499,SDR_US_PROG_2025Q4,Soie Dorée — US — Programmatic — 2025 Q4,7,3,3,2025-10-01,2025-12-31,Traffic,Silk Repair,118122.76
+1500,SDR_DE_PROG_2025Q4,Soie Dorée — DE — Programmatic — 2025 Q4,7,3,4,2025-10-01,2025-12-31,Traffic,Studio Pro,98935.19
+1501,SDR_FR_TV_2025Q4,Soie Dorée — FR — TV — 2025 Q4,7,4,1,2025-10-01,2025-12-31,Brand Lift,Signature Scent,308468.64
+1502,SDR_UK_TV_2025Q4,Soie Dorée — UK — TV — 2025 Q4,7,4,2,2025-10-01,2025-12-31,Awareness,Glow Routine,338216.29
+1503,SDR_US_TV_2025Q4,Soie Dorée — US — TV — 2025 Q4,7,4,3,2025-10-01,2025-12-31,Awareness,Cinematic Launch,373402.25
+1504,SDR_DE_TV_2025Q4,Soie Dorée — DE — TV — 2025 Q4,7,4,4,2025-10-01,2025-12-31,Brand Lift,Fresh Botanics,264967.53
+1505,SDR_FR_INFL_2025Q4,Soie Dorée — FR — Influencer — 2025 Q4,7,5,1,2025-10-01,2025-12-31,Awareness,Cinematic Launch,67203.18
+1506,SDR_UK_INFL_2025Q4,Soie Dorée — UK — Influencer — 2025 Q4,7,5,2,2025-10-01,2025-12-31,Awareness,Night Ritual,73289.38
+1507,SDR_US_INFL_2025Q4,Soie Dorée — US — Influencer — 2025 Q4,7,5,3,2025-10-01,2025-12-31,Awareness,Signature Scent,76148.48
+1508,SDR_DE_INFL_2025Q4,Soie Dorée — DE — Influencer — 2025 Q4,7,5,4,2025-10-01,2025-12-31,Consideration,Night Ritual,66417.71
+1509,SDR_FR_RET_MED_2025Q4,Soie Dorée — FR — Retail Media — 2025 Q4,7,6,1,2025-10-01,2025-12-31,Sales,Studio Pro,76778.45
+1510,SDR_UK_RET_MED_2025Q4,Soie Dorée — UK — Retail Media — 2025 Q4,7,6,2,2025-10-01,2025-12-31,Sales,Night Ritual,84561.9
+1511,SDR_US_RET_MED_2025Q4,Soie Dorée — US — Retail Media — 2025 Q4,7,6,3,2025-10-01,2025-12-31,Conversion,Bold Color,107940.42
+1512,SDR_DE_RET_MED_2025Q4,Soie Dorée — DE — Retail Media — 2025 Q4,7,6,4,2025-10-01,2025-12-31,Sales,Bold Color,89356.68
+1513,BTN_FR_PAID_SOC_2025Q4,Botaniq — FR — Paid Social — 2025 Q4,8,1,1,2025-10-01,2025-12-31,Awareness,Night Ritual,60682.3
+1514,BTN_UK_PAID_SOC_2025Q4,Botaniq — UK — Paid Social — 2025 Q4,8,1,2,2025-10-01,2025-12-31,Awareness,Night Ritual,79104.35
+1515,BTN_US_PAID_SOC_2025Q4,Botaniq — US — Paid Social — 2025 Q4,8,1,3,2025-10-01,2025-12-31,Awareness,Fresh Botanics,75337.61
+1516,BTN_DE_PAID_SOC_2025Q4,Botaniq — DE — Paid Social — 2025 Q4,8,1,4,2025-10-01,2025-12-31,Awareness,Signature Scent,59114.93
+1517,BTN_FR_PAID_SEA_2025Q4,Botaniq — FR — Paid Search — 2025 Q4,8,2,1,2025-10-01,2025-12-31,Conversion,Night Ritual,50776.46
+1518,BTN_UK_PAID_SEA_2025Q4,Botaniq — UK — Paid Search — 2025 Q4,8,2,2,2025-10-01,2025-12-31,Conversion,Studio Pro,61599.39
+1519,BTN_US_PAID_SEA_2025Q4,Botaniq — US — Paid Search — 2025 Q4,8,2,3,2025-10-01,2025-12-31,Sales,Fresh Botanics,54101.89
+1520,BTN_DE_PAID_SEA_2025Q4,Botaniq — DE — Paid Search — 2025 Q4,8,2,4,2025-10-01,2025-12-31,Conversion,Glow Routine,57496.6
+1521,BTN_FR_PROG_2025Q4,Botaniq — FR — Programmatic — 2025 Q4,8,3,1,2025-10-01,2025-12-31,Traffic,Bold Color,86237.23
+1522,BTN_UK_PROG_2025Q4,Botaniq — UK — Programmatic — 2025 Q4,8,3,2,2025-10-01,2025-12-31,Traffic,Signature Scent,79057.09
+1523,BTN_US_PROG_2025Q4,Botaniq — US — Programmatic — 2025 Q4,8,3,3,2025-10-01,2025-12-31,Consideration,Silk Repair,100522.11
+1524,BTN_DE_PROG_2025Q4,Botaniq — DE — Programmatic — 2025 Q4,8,3,4,2025-10-01,2025-12-31,Consideration,Bold Color,79770.97
+1525,BTN_FR_TV_2025Q4,Botaniq — FR — TV — 2025 Q4,8,4,1,2025-10-01,2025-12-31,Brand Lift,Studio Pro,188618.89
+1526,BTN_UK_TV_2025Q4,Botaniq — UK — TV — 2025 Q4,8,4,2,2025-10-01,2025-12-31,Awareness,Studio Pro,188338.22
+1527,BTN_US_TV_2025Q4,Botaniq — US — TV — 2025 Q4,8,4,3,2025-10-01,2025-12-31,Brand Lift,Silk Repair,254506.15
+1528,BTN_DE_TV_2025Q4,Botaniq — DE — TV — 2025 Q4,8,4,4,2025-10-01,2025-12-31,Brand Lift,Fresh Botanics,203726.73
+1529,BTN_FR_INFL_2025Q4,Botaniq — FR — Influencer — 2025 Q4,8,5,1,2025-10-01,2025-12-31,Awareness,Fresh Botanics,38058.71
+1530,BTN_UK_INFL_2025Q4,Botaniq — UK — Influencer — 2025 Q4,8,5,2,2025-10-01,2025-12-31,Consideration,Glow Routine,41544.53
+1531,BTN_US_INFL_2025Q4,Botaniq — US — Influencer — 2025 Q4,8,5,3,2025-10-01,2025-12-31,Awareness,Fresh Botanics,48023.12
+1532,BTN_DE_INFL_2025Q4,Botaniq — DE — Influencer — 2025 Q4,8,5,4,2025-10-01,2025-12-31,Awareness,Glow Routine,47380.82
+1533,BTN_FR_RET_MED_2025Q4,Botaniq — FR — Retail Media — 2025 Q4,8,6,1,2025-10-01,2025-12-31,Conversion,Night Ritual,58536.67
+1534,BTN_UK_RET_MED_2025Q4,Botaniq — UK — Retail Media — 2025 Q4,8,6,2,2025-10-01,2025-12-31,Sales,Bold Color,56513.82
+1535,BTN_US_RET_MED_2025Q4,Botaniq — US — Retail Media — 2025 Q4,8,6,3,2025-10-01,2025-12-31,Conversion,Silk Repair,67366.98
+1536,BTN_DE_RET_MED_2025Q4,Botaniq — DE — Retail Media — 2025 Q4,8,6,4,2025-10-01,2025-12-31,Conversion,Cinematic Launch,67782.64

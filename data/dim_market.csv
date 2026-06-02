@@ -1,0 +1,5 @@
+market_key,market_code,market_name,currency_code,fx_to_eur,region
+1,FR,France,EUR,1.0,EU
+2,UK,United Kingdom,GBP,1.17,EU
+3,US,United States,USD,0.92,NA
+4,DE,Germany,EUR,1.0,EU

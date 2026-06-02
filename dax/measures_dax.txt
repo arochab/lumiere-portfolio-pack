@@ -1,0 +1,134 @@
+-- =========================
+-- TABLE: _Measures (create an empty table for measures)
+-- =========================
+
+-- 📁 _Core KPIs
+Total Media Spend (€) =
+SUM ( fact_media_spend_daily[spend_eur] )
+
+Total Revenue (€) =
+SUM ( fact_sales_daily[revenue_eur] )
+
+Total Units =
+SUM ( fact_sales_daily[units] )
+
+Total Margin (€) =
+SUM ( fact_sales_daily[margin_eur] )
+
+Margin % =
+DIVIDE ( [Total Margin (€)], [Total Revenue (€)] )
+
+Blended ROAS (Revenue/Spend) =
+DIVIDE ( [Total Revenue (€)], [Total Media Spend (€)] )
+
+-- 📁 _Time Intelligence (requires dim_date marked as Date table on [full_date])
+Revenue MTD =
+CALCULATE ( [Total Revenue (€)], DATESMTD ( dim_date[full_date] ) )
+
+Revenue YTD =
+CALCULATE ( [Total Revenue (€)], DATESYTD ( dim_date[full_date] ) )
+
+Revenue YoY =
+CALCULATE ( [Total Revenue (€)], SAMEPERIODLASTYEAR ( dim_date[full_date] ) )
+
+Revenue YoY % =
+VAR Prev = [Revenue YoY]
+RETURN DIVIDE ( [Total Revenue (€)] - Prev, Prev )
+
+Spend YoY =
+CALCULATE ( [Total Media Spend (€)], SAMEPERIODLASTYEAR ( dim_date[full_date] ) )
+
+Spend YoY % =
+VAR Prev = [Spend YoY]
+RETURN DIVIDE ( [Total Media Spend (€)] - Prev, Prev )
+
+-- 📁 _MMM (Monthly)
+MMM Incremental Revenue (€) =
+SUM ( fact_mmm_output_monthly[mmm_incremental_revenue_eur] )
+
+MMM ROAS =
+AVERAGEX (
+    VALUES ( fact_mmm_output_monthly[channel_key] ),
+    AVERAGE ( fact_mmm_output_monthly[mmm_roas] )
+)
+
+MMM Contribution % (of Revenue) =
+DIVIDE ( [MMM Incremental Revenue (€)], [Total Revenue (€)] )
+
+Optimal Spend (€) =
+SUM ( fact_mmm_output_monthly[optimal_spend_eur] )
+
+Optimal Spend Gap (€) =
+[Optimal Spend (€)] - [Total Media Spend (€)]
+
+Marginal ROAS =
+AVERAGE ( fact_mmm_output_monthly[marginal_roas] )
+
+Saturation Index =
+AVERAGE ( fact_mmm_output_monthly[saturation_index] )
+
+-- 📁 _Brand Equity (Monthly)
+Awareness Index =
+AVERAGE ( fact_brand_equity_monthly[awareness_index] )
+
+Consideration Index =
+AVERAGE ( fact_brand_equity_monthly[consideration_index] )
+
+Sentiment Index =
+AVERAGE ( fact_brand_equity_monthly[sentiment_index] )
+
+Share of Voice =
+AVERAGE ( fact_brand_equity_monthly[share_of_voice] )
+
+NPS =
+AVERAGE ( fact_brand_equity_monthly[nps] )
+
+-- 📁 _Targets (Monthly)
+Target Revenue (€) =
+SUM ( dim_kpi_target[target_revenue_eur] )
+
+Target ROAS =
+AVERAGE ( dim_kpi_target[target_blended_roas] )
+
+Revenue vs Target (€) =
+[Total Revenue (€)] - [Target Revenue (€)]
+
+Revenue vs Target % =
+DIVIDE ( [Revenue vs Target (€)], [Target Revenue (€)] )
+
+ROAS vs Target =
+[Blended ROAS (Revenue/Spend)] - [Target ROAS]
+
+-- 📁 _RAG helpers
+RAG Revenue =
+VAR pct = [Revenue vs Target %]
+RETURN
+SWITCH ( TRUE(),
+    ISBLANK(pct), "—",
+    pct >= 0.03, "🟢 Above target",
+    pct >= -0.03, "🟠 Near target",
+    "🔴 Below target"
+)
+
+RAG ROAS =
+VAR d = [ROAS vs Target]
+RETURN
+SWITCH ( TRUE(),
+    ISBLANK(d), "—",
+    d >= 0.15, "🟢 Strong",
+    d >= -0.15, "🟠 Monitor",
+    "🔴 Weak"
+)
+
+-- 📁 _Dynamic Titles
+Title — Executive Overview =
+"Executive Overview — " &
+COALESCE( SELECTEDVALUE(dim_market[market_name]), "All Markets" ) &
+" — " &
+COALESCE( SELECTEDVALUE(dim_brand[brand_name]), "All Brands" )
+
+Title — Channel Performance =
+"Channel Performance — " &
+COALESCE( SELECTEDVALUE(dim_market[market_name]), "All Markets" ) &
+" — " &
+COALESCE( SELECTEDVALUE(dim_brand[brand_name]), "All Brands" )
