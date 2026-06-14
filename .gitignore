@@ -1,0 +1,27 @@
+# ── OS / éditeurs ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# ── Secrets — ne jamais committer ───────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ── Artefacts / livrables packagés ──────────────────────────
+*.zip
+*.log
+
+# ── Copie imbriquée historique (le repo vit à la racine) ────
+# Le contenu canonique est à la racine : data/ dax/ docs/ site/ theme/.
+# L'ancien dossier imbriqué est une copie redondante, non versionnée.
+LUMIERE_PORTFOLIO_PACK/
+
+# ── Exports Power BI volumineux (placés localement) ─────────
+exports/screenshots/
+*.pbix
